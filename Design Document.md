@@ -111,7 +111,7 @@ Westa Tower dulunya stasiun radio "Radio Westa" yang menyiarkan berita dan drama
 
 - **Wulan Kertadjaja** — pengelola The Switchboard. Tenang, blak-blakan, dihormati semua faksi karena netralitasnya. Tidak ikut campur isi kontrak, hanya menjamin proses adil.
 - **The Ledger** — bukan orang: sebuah *ledger* (buku besar) yang disemayamkan roh administratif tua peninggalan pra-perang, ditemukan Wulan di gudang menara. The Ledger mengelola **escrow pembayaran** dan **kontrak anonim** (lihat §4.3). Ia bicara lewat tulisan yang muncul sendiri di halamannya, gaya bahasanya formal dan sedikit sarkastik.
-- **Reno "Kabel" Amran** — teknisi menara, mantan hacker independen, sekarang setengah legal menjaga sistem *Signal* Switchboard tetap tak terlacak. Sumber informasi teknis/digital.
+- **Reno "Kabel" Amran** — teknisi menara, mantan hacker independen, sekarang setengah legal menjaga sistem *Signal* Switchboard tetap tak terlacak. Sumber informasi teknis/digital. Dia juga yang secara teknis mem-publish **Signal Feed** (berita publik kota, lihat §3.4 & Discord Setup) — The Ledger yang "mendiktekan" isinya lewat tulisan yang muncul di halamannya, Reno yang mengetik ulang jadi post ke *Signal* karena The Ledger sendiri tidak punya cara langsung akses jaringan digital.
 - **Ibu Tumini** — penjaga kedai kopi di lantai dasar. Tahu segalanya soal gosip jalanan biasa (bukan gosip faksi) karena semua orang lewat kedainya. RP hub paling santai.
 
 ### 3.4 Fasilitas

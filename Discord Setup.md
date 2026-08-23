@@ -15,7 +15,7 @@ Server kamu ("D&D with Malvidra") sudah pakai konvensi **satu category per campa
 |---|---|---|
 | `#welcome-rules` | Pinned rules (§3 di bawah) — setara `#what-to-know` di campaign lain kamu | Tidak (view + react) |
 | `#the-switchboard` | Papan kontrak. Kamu post Mission Card, player **react** buat klaim | Tidak (view + react) |
-| `#signal-feed` | "Berita kota" — update world state publik + Canon Lock summary tiap mission closed | Tidak (view + react) |
+| `#signal-feed` | "Berita kota" — update world state publik + Canon Lock summary tiap mission closed. **Voice in-fiction: The Ledger mendiktekan, Reno yang posting** (dia yang pegang akses *Signal*, Ledger nggak bisa langsung akses jaringan digital) | Tidak (view + react) |
 | `#character-sheets` | Sheet + status Party Tier tiap karakter | Ya |
 | `#old-town-lounge` | RP bebas ala kedai kopi Ibu Tumini — tempat party kebentuk organik | Ya |
 
@@ -307,10 +307,39 @@ Kalau tetap mau post sebagai pesan biasa (bukan embed) dan ternyata kena limit: 
 
 ---
 
+## 6. Signal Feed — Format Post
+
+`#signal-feed` bukan sekadar log OOC "world state berubah" — di-treat sebagai **berita in-fiction** yang warga Kartaloka beneran baca di app *Signal* mereka. Voice-nya: **Reno yang posting, tapi isinya "didiktekan" The Ledger** (§3.3 [[Design Document]]). Format:
+
+```
+📡 **SIGNAL FEED**
+
+[1-3 kalimat berita gaya jurnalistik singkat, in-fiction — TANPA detail yang cuma DM/party tahu]
+
+— dicatat The Ledger, diposting oleh R.A.
+```
+
+**Contoh** (dari Aftermath Mission A kalau party pilih lapor ke Scale Division):
+
+```
+📡 **SIGNAL FEED**
+
+Scale Division membongkar operasi ilegal di sebuah gudang Wavedock dini hari tadi. Belum ada
+keterangan resmi soal sifat operasinya. Warga diimbau melapor bila melihat aktivitas
+mencurigakan di area pergudangan.
+
+— dicatat The Ledger, diposting oleh R.A.
+```
+
+**Kapan post ke sini vs enggak:** cuma post kalau outcome mission itu **masuk akal diketahui publik/media kota** — bukan semua Aftermath Log layak jadi berita (misal kalau party diam-diam kerja sama sama Wave Family, itu jelas TIDAK dipublikasikan). Ini keputusan naratif kamu tiap kali, bukan otomatis.
+
+---
+
 ## Status
 - [x] Struktur channel & role
 - [x] Draft pengumuman pembukaan
 - [x] Pinned rules
 - [x] Character creation — versi Discord (4 pesan siap pin)
 - [x] Announcement reaction-role (Carl-bot) — siap post
+- [x] Signal Feed — format post + voice (Ledger/Reno)
 - [ ] Post beneran ke Discord (manual — bagian kalian)

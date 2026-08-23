@@ -131,6 +131,24 @@ Ini pengganti momen "aku kasih kesempatan mereka explore" di voice. Di text, loo
 
 ---
 
-## 8. Kalau Ragu
+## 8. Checklist Setelah Mission Selesai — Langkah Konkret
+
+Ini pertanyaan yang paling sering bikin bingung pas baru mulai: *"abis mission kelar, aku harus nulis/update apa aja, di mana?"* Berikut urutan konkretnya — ikuti apa adanya buat beberapa mission pertama sampai jadi kebiasaan, biasanya cuma 5-10 menit buat mission kecil kayak starter mission Tier I.
+
+1. **Tulis Aftermath Log di dalam thread mission itu sendiri** — sebagai pesan terakhir sebelum thread di-archive. Format 4 baris (§6.3 [[Design Document]]): *World state changes, NPC status changes, New rumors unlocked, Canon lock*. Contoh konkret ada di [[Starter Missions#Contoh Aftermath Log]]. Ini "sumber kebenaran" mentahnya — semua update di langkah berikutnya tinggal nyalin dari sini, jadi jangan skip langkah ini.
+2. **Update [[Dashboard]]** — buka file itu, cocokkan sama Aftermath Log barusan:
+   - **Tabel World State**: kalau `danger_level` distrik berubah atau ada thread aktif baru, update baris distriknya.
+   - **Tabel Trust Tier**: kalau ada faksi yang naik/turun trust sama fixer yang terlibat, update selnya.
+   - **Tabel Mission Log**: ganti status dari "Belum dimainkan" jadi "Selesai" + 1 baris hasil singkat.
+3. **Putuskan Signal Feed** — apa hasil mission ini masuk akal jadi berita publik kota? Kalau iya, post pakai format §6 [[Discord Setup]] (voice Ledger/Reno). Kalau enggak (misal hasilnya sensitif, atau party diam-diam nego sama pihak tertentu), skip aja — **enggak wajib tiap mission jadi berita**, itu keputusan naratif tiap kali, bukan checklist otomatis.
+4. **Archive thread** — begitu 1-3 di atas dicatat, biarkan thread di-archive (bukan dihapus) di Discord, supaya tetap bisa dirujuk buat Canon Lock kalau ada mission lain yang overlap nanti.
+
+> **Kalau bingung mission ini "layak" masuk World State apa enggak:** patokan simpel — kalau hasilnya bikin distrik/faksi/NPC recurring berubah, itu masuk. Kalau cuma job kecil yang emang didesain "gak berkembang jadi apa-apa" (kayak Piyah Belum Pulang, §8 poin 3 [[Design Document]]), cukup update Mission Log jadi Selesai, gak perlu isi World State/Trust Tier sama sekali.
+
+> **Kalau telat/kelewat nyatet beberapa mission karena capek:** gak apa-apa, catat pas sempat. Dunia gak akan langsung berantakan cuma karena telat semalam — sistemnya sengaja dibuat murah dijalankan (§8 poin 2 [[Design Document]]), bukan sesuatu yang harus sempurna tiap saat.
+
+---
+
+## 9. Kalau Ragu
 
 Semua sistem di [[Design Document]] didesain lulus tes *"DM volunteer capek jam 11 malam bisa jalankan ini?"* (§8 poin 2). Kalau ada momen kamu bingung harus ngapain — pilih opsi yang paling sedikit kerjaannya buat kamu, bukan yang paling "lengkap secara sistem". Sistemnya sengaja dibuat murah buat dijalankan; kalau kamu berasa berat, itu tandanya sesuatu perlu disederhanakan lagi, bukan tandanya kamu salah main.
