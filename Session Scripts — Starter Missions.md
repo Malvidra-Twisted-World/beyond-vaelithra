@@ -79,8 +79,21 @@ Kedua jalur berakhir di alamat yang sama: **Gudang 12**.
 
 ## Part 3: Gudang 12
 
+> **Catatan status faksi:** Silent Tide BUKAN bagian resmi The Wave Family—ini kultus independen. Koneksinya cuma dua: (1) Ibu Ratri dulu kerja jadi pembukuan Wave Family sebelum mendirikan Silent Tide, dan (2) satu oknum Wave Family (Pak Yoso, lihat di bawah) dibayar buat tutup mata soal gudang ini. Jangan biarkan party (atau kamu sendiri) mengira ini "misi lawan Wave Family"—itu cuma satu clue sampingan, bukan inti mission.
+
 > [!readaloud]
-> Gudang 12 tampak seperti gudang lain di Wavedock dari luar—catnya mengelupas, pintu gulungnya berkarat. Tapi begitu kalian mendekat, suara dari dalam terdengar: nyanyian rendah, monoton, seperti orang menghitung dalam bahasa yang tidak kalian kenal.
+> Gudang 12 tampak seperti gudang lain di Wavedock dari luar—catnya mengelupas, pintu gulungnya berkarat. Di dekat pintu masuk, seorang pria berjaket kulit bersandar di tembok, pura-pura sibuk sama rokoknya sambil sesekali melirik ke jalan.
+
+**NPC: Pak Yoso** (oknum The Wave Family, dibayar buat tutup mata—INI cara party bisa nemuin koneksi Wave Family, jangan dilewatkan)
+- **Penampilan:** Santai berlebihan, tato kecil khas Wave Family di pergelangan tangan (DC 10 Investigation/Streetwise buat ngenalin itu simbol Wave Family).
+- **Sikap default:** Coba usir party halus—"Gak ada apa-apa di sini, jalan terus aja." Dia bukan combatant, dan dia gak akan lapor ke Ibu Ratri kecuali situasi jadi ribut.
+- **Kalau didesak (DC 13 Intimidation ATAU Persuasion, atau disuap):** dia ngaku dibayar buat "gak lihat apa-apa" soal gudang ini, tapi beneran gak tahu detail isinya—"Saya cuma dibayar buat jaga jarak orang, itu doang. Urusan dalem bukan urusan saya." Ini titik di mana party pertama kali sadar ada Wave Family di balik layar—simpan buat Part 4 Cabang C.
+- **Kalau party masuk paksa/berisik tanpa ngurus dia dulu:** dia kabur buat lapor internal ke Wave Family (BUKAN ke Ibu Ratri)—konsekuensinya muncul lebih ke arah reputasi Wave Family, bukan bahaya langsung buat mission ini.
+
+Begitu lewat Pak Yoso (atau menghindar diam-diam darinya), party bisa dengar dari dalam:
+
+> [!readaloud]
+> Suara dari dalam gudang terdengar: nyanyian rendah, monoton, seperti orang menghitung dalam bahasa yang tidak kalian kenal.
 >
 > Celah di pintu gulung cukup buat mengintip. Di dalam, belasan orang duduk melingkar mengelilingi sesuatu yang tidak sepenuhnya bisa kalian lihat dari sudut ini—bentuknya berubah tiap kali kalian coba fokus, seperti asap yang punya berat.
 
@@ -99,6 +112,7 @@ Kedua jalur berakhir di alamat yang sama: **Gudang 12**.
 **Balance check (3 karakter Level 3):** 3 Cultist (CR 1/8, 25 XP tiap) + 1 Acolyte reskin buat Ibu Ratri (CR 1/4, 50 XP) = 125 XP dasar. 4 musuh vs party 3 orang (di bawah 3 PC → naikkan 1 tingkat multiplier), jadi pengali x2.5 → **~313 Adjusted XP**. Ini jatuh di antara Easy (225) dan Medium (450) buat party 3 orang level 3 — pas buat combat pembuka Tier I, gak bakal ngancem TPK tapi tetap ada taruhannya karena ada sandera.
 
 **Roster:**
+
 | Musuh | Statblok Dasar | Reskin | Posisi Awal |
 |---|---|---|---|
 | Ibu Ratri | Acolyte (MM) | Bukan pendeta cahaya—narasikan spell-nya sebagai "mantra penyerahan" ke Sang Penagih (Sacred Flame → lecutan energi debt-bound, Bless → nyanyian pasrah, Cure Wounds tetap dipakai sebagai "menstabilkan" pengikutnya) | Pusat lingkaran ritual (E10) |
@@ -200,7 +214,9 @@ Ingat §7 [[Design Document]] — semua cabang ini valid, tidak ada yang "benar"
 
 **C. Diam-diam bekerja sama dengan oknum Wave Family yang melindungi kultus:**
 > [!readaloud]
-> Pak Yoso—orang Wave Family yang selama ini menutup mata soal gudang 12—menemui kalian secara pribadi. "Kalian gak lihat apa-apa di sini, dan saya gak lihat kalian di sini. Ada bagian buat kalian kalau mau kerja sama lebih jauh." Ini bukan tawaran yang bisa dibatalkan begitu saja setelah diterima.
+> Pak Yoso—pria yang tadi kalian temui di luar—masih di tempat yang sama, seolah sudah nunggu. "Jadi gimana? Kalian gak lihat apa-apa di sini, dan saya gak lihat kalian di sini. Ada bagian buat kalian kalau mau kerja sama lebih jauh." Ini bukan tawaran yang bisa dibatalkan begitu saja setelah diterima.
+
+> Kalau party sama sekali gak sempat/gak mau interaksi sama Pak Yoso di Part 3 (langsung nyerbu tanpa ngurus dia dulu), cabang ini otomatis gak tersedia—ganti jadi party cuma nemuin dia udah kabur, dan opsi kerja sama diam-diam hilang begitu aja (konsekuensi wajar dari nggak ngurus dia duluan).
 
 Lanjutkan konsekuensi masing-masing sesuai tabel di [[Starter Missions#Mission A — The Silent Tide]].
 
@@ -210,7 +226,9 @@ Lanjutkan konsekuensi masing-masing sesuai tabel di [[Starter Missions#Mission A
 | Ny. Herawati | Tenang, lelah, tidak berlebihan—jangan buat dia hysteric |
 | Cak Broto | Salesman gugup, over-friendly, menghindar kalau ditekan |
 | Ibu Ratri | Tenang, tidak defensif, benar-benar percaya dia menolong |
-| Pak Yoso (Wave Family) | Transaksional, tidak ada basa-basi, selalu menawarkan "bagian" |
+| Pak Yoso (Wave Family) | Santai/pura-pura cuek di luar, transaksional begitu ketahuan—selalu menawarkan "bagian" |
+
+**Ingat:** Silent Tide sendiri bukan cabang Wave Family—cuma Ibu Ratri (mantan pembukuan) dan Pak Yoso (dibayar tutup mata) yang jadi titik hubungnya. Kalau party nanya "jadi ini kultusnya Wave Family?", jawabannya jelas: bukan, ini kultus independen yang kebetulan dilindungi.
 
 ---
 

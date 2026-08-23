@@ -135,7 +135,7 @@ Ini pengganti momen "aku kasih kesempatan mereka explore" di voice. Di text, loo
 
 Ini pertanyaan yang paling sering bikin bingung pas baru mulai: *"abis mission kelar, aku harus nulis/update apa aja, di mana?"* Berikut urutan konkretnya — ikuti apa adanya buat beberapa mission pertama sampai jadi kebiasaan, biasanya cuma 5-10 menit buat mission kecil kayak starter mission Tier I.
 
-1. **Tulis Aftermath Log di dalam thread mission itu sendiri** — sebagai pesan terakhir sebelum thread di-archive. Format 4 baris (§6.3 [[Design Document]]): *World state changes, NPC status changes, New rumors unlocked, Canon lock*. Contoh konkret ada di [[Starter Missions#Contoh Aftermath Log]]. Ini "sumber kebenaran" mentahnya — semua update di langkah berikutnya tinggal nyalin dari sini, jadi jangan skip langkah ini.
+1. **Duplicate [[Mission Note Template]], isi jadi session note buat mission ini** — rename filenya, isi frontmatter + section actual-play, terutama **Aftermath Log** (format 4 baris, §6.3 [[Design Document]]: *World state changes, NPC status changes, New rumors unlocked, Canon lock*). Ini "sumber kebenaran" mentahnya — semua update di langkah berikutnya tinggal nyalin dari sini, jadi jangan skip langkah ini. (Opsional: paste juga Aftermath Log-nya sebagai pesan terakhir di thread Discord-nya sebelum archive, biar kebaca langsung tanpa buka Obsidian.)
 2. **Update [[Dashboard]]** — buka file itu, cocokkan sama Aftermath Log barusan:
    - **Tabel World State**: kalau `danger_level` distrik berubah atau ada thread aktif baru, update baris distriknya.
    - **Tabel Trust Tier**: kalau ada faksi yang naik/turun trust sama fixer yang terlibat, update selnya.

@@ -13,6 +13,7 @@ Kota **Kartaloka**, Dewanegara. West Marches-inspired, Async PbP, tier-gated.
 - [[Running Your First PbP]] — panduan praktis buat DM pemula PbP: cara narasi, dice/combat async, ngatur banyak thread, rencana buka minggu pertama, kesalahan umum.
 - [[Session Scripts — Starter Missions]] — versi read-aloud + roleplay beats + NPC dialog siap pakai buat ketiga starter mission, format sama kayak The Witchlight Veil.
 - [[Mission Board Posts]] — versi PUBLIK (tanpa spoiler) dari 3 starter mission, siap post ke `#the-switchboard`.
+- [[Mission Note Template]] — duplicate tiap kali ada mission dimainkan, isi setelah thread selesai (actual-play recap + Aftermath Log).
 
 ## World State Saat Ini
 *(diisi manual seiring campaign berjalan — lihat §6 [[Design Document]] untuk format)*
