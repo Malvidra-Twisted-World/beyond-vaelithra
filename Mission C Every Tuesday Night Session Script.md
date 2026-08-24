@@ -77,18 +77,18 @@ sadar bahwa ia melakukan sihir.
 
 # Pre-Session Checklist
 
--   [ ] Siapkan map utama **The Velvet Séance**.
--   [ ] Siapkan area backstage/storage/service entrance sebagai area
+- [x] Siapkan map utama **The Velvet Séance**. ✅ 2026-08-25
+- [x] Siapkan area backstage/storage/service entrance sebagai area ✅ 2026-08-25
     eksplorasi tambahan.
--   [ ] Siapkan NPC Bu Yanti.
--   [ ] Jangan langsung memberitahu bahwa lingkaran di panggung adalah
+- [x] Siapkan NPC Bu Yanti. ✅ 2026-08-25
+- [x] Jangan langsung memberitahu bahwa lingkaran di panggung adalah ✅ 2026-08-25
     lingkaran pemanggil.
--   [ ] Jangan membuat Bu Yanti mengetahui bahwa ia secara tidak sengaja
+- [x] Jangan membuat Bu Yanti mengetahui bahwa ia secara tidak sengaja ✅ 2026-08-25
     melakukan sihir.
--   [ ] Fenomena supernatural sebaiknya meningkat secara bertahap.
--   [ ] Ingat bahwa fokus mission adalah **investigasi dan pilihan**,
+- [x] Fenomena supernatural sebaiknya meningkat secara bertahap. ✅ 2026-08-25
+- [x] Ingat bahwa fokus mission adalah **investigasi dan pilihan**, ✅ 2026-08-25
     bukan combat wajib.
--   [ ] Siapkan dua resolution path:
+- [x] Siapkan dua resolution path: ✅ 2026-08-25
     -   Laporkan kepada The Script Order.
     -   Bantu Bu Yanti memperbaiki properti secara diam-diam.
 
@@ -182,12 +182,137 @@ pertunjukan.
 tersebut magical. Biarkan pemain menemukan hal itu melalui investigasi.
 
 ------------------------------------------------------------------------
-{
+
 # Part 2: Investigating the Venue
 
 Party tidak harus mengikuti urutan tertentu.
 
 Biarkan mereka memilih area atau orang yang ingin diperiksa.
+
+### Clue Progression — Ritual Circle
+
+> **DM Implementation:** Clue di bawah ini merupakan cara DM
+> menyampaikan informasi secara bertahap. Player tidak harus
+> mendapatkan semua clue melalui satu roll.
+
+#### Tanpa Roll — First Impression
+
+Jika player hanya mengamati panggung dengan teliti:
+
+> [!readaloud]
+> Dari dekat, kalian bisa melihat bahwa garis-garis pada lingkaran
+> tersebut bukan sekadar ornamen. Beberapa bagian membentuk pola
+> geometris yang terlalu presisi untuk dibuat secara asal.
+>
+> Di beberapa titik, lilin-lilin kecil ditempatkan tepat pada bagian
+> tertentu dari pola tersebut.
+
+**Information:**
+- Lingkaran memiliki struktur yang disengaja.
+- Lilin ditempatkan mengikuti pola.
+- Belum diketahui bahwa ini adalah summoning circle.
+
+---
+
+#### Investigation — DC 12
+
+Jika player melakukan pemeriksaan fisik terhadap panggung atau
+lingkaran:
+
+**Success:**
+
+> [!readaloud]
+> Setelah memperhatikan pola tersebut lebih lama, kalian menemukan
+> sesuatu yang terasa tidak pada tempatnya.
+>
+> Beberapa garis tampak seperti pernah digambar ulang, tetapi bagian
+> tertentu justru terlihat jauh lebih tua daripada dekorasi di
+> sekitarnya.
+>
+> Ini bukan sekadar bagian dari panggung. Lingkaran ini sudah berada
+> di sini jauh lebih lama daripada yang seharusnya.
+
+**Information:**
+- Lingkaran bukan dekorasi biasa.
+- Ada bagian lama yang telah tertutup atau disamarkan.
+- Properti kemungkinan sudah digunakan dalam waktu lama.
+
+**Failure:**
+
+Player tetap mendapatkan clue dasar:
+
+> Pola tersebut jelas dibuat dengan sengaja, tetapi kalian belum
+> menemukan fungsi sebenarnya.
+
+---
+
+#### Arcana — DC 12
+
+Jika player menggunakan Arcana untuk memahami pola magis:
+
+**Success:**
+
+> [!readaloud]
+> Semakin lama kalian mengamati pola tersebut, semakin familiar
+> bentuknya.
+>
+> Ini bukan susunan simbol biasa.
+>
+> Ada struktur yang menyerupai **lingkaran ritual**, tetapi pola
+> tersebut terlalu lemah dan terlalu bercampur dengan dekorasi untuk
+> langsung menentukan fungsinya.
+
+**Information:**
+- Ada struktur ritual/magis.
+- Energinya sangat lemah.
+- Fungsinya belum dapat dipastikan.
+
+**Failure:**
+
+Player hanya merasakan bahwa ada residu magis tipis pada properti,
+tanpa mengetahui sumber atau fungsi sebenarnya.
+
+---
+
+#### Jika Player Menyentuh Lingkaran
+
+Gunakan scene yang sudah ada:
+
+> [!readaloud]
+> Begitu jari menyentuh permukaan properti itu, hawa dingin tipis
+> menjalar dari ujung jari.
+>
+> Hanya sesaat.
+>
+> Ketika kalian menarik tangan, sensasi itu sudah menghilang.
+>
+> Tapi kalian yakin satu hal:
+>
+> **ada sesuatu yang masih tersisa di dalam benda ini.**
+
+**Information:**
+- Ada residu energi pada lingkaran.
+- Sensasinya berbeda dari sekadar material biasa.
+
+---
+
+### DM Rule — Jangan Reveal Terlalu Cepat
+
+Pada tahap ini **jangan menyebut "summoning circle"**, kecuali
+investigasi magis mereka sudah cukup untuk mencapai Part 4:
+**The Circle Revealed**.
+
+Urutan informasi yang diinginkan:
+
+**Bukan dekorasi biasa**
+→ **memiliki struktur ritual**
+→ **mengandung residu magis**
+→ **sudah digunakan cukup lama**
+→ **memiliki fungsi pemanggilan**
+→ **sesuatu telah tertarik ke dalamnya**
+
+Kegagalan satu roll tidak menghentikan investigasi. Gunakan
+**fail-forward** dan berikan informasi yang lebih dangkal.
 
 ## Jalur A --- Mengamati Panggung
 
@@ -460,6 +585,162 @@ Bisa digunakan jika party ingin memeriksa akses belakang venue.
 > **DM Note:** Tidak semua area harus digunakan. Map adalah ruang
 > eksplorasi, bukan daftar checkpoint yang wajib dikunjungi.
 
+### Supernatural Escalation
+
+> **DM Implementation:** Fenomena supernatural tidak muncul sekaligus.
+> Gunakan escalation ini untuk membangun suasana sebelum Part 5:
+> **The Spirit**.
+
+#### Stage 1 — Subtle
+
+Gunakan ketika party baru mulai menyelidiki venue.
+
+- Suhu terasa sedikit lebih dingin di sekitar panggung.
+- Api lilin dapat bergerak tanpa sumber angin yang jelas.
+- Beberapa properti ditemukan bergeser sedikit dari posisi sebelumnya.
+
+**Do not announce this as supernatural.**
+
+Biarkan player sendiri yang memutuskan apakah mereka menganggapnya
+aneh atau kebetulan.
+
+---
+
+#### Stage 2 — Noticeable
+
+Gunakan setelah party menemukan beberapa clue tentang lingkaran.
+
+- Terdengar suara samar dari balik panggung ketika tidak ada orang di sana.
+- Salah satu properti dapat berpindah sedikit ketika tidak sedang
+  diperhatikan.
+- Sensasi dingin di sekitar lingkaran menjadi lebih jelas.
+
+Jika player sedang berada di dekat panggung:
+
+> [!readaloud]
+> Dari arah panggung terdengar suara kecil.
+>
+> Seperti seseorang baru saja berbisik.
+>
+> Namun ketika kalian menoleh, tidak ada siapa-siapa.
+
+---
+
+#### Stage 3 — Unmistakable
+
+Gunakan setelah party mulai memahami bahwa ada energi magis pada
+properti.
+
+> [!readaloud]
+> Salah satu lilin di dekat panggung tiba-tiba berkedip.
+>
+> Api itu tidak padam.
+>
+> Justru bergerak ke satu arah yang sama, seolah tertarik menuju
+> pusat lingkaran.
+>
+> Beberapa detik kemudian, semuanya kembali normal.
+
+Pada titik ini party seharusnya mulai memahami bahwa kejadian tersebut
+sulit dijelaskan sebagai sabotase biasa.
+
+---
+
+#### Stage 4 — Manifestation
+
+Gunakan ketika party telah melakukan investigasi yang cukup atau mulai
+berinteraksi langsung dengan lingkaran.
+
+Masuk ke:
+
+**Part 5: The Spirit**
+
+> [!readaloud]
+> Suara musik dari ruang utama tiba-tiba berhenti.
+>
+> Untuk beberapa detik, seluruh ruangan menjadi terlalu sunyi.
+>
+> Kemudian terdengar suara lain.
+>
+> Bukan dari panggung.
+>
+> Bukan dari penonton.
+>
+> Bukan dari siapa pun yang ada di ruangan.
+>
+> Sebuah bisikan kecil terdengar dari dekat lingkaran.
+>
+> Dan salah satu lilin di sekitarnya padam.
+>
+> Lingkaran itu bergetar halus.
+>
+> **Sesuatu di dalamnya sedang mencoba keluar.**
+
+### DM Rule
+
+Jangan gunakan seluruh stage escalation secara otomatis.
+
+Pilih stage berdasarkan tindakan player.
+
+Jika player menemukan supernatural truth dengan cepat, escalation dapat
+langsung naik.
+
+Jika player masih melakukan investigasi biasa, tahan escalation pada
+Stage 1 atau Stage 2.
+
+Tujuannya adalah membuat fenomena terasa **semakin sulit diabaikan**,
+bukan memaksa player mengikuti urutan scene tertentu.
+
+### Combat Contingency
+
+> **DM Implementation:** Combat bukan resolution wajib dalam Mission C.
+> Namun, jika spirit menjadi hostile atau party memilih menyelesaikan
+> manifestasi secara agresif, gunakan statblock berikut.
+
+#### Primary Statblock — Specter
+
+**Use:** Default statblock untuk roh yang telah termanifestasi.
+
+Gunakan statblock **Specter** dari D&D 5e.
+
+**Recommended presentation:**
+- Jangan langsung menyebut nama creature kepada player.
+- Deskripsikan sebagai manifestasi roh kecil yang tidak stabil.
+- Hindari menggambarkan spirit sebagai undead monster sejak awal.
+- Spirit tetap dapat mencoba kabur atau mempertahankan lingkaran
+  daripada bertarung sampai mati.
+
+#### Combat Trigger
+
+Combat hanya dimulai jika:
+
+- Spirit menjadi hostile terhadap party.
+- Party menyerang atau mencoba menghancurkan spirit secara paksa.
+- Party melakukan tindakan yang menyebabkan manifestasi kehilangan
+  kendali.
+- DM menentukan bahwa manifestasi sudah tidak dapat berkomunikasi
+  atau melarikan diri.
+
+#### Non-Combat Resolution
+
+Party tetap dapat menyelesaikan situasi tanpa combat dengan:
+
+- Menstabilkan atau menonaktifkan lingkaran.
+- Melepaskan spirit dari ikatannya.
+- Menemukan cara untuk menghentikan pemanggilan.
+- Menggunakan pendekatan sosial atau magical yang sesuai.
+
+#### DM Note
+
+Spirit tidak harus mati agar Mission C berhasil.
+
+Objective utama adalah menyelesaikan masalah pada lingkaran dan
+menentukan nasib spirit.
+
+Jika spirit dikalahkan dalam combat, perlakukan itu sebagai salah satu
+cara menyelesaikan manifestasi, tetapi tetap jalankan konsekuensi dari
+resolution path yang dipilih party.
+
 ------------------------------------------------------------------------
 
 # Investigation Clue Summary
@@ -493,7 +774,162 @@ menarik roh selama berbulan-bulan. - Ikatan roh mulai melemah.
 percaya pada tuduhan supernatural tanpa bukti. - Tidak berniat
 mencelakai siapa pun.
 
+### Bu Yanti — Knowledge Guardrail
+
+> **DM Implementation:** Bu Yanti tidak mengetahui bahwa properti
+> panggung memiliki fungsi magis. Ia benar-benar menganggap lingkaran
+> tersebut sebagai bagian dari dekorasi pertunjukan.
+
+#### Jika ditanya: "Siapa yang membuat lingkaran ini?"
+
+> "Itu sudah ada sejak saya mengambil alih tempat ini. Saya kira
+> memang bagian dari konsep panggung."
+
+#### Jika ditanya: "Ibu tahu ini lingkaran sihir?"
+
+> "Lingkaran sihir? Jangan bercanda. Itu dekorasi panggung."
+
+Jika player menunjukkan bukti bahwa terdapat energi magis:
+
+> "Kalau memang ada sesuatu yang aneh di situ, saya juga baru tahu.
+> Saya tidak pernah memasang apa pun untuk memanggil... sesuatu."
+
+#### Jika ditanya kapan properti tersebut mulai digunakan
+
+> "Sudah cukup lama. Saya bahkan tidak ingat siapa yang pertama kali
+> memasangnya."
+
+#### Jika ditanya apakah ia pernah melakukan ritual
+
+> "Tidak. Saya mengelola tempat hiburan, bukan perkumpulan penyihir."
+
+#### Jika player menuduh Bu Yanti sebagai penyebab
+
+> Bu Yanti terlihat tersinggung dan defensif.
+
+> "Saya tidak tahu apa yang kalian lihat, tapi saya tidak pernah
+> bermaksud melakukan apa pun terhadap siapa pun. Kalau benda itu
+> memang punya fungsi lain, saya sama sekali tidak tahu."
+
+### Hard Boundary
+
+Bu Yanti **tidak boleh secara sukarela mengatakan:**
+
+- "Ini summoning circle."
+- "Saya memanggil roh."
+- "Ada roh yang terikat."
+- "Ritualnya melemah."
+- "Setiap Selasa saya melakukan ritual."
+
+Semua informasi tersebut harus ditemukan player melalui investigasi
+atau perkembangan supernatural mission.
+
 ------------------------------------------------------------------------
+
+# Part 6: The Choice
+
+Setelah sumber masalah diketahui dan kondisi lingkaran mulai
+tidak stabil, party harus menentukan bagaimana mereka akan menangani
+situasi tersebut.
+
+Tidak ada satu resolution yang dianggap sebagai "jawaban benar".
+
+---
+
+## Option A — Report to The Script Order
+
+Party membawa bukti supernatural kepada **The Script Order**.
+
+### Resolution
+
+The Script Order mengambil alih penanganan properti tersebut.
+
+### Consequence
+
+- Properti disita sebagai praktik sihir tak berlisensi.
+- Ritual dihentikan.
+- Bu Yanti kehilangan properti yang menjadi bagian dari
+  pertunjukannya.
+- Bu Yanti kecewa terhadap hasil tersebut.
+- Party mendapatkan peningkatan **Trust Tier dengan The Script Order**.
+
+### DM Note
+
+Bu Yanti tidak dihukum karena melakukan ritual.
+
+Ia benar-benar tidak mengetahui bahwa properti tersebut memiliki
+fungsi magis.
+
+Jika party memilih jalur ini, konflik utamanya adalah konsekuensi
+administratif dan sosial dari keputusan mereka.
+
+---
+
+## Option B — Help Bu Yanti Fix It Quietly
+
+Party memilih menangani masalah tersebut tanpa melibatkan
+The Script Order.
+
+### Possible Approach
+
+Cara penyelesaiannya dapat disesuaikan dengan kemampuan dan ide
+party.
+
+Contohnya:
+
+- Menonaktifkan bagian tertentu dari lingkaran.
+- Memperbaiki pola ritual.
+- Mengubah properti sehingga tidak lagi berfungsi sebagai
+  summoning circle.
+- Melepaskan atau menstabilkan spirit.
+
+Tidak perlu ada satu skill check atau solusi tunggal yang wajib
+digunakan.
+
+### Resolution
+
+Jika party berhasil menangani sumber masalah:
+
+- Aktivasi lingkaran berhenti.
+- Spirit tidak lagi terikat pada siklus pertunjukan.
+- Bu Yanti puas karena masalahnya selesai.
+- Party mendapatkan goodwill informal dari Bu Yanti.
+- Tidak ada peningkatan faction Trust resmi.
+
+### DM Note
+
+Jika party menemukan solusi yang tidak tercantum di atas tetapi
+masuk akal berdasarkan kemampuan karakter mereka, izinkan solusi
+tersebut bekerja dan sesuaikan konsekuensinya.
+
+---
+
+## Failure / Escalation
+
+Jika party gagal menghentikan masalah atau memilih meninggalkannya:
+
+> [!readaloud]
+> Untuk beberapa saat, tidak terjadi apa-apa.
+>
+> Kemudian lingkaran itu kembali bergetar.
+>
+> Kali ini lebih kuat.
+>
+> Cahaya tipis bergerak di sepanjang garis lingkaran sebelum akhirnya
+> menghilang.
+>
+> Sesuatu masih tertinggal di sana.
+>
+> Dan masalah ini belum benar-benar selesai.
+
+**DM Implementation:**
+
+Mission tidak harus berakhir dengan party wipe atau catastrophic
+event.
+
+Kegagalan dapat menjadi hook untuk perkembangan berikutnya di
+Lantern District, terutama jika fenomena tersebut kembali terjadi
+pada pertunjukan berikutnya.
 
 # Possible Outcomes
 
@@ -569,3 +1005,4 @@ cerita.
 > Mission C tentang menyadari bahwa sebuah tempat hiburan biasa telah
 > menjadi bagian dari ritual yang tidak sengaja, lalu menentukan apa
 > yang harus dilakukan terhadap sesuatu yang sudah terlanjur dipanggil.
+
