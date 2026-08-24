@@ -38,7 +38,7 @@ Tier: I*
 
 -   **Klien:** Bu Yanti, pemilik speakeasy okultisme **The Velvet
     Séance**
--   **Payout:** 100 gold
+-   **Payout:** 100 Escrow
 -   **Risk Level:** Sedang
 -   **Information Level:** Parsial
 -   **Trust Tier dibutuhkan:** ---
@@ -94,46 +94,64 @@ sadar bahwa ia melakukan sihir.
 
 ------------------------------------------------------------------------
 
-# Part 0: Briefing di The Switchboard
+# Part 0: Briefing di Westa Tower
 
-> \[!readaloud\] Sebuah nama baru muncul di papan The Switchboard.
+> [!readaloud]
+> Papan The Switchboard masih dipenuhi berbagai kontrak ketika nama kalian dipanggil untuk sebuah briefing.
 >
-> **EVERY TUESDAY NIGHT**
+> Tidak lama kemudian, kalian diarahkan menuju salah satu ruang kerja di **Westa Tower**, tempat Wulan sudah menunggu dengan sebuah berkas tipis di atas meja.
 >
-> *Occult Investigation --- Lantern District*
+> Ia membuka berkas tersebut dan mendorongnya ke arah kalian.
 >
-> Ketika kalian mengambil lembar kontraknya, detail singkat di bagian
-> bawah menarik perhatian: sebuah speakeasy bernama **The Velvet
-> Séance** membutuhkan bantuan untuk menyelidiki gangguan aneh yang
-> selalu terjadi pada malam Selasa.
+> "Ada satu pekerjaan di Lantern District. Pemilik sebuah speakeasy okultisme meminta bantuan untuk menyelidiki kejadian aneh yang terus berulang di tempatnya."
+>
+> Wulan menunjuk nama yang tertera di bagian atas dokumen.
+>
+> **The Velvet Séance.**
+>
+> "Katanya, setiap Selasa malam selalu ada sesuatu yang terjadi. Properti bergerak sendiri, ada suara tambahan di tengah pertunjukan, dan dia mulai curiga ada orang yang sengaja mengganggu usahanya."
+>
+> Wulan menutup kembali berkas tersebut.
+>
+> "Kalian diminta mencari tahu apa yang sebenarnya terjadi. Kalau memang cuma sabotase, cari pelakunya. Kalau ada sesuatu yang lain..."
+>
+> Ia mengangkat bahu kecil.
+>
+> "...kalian yang tentukan bagaimana menghadapinya."
+>
+> Di bagian bawah kontrak tercantum **Escrow: 100 gold**.
 
 ### Roleplaying Beat
 
-Party bisa membaca kontrak dan mengajukan pertanyaan sebelum berangkat.
+Party dapat bertanya kepada Wulan sebelum berangkat.
 
-Tidak ada informasi supernatural tambahan yang diketahui The Switchboard
-selain apa yang diberikan klien.
+**Yang Wulan tahu:**
+- Klien bernama **Bu Yanti**.
+- Bu Yanti adalah pemilik **The Velvet Séance**.
+- Lokasinya berada di **Lantern District**.
+- Gangguan selalu terjadi pada malam Selasa.
+- Bu Yanti menduga ada sabotase kompetitor.
+- Belum ada bukti konkret mengenai penyebabnya.
+
+Wulan tidak mengetahui bahwa gangguan tersebut benar-benar supernatural.
+
+Setelah briefing selesai, party bebas menuju **Lantern District**.
 
 ------------------------------------------------------------------------
 
-# Part 1: The Velvet Séance
+# # Part 1: Menuju Lantern District
 
-> \[!readaloud\] Dari luar, The Velvet Séance tampak seperti tempat
-> hiburan yang sengaja menyembunyikan dirinya dari jalan utama.
+> [!readaloud]
+> Dari Westa Tower, perjalanan menuju Lantern District membawa kalian menjauh dari pusat pemerintahan dan aktivitas menara.
 >
-> Cahaya hangat menyelinap melalui kaca jendela yang gelap, sementara
-> papan nama kecil di atas pintu hanya menampilkan tulisan:
+> Semakin dekat ke distrik tujuan, suasana kota berubah. Cahaya lampu jalan menjadi lebih hangat, toko-toko kecil mulai memenuhi sisi jalan, dan papan nama berbagai tempat hiburan menyala di antara bangunan yang lebih tua.
+>
+> Setelah mengikuti alamat yang diberikan Wulan, kalian akhirnya menemukan sebuah bangunan dengan papan nama sederhana:
 >
 > **THE VELVET SÉANCE**
 >
-> Begitu kalian masuk, aroma dupa, alkohol, dan lilin bercampur di
-> udara. Ruangan utama dipenuhi meja-meja kecil yang menghadap sebuah
-> panggung.
->
-> Di atas panggung, beberapa properti pertunjukan sudah tersusun rapi.
->
-> Salah satunya adalah sebuah lingkaran dekoratif besar yang tampak
-> seperti bagian dari tata panggung.
+> Cahaya hangat terlihat dari balik jendela, sementara suara musik samar terdengar dari dalam.
+
 
 ## NPC: Bu Yanti
 
@@ -164,7 +182,7 @@ pertunjukan.
 tersebut magical. Biarkan pemain menemukan hal itu melalui investigasi.
 
 ------------------------------------------------------------------------
-
+{
 # Part 2: Investigating the Venue
 
 Party tidak harus mengikuti urutan tertentu.
