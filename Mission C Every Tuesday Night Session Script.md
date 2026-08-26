@@ -70,12 +70,11 @@ Jika bukti supernatural dibawa kepada **The Script Order**, mereka akan tertarik
 - [x] Siapkan dua resolution path. ✅ 2026-08-25
   - Laporkan kepada The Script Order.
   - Bantu Bu Yanti memperbaiki properti secara diam-diam.
- Bisa gitu
 ---
 
 # Part 0: Briefing di Westa Tower
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Papan The Switchboard masih dipenuhi berbagai kontrak ketika nama kalian dipanggil untuk sebuah briefing.
 >
 > Tidak lama kemudian, kalian diarahkan menuju salah satu ruang kerja di **Westa Tower**, tempat Wulan sudah menunggu dengan sebuah berkas tipis di atas meja.
@@ -120,7 +119,7 @@ Setelah briefing selesai, party bebas menuju **Lantern District**.
 
 # Part 1: Menuju Lantern District
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Dari Westa Tower, perjalanan menuju Lantern District membawa kalian menjauh dari pusat pemerintahan dan aktivitas menara.
 >
 > Semakin dekat ke distrik tujuan, suasana kota berubah. Cahaya lampu jalan menjadi lebih hangat, toko-toko kecil mulai memenuhi sisi jalan, dan papan nama berbagai tempat hiburan menyala di antara bangunan yang lebih tua.
@@ -214,7 +213,7 @@ Semua informasi tersebut harus ditemukan player melalui investigasi atau perkemb
 
 Jika player hanya mengamati panggung dengan teliti:
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Dari dekat, kalian bisa melihat bahwa garis-garis pada lingkaran tersebut bukan sekadar ornamen. Beberapa bagian membentuk pola geometris yang terlalu presisi untuk dibuat secara asal.
 >
 > Di beberapa titik, lilin-lilin kecil ditempatkan tepat pada bagian tertentu dari pola tersebut.
@@ -230,7 +229,7 @@ Jika player melakukan pemeriksaan fisik terhadap panggung atau lingkaran:
 
 **Success:**
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Setelah memperhatikan pola tersebut lebih lama, kalian menemukan sesuatu yang terasa tidak pada tempatnya.
 >
 > Beberapa garis tampak seperti pernah digambar ulang, tetapi bagian tertentu justru terlihat jauh lebih tua daripada dekorasi di sekitarnya.
@@ -254,7 +253,7 @@ Jika player menggunakan Arcana untuk memahami pola magis:
 
 **Success:**
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Semakin lama kalian mengamati pola tersebut, semakin familiar bentuknya.
 >
 > Ini bukan susunan simbol biasa.
@@ -272,7 +271,7 @@ Player hanya merasakan bahwa ada residu magis tipis pada properti, tanpa mengeta
 
 ### Jika Player Menyentuh Lingkaran
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Begitu jari menyentuh permukaan properti itu, hawa dingin tipis menjalar dari ujung jari.
 >
 > Hanya sesaat.
@@ -305,7 +304,7 @@ Tidak ada performer yang memahami penyebabnya.
 
 ## Jalur D — Memeriksa Backstage
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Di balik tirai panggung, suasananya jauh lebih sempit.
 >
 > Kotak-kotak properti ditumpuk di sepanjang dinding, beberapa masih menyimpan perlengkapan pertunjukan lama.
@@ -355,7 +354,7 @@ Kegagalan satu roll tidak menghentikan investigasi. Gunakan **fail-forward** dan
 
 Setelah party mengumpulkan beberapa clue, berikan kesempatan bagi mereka untuk menyusun pola.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Semakin banyak potongan informasi yang kalian kumpulkan, semakin sulit menyebut semuanya sebagai kebetulan.
 >
 > Suara.
@@ -402,7 +401,7 @@ Gunakan setelah party menemukan beberapa clue tentang lingkaran.
 
 Jika player sedang berada di dekat panggung:
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Dari arah panggung terdengar suara kecil.
 >
 > Seperti seseorang baru saja berbisik.
@@ -413,7 +412,7 @@ Jika player sedang berada di dekat panggung:
 
 Gunakan setelah party mulai memahami bahwa ada energi magis pada properti.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Salah satu lilin di dekat panggung tiba-tiba berkedip.
 >
 > Api itu tidak padam.
@@ -448,7 +447,7 @@ Tujuannya adalah membuat fenomena terasa **semakin sulit diabaikan**, bukan mema
 
 Ketika party melakukan investigasi magis yang cukup dalam:
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Dari sudut tertentu, pola dekoratif itu berubah menjadi sesuatu yang sama sekali berbeda.
 >
 > Garis yang sebelumnya tampak acak mulai membentuk struktur yang jelas.
@@ -477,7 +476,7 @@ Party dapat menyimpulkan:
 
 Saat party memeriksa lingkaran lebih jauh, atau ketika mereka mencoba menonaktifkannya:
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Suara musik dari ruang utama tiba-tiba berhenti.
 >
 > Untuk beberapa detik, seluruh ruangan menjadi terlalu sunyi.
@@ -624,7 +623,7 @@ Jika party menemukan solusi yang tidak tercantum di atas tetapi masuk akal berda
 
 Jika party gagal menghentikan masalah atau memilih meninggalkannya:
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Untuk beberapa saat, tidak terjadi apa-apa.
 >
 > Kemudian lingkaran itu kembali bergetar.

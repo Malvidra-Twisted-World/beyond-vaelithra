@@ -1,20 +1,19 @@
+The Meadows's Guardian,
 
-The Tunnels Mysteries,
+A powerful guardian has taken up residence in the Meadows. It is up to the adventurers to find the guardian and put an end to the half-fiend warlords's evil plans.
 
-Strange things are happening in the Tunnels. You must investigate and uncover the truth behind the mysteries.
+The hiveminds's Ambition,
 
-The Kidnapped Treetops Princess,
+The hiveminds has set his sights on the Heath. It is up to the adventurers to stop the hiveminds and save the Heath from destruction.
 
-The princess of the Treetops kingdom has been kidnapped by elf maidens. You must journey to their hideout and rescue her.
+The Search for the Falls,
 
-The Mountains Escape,
+The Falls has been lost for centuries. It is up to the adventurers to search the Falls and uncover its secrets.
 
-You have been captured by woodland witches in the Mountains. You must escape before it is too late.
+The Sea Thief,
 
-The naga sorcerers's Lair,
+A thief has stolen something valuable from the Sea. You must find them before they can escape with it.
 
-The naga sorcerers has taken refuge in a hidden lair deep in the Pond. It is up to the adventurers to find the lair and put an end to the naga sorcerers's reign of terror.
+The celestial tyrants Discovery,
 
-The Marsh's Secret,
-
-The Marsh holds a secret that could change the world. It is up to the adventurers to find the secret and protect it from the sorcerous league.
+Strange things are happening in the  Mountains. You must investigate and uncover the truth behind them.

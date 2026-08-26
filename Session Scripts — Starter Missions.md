@@ -27,7 +27,7 @@ Ini versi "siap baca/paste" dari tiga [[Starter Missions|Starter Missions]] — 
 
 ## Part 0: Wulan Menyetujui Kontrak
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Wulan menutup buku catatan di mejanya dan menatap kalian sejenak sebelum mengangguk pelan.
 >
 > "Ny. Herawati datang tiga hari lalu. Duduk di kursi itu—" ia menunjuk kursi kosong di depan meja The Ledger, "—selama satu jam penuh sebelum bisa cerita. Suaminya hilang. Bukan kasus besar buat kota ini, tapi besar buat dia."
@@ -40,7 +40,7 @@ Ini versi "siap baca/paste" dari tiga [[Starter Missions|Starter Missions]] — 
 
 ## Part 1: Rumah Ny. Herawati
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Rumah petak sederhana di gang sempit dekat Wavedock, jaraknya cuma lima menit jalan kaki dari suara deru mesin kapal. Ny. Herawati membuka pintu sebelum kalian mengetuk—seperti sudah menunggu dari jendela sejak tadi.
 >
 > Matanya bengkak, tapi suaranya tenang saat mempersilakan kalian duduk. Di meja, secangkir kopi yang sudah dingin—jelas bukan buat diminum, cuma buat ada kesibukan tangan.
@@ -62,7 +62,7 @@ Ini versi "siap baca/paste" dari tiga [[Starter Missions|Starter Missions]] — 
 Party punya beberapa jalur investigasi — biarkan mereka pilih sendiri, tidak perlu linear.
 
 **Jalur A — Tanya-tanya di sekitar dermaga (Investigation/Streetwise, DC 12):**
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Buruh-buruh di dermaga awalnya enggan bicara, tapi satu nama muncul berulang kali dari mulut-mulut yang berbisik: **Cak Broto**. "Orang yang bisa 'selesain' utang," kata salah satu dari mereka sambil buru-buru pergi. "Tapi jangan aneh-aneh kalau ditemuin dia."
 
 **NPC: Cak Broto** (rentenir, kaki tangan Silent Tide, TIDAK sadar sepenuhnya apa yang terjadi ke "klien" yang dia rujuk)
@@ -71,7 +71,7 @@ Party punya beberapa jalur investigasi — biarkan mereka pilih sendiri, tidak p
 - **Kalau ditekan (DC 13 Intimidation ATAU DC 15 Insight buat sadar dia berbohong sebagian):** dia kasih alamat gudang 12, tapi buru-buru pergi setelahnya. Dia sendiri tidak pernah masuk ke sana.
 
 **Jalur B — Geledah barang Pak Slamet di rumah (Investigation, DC 10):**
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Di bawah tumpukan baju kerja, kalian temukan secarik kertas kumal—alamat gudang bernomor 12, ditulis buru-buru, dan sebuah simbol kecil: lingkaran dengan tiga garis melengkung di dalamnya, seperti ombak yang diam.
 
 Kedua jalur berakhir di alamat yang sama: **Gudang 12**.
@@ -82,7 +82,7 @@ Kedua jalur berakhir di alamat yang sama: **Gudang 12**.
 
 > **Catatan status faksi:** Silent Tide BUKAN bagian resmi The Wave Family—ini kultus independen. Koneksinya cuma dua: (1) Ibu Ratri dulu kerja jadi pembukuan Wave Family sebelum mendirikan Silent Tide, dan (2) satu oknum Wave Family (Pak Yoso, lihat di bawah) dibayar buat tutup mata soal gudang ini. Jangan biarkan party (atau kamu sendiri) mengira ini "misi lawan Wave Family"—itu cuma satu clue sampingan, bukan inti mission.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Gudang 12 tampak seperti gudang lain di Wavedock dari luar—catnya mengelupas, pintu gulungnya berkarat. Di dekat pintu masuk, seorang pria berjaket kulit bersandar di tembok, pura-pura sibuk sama rokoknya sambil sesekali melirik ke jalan.
 
 **NPC: Pak Yoso** (oknum The Wave Family, dibayar buat tutup mata—INI cara party bisa nemuin koneksi Wave Family, jangan dilewatkan)
@@ -93,7 +93,7 @@ Kedua jalur berakhir di alamat yang sama: **Gudang 12**.
 
 Begitu lewat Pak Yoso (atau menghindar diam-diam darinya), party bisa dengar dari dalam:
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Suara dari dalam gudang terdengar: nyanyian rendah, monoton, seperti orang menghitung dalam bahasa yang tidak kalian kenal.
 >
 > Celah di pintu gulung cukup buat mengintip. Di dalam, belasan orang duduk melingkar mengelilingi sesuatu yang tidak sepenuhnya bisa kalian lihat dari sudut ini—bentuknya berubah tiap kali kalian coba fokus, seperti asap yang punya berat.
@@ -206,15 +206,15 @@ Sources:
 Ingat §7 [[Design Document]] — semua cabang ini valid, tidak ada yang "benar":
 
 **A. Hancurkan kultus:**
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Dengan Ibu Ratri kalah dan lingkaran kultus buyar, suara nyanyian tadi berhenti mendadak—seperti radio dimatikan di tengah lagu. Di ruang belakang, kalian temukan Pak Slamet dan tiga orang lain, lemas tapi hidup, bingung kenapa mereka ada di sana.
 
 **B. Laporkan ke Scale Division sebelum bertindak sendiri:**
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Butuh waktu buat Scale Division memproses laporan kalian—bukan karena mereka tidak percaya, tapi karena birokrasi. Saat mereka akhirnya bergerak ke gudang 12, tempat itu sudah kosong. Ibu Ratri dan sisa pengikutnya sudah pergi, meninggalkan hanya bau dupa yang belum sepenuhnya hilang.
 
 **C. Diam-diam bekerja sama dengan oknum Wave Family yang melindungi kultus:**
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Pak Yoso—pria yang tadi kalian temui di luar—masih di tempat yang sama, seolah sudah nunggu. "Jadi gimana? Kalian gak lihat apa-apa di sini, dan saya gak lihat kalian di sini. Ada bagian buat kalian kalau mau kerja sama lebih jauh." Ini bukan tawaran yang bisa dibatalkan begitu saja setelah diterima.
 
 > Kalau party sama sekali gak sempat/gak mau interaksi sama Pak Yoso di Part 3 (langsung nyerbu tanpa ngurus dia dulu), cabang ini otomatis gak tersedia—ganti jadi party cuma nemuin dia udah kabur, dan opsi kerja sama diam-diam hilang begitu aja (konsekuensi wajar dari nggak ngurus dia duluan).
@@ -242,7 +242,7 @@ Mission ini sengaja pendek—jangan diperpanjang jadi punya twist. Fungsinya jus
 
 ## Part 1: Bertemu Pak Darto
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Pak Darto duduk di kursi kayu depan rumahnya, memegang tali kekang kosong seperti berharap ujung satunya masih terikat ke sesuatu. Begitu melihat kalian, wajahnya sedikit cerah.
 >
 > "Piyah—anjing saya. Kabur dari pagar yang jebol tiga hari lalu. Saya sudah cari sendiri sampai kaki pegal, tapi mata tua ini sudah gak setajam dulu."
@@ -253,14 +253,14 @@ Mission ini sengaja pendek—jangan diperpanjang jadi punya twist. Fungsinya jus
 
 ## Part 2: Pencarian
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Jejak kecil menuntun kalian dua blok dari rumah Pak Darto, ke sebuah gudang kosong yang pintunya sedikit terbuka. Dari dalam, terdengar suara gonggongan kecil yang gemetar.
 
 **DC 10 Investigation/Animal Handling** buat menenangkan Piyah tanpa membuatnya lebih takut (kembang api warga semalam yang bikin dia kabur ke sana). Kalau gagal, tidak apa—cukup butuh waktu lebih lama, tidak ada bahaya nyata.
 
 ## Part 3: Resolusi
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Piyah menyodok hidungnya ke tangan Pak Darto begitu kalian mengantarnya pulang. Untuk sesaat, satu-satunya suara adalah ekor yang mengibas ke lantai kayu dan Pak Darto yang tertawa kecil—suara yang mungkin belum keluar dari mulutnya sejak istrinya meninggal tahun lalu (detail opsional, boleh dipakai buat sentuhan personal atau dilewati).
 
 Selesai. Bayar party, tidak perlu follow-up.
@@ -274,7 +274,7 @@ Selesai. Bayar party, tidak perlu follow-up.
 
 ## Part 1: The Velvet Séance
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > The Velvet Séance tersembunyi di balik pintu tanpa tanda di gang belakang Lantern District, hanya bisa ditemukan kalau tahu harus cari apa—ketukan pola tiga-dua di pintu besi, dan seorang penjaga akan membukanya tanpa bertanya.
 >
 > Di dalam, ruangan temaram bercahaya lilin, kursi-kursi beludru mengelilingi panggung kecil dengan lingkaran dekoratif dicat di lantainya—rune-rune yang terlihat "cukup meyakinkan" untuk penonton awam.
@@ -287,7 +287,7 @@ Selesai. Bayar party, tidak perlu follow-up.
 ## Part 2: Investigasi Panggung
 
 **DC 12 Investigation/Arcana** buat memeriksa lingkaran dekoratif di panggung:
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Dari dekat, sebagian garis di lingkaran "dekoratif" itu ternyata presisi—terlalu presisi untuk sekadar cat properti. Beberapa simbol familiar bagi siapa pun yang pernah belajar dasar summoning, walau tercampur sembarangan dengan simbol-simbol dekoratif yang memang cuma hiasan.
 
 **Kalau party tanya staf/aktor (DC 10 Insight):** salah satu aktor mengaku, "Aku selalu ngerasa dingin pas berdiri di tengah lingkaran itu pas pertunjukan. Kirain cuma AC."
@@ -296,7 +296,7 @@ Selesai. Bayar party, tidak perlu follow-up.
 
 ## Part 3: Resolusi
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Begitu kalian menyentuh titik pusat lingkaran, udara di sekitar kalian terasa berat sesaat—seperti sesuatu menyadari ia diperhatikan. Lalu, tekanan itu mereda. Entah kalian berhasil menetralisirnya, atau berhasil membuatnya "kembali tidur" untuk sementara.
 
 **Pilihan resolusi** (lihat detail konsekuensi di [[Starter Missions#Mission C — Every Tuesday Night]]):
