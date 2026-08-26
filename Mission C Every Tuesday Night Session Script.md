@@ -763,3 +763,13 @@ Bisa digunakan jika party ingin memeriksa akses belakang venue.
 - New rumors unlocked: The Specter yelled out "Xy'lo-" before turned to nothing
 - New mission unlocked: make one for me
 - Canon lock: make one for me
+```
+
+## Party Report
+
+Iggy
+
+No Misi: #358
+Anggota Kelompok: Iggy, Damian Cole, & Kevin Ivanov
+Detail Laporan: 
+> Bu Yanti mengalami gangguan setiap malam Selasa, Kelompok mencoba mencari tahu yang mencurigakan ternyata asalnya dari panggung, kelompok mencoba menganalisa panggung tersebut ada lingkaran sihir, diselidiki lebih lanjut, lingkaran itu adalah sihir untuk menyegel Spectre, karena lingkarannya pudar akibat dekorasi Spectre membuat masalah di Velvet Seance, mencoba untuk memperbaiki lingkaran sihir tapi gagal Spectre lepas. Kelompok hanya bisa melawan dan menang. Untuk menghindari hal yang buruk kelompok membongkar panggung.
