@@ -70,7 +70,7 @@ Jika bukti supernatural dibawa kepada **The Script Order**, mereka akan tertarik
 - [x] Siapkan dua resolution path. ✅ 2026-08-25
   - Laporkan kepada The Script Order.
   - Bantu Bu Yanti memperbaiki properti secara diam-diam.
-TEst
+ Bisa gitu
 ---
 
 # Part 0: Briefing di Westa Tower
