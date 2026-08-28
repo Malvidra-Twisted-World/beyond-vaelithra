@@ -9,7 +9,7 @@
 **Minimum Party Size:** 2  
 **Maximum Party Size:** 5  
 **Trust Tier dibutuhkan:** —  
-**Payout:** 100 gold  
+**Payout:** 100 Escrow  
 **Risk Level:** Sedang  
 **Information Level:** Parsial  
 **Mission Status:** Open  
