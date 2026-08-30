@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Mission D Script"
             }
+          },
+          {
+            "id": "45689b62ebbbcd40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions Structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Factions Structure"
+            }
+          },
+          {
+            "id": "1a1fd9a6d4de6cf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Residents/Xenomisil Darkbright.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Xenomisil Darkbright"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mission D Script.md",
+            "file": "Residents/Xenomisil Darkbright.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,7 +193,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mission D Script.md",
+            "file": "Residents/Xenomisil Darkbright.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -188,14 +216,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "cde53a1052c4b470",
+  "active": "1a1fd9a6d4de6cf3",
   "lastOpenFiles": [
+    "Residents/Joshua Graham.md",
+    "Residents/Xenomisil Darkbright.md",
+    "Government Structure.md",
+    "Factions Structure.md",
+    "Mission D Script.md",
     "Mission B Report.md",
     "Mission C Every Tuesday Night Session Script.md",
     "Tasks Notes.md",
     "Mission A Report.md",
     "Campaign Memory.md",
-    "Mission D Script.md",
     "Mission Expansion Generator Hooks.md",
     "Session Scripts — Starter Missions.md",
     "Factions.md"
