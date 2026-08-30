@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mission C Every Tuesday Night Session Script.md",
+                "file": "Mission D Script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mission C Every Tuesday Night Session Script"
+              "title": "Mission D Script"
             }
           }
         ],
@@ -132,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mission C Every Tuesday Night Session Script.md",
+            "file": "Mission D Script.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mission C Every Tuesday Night Session Script.md",
+            "file": "Mission D Script.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -190,10 +190,14 @@
   },
   "active": "cde53a1052c4b470",
   "lastOpenFiles": [
+    "Mission B Report.md",
+    "Mission C Every Tuesday Night Session Script.md",
+    "Tasks Notes.md",
+    "Mission A Report.md",
+    "Campaign Memory.md",
     "Mission D Script.md",
     "Mission Expansion Generator Hooks.md",
     "Session Scripts — Starter Missions.md",
-    "Mission C Every Tuesday Night Session Script.md",
     "Factions.md"
   ]
 }
