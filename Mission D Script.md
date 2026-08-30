@@ -139,6 +139,479 @@ Ini membawa mereka menuju area servis commuter rail dan akhirnya ke jaringan ter
 
 ---
 
+# Split Party Protocol — Mission D
+
+> **Optional Branch:** Section ini hanya digunakan jika party secara sengaja membagi kelompok saat investigasi commuter rail.
+>
+> Split party bukan kondisi gagal dan tidak boleh diperlakukan sebagai punishment. Kedua kelompok menyelidiki bagian berbeda dari misteri yang sama dan pada akhirnya dapat bertemu kembali di jaringan terowongan.
+
+---
+
+# Split Party Scenario
+
+Mission D memungkinkan party mengambil pendekatan berbeda terhadap pesan:
+
+> **"Jangan turun di stasiun terakhir."**
+
+Jika party memilih untuk berpisah:
+
+**Team A:** Turun di Stasiun Terakhir  
+**Team B:** Turun Satu Stasiun Sebelum Akhir
+
+Kedua route akhirnya mengarah ke jaringan terowongan lama dan bertemu kembali di **OT1 — Old Tunnel Junction**.
+
+> **Important DM Rule**
+>
+> Jangan membuat salah satu route sebagai "jawaban yang benar".
+>
+> Kedua route memberikan informasi berbeda.
+>
+> - **Team A menemukan WHY:** anomali di stasiun terakhir.
+> - **Team B menemukan HOW:** jalur menuju jaringan lama.
+>
+> Informasi tersebut baru menjadi jelas ketika party bertemu kembali.
+
+---
+
+# Scene 1A — Team A: Stasiun Terakhir
+
+Team A memilih turun di stasiun terakhir meskipun pesan memperingatkan mereka untuk tidak melakukannya.
+
+## Opening
+
+Stasiun terlihat normal.
+
+Beberapa penumpang turun.
+
+Petugas masih berada di area platform.
+
+Lampu stasiun masih menyala.
+
+Tidak ada ancaman langsung.
+
+Biarkan pemain menentukan sendiri apa yang ingin mereka lakukan.
+
+## Possible Investigation
+
+Jika party melakukan Investigation, Perception, atau berbicara dengan petugas, berikan informasi sesuai pendekatan mereka.
+
+Possible discoveries:
+
+- Salah satu kamera CCTV platform terakhir mengalami gangguan selama beberapa menit setiap malam.
+- Ada panel komunikasi lama yang sudah tidak digunakan.
+- Terdapat pintu maintenance yang tidak muncul di peta publik.
+- Seorang petugas pernah mendengar suara radio dari area bawah stasiun.
+- Beberapa bagian infrastruktur stasiun masih menggunakan sistem lama Radio Westa.
+
+## Main Discovery
+
+Team A akhirnya dapat mengetahui:
+
+> **Ada aktivitas yang berasal dari bawah stasiun.**
+
+Jangan langsung mengungkap Relay Room.
+
+## Optional Detail
+
+Setelah kereta terakhir meninggalkan stasiun, suasana menjadi jauh lebih sepi.
+
+Jika party menunggu atau mengamati area:
+
+> Lampu indikator pada panel komunikasi tua tiba-tiba menyala.
+
+Terdengar:
+
+> *KRRRKKK...*
+
+Lalu suara yang sangat samar.
+
+> **"...jangan turun..."**
+
+Static kembali.
+
+Panel mati.
+
+## Information Obtained
+
+Team A mengetahui:
+
+- Pesan mungkin berhubungan dengan sistem komunikasi lama.
+- Sumber aktivitas kemungkinan berada di bawah stasiun.
+- Stasiun terakhir bukan sekadar lokasi pesan diterima.
+- Ada sesuatu yang masih aktif di infrastruktur lama.
+
+---
+
+# Scene 1B — Team B: Satu Stasiun Sebelum
+
+Team B memilih mengikuti interpretasi literal pesan:
+
+> "Jangan turun di stasiun terakhir."
+
+Mereka turun satu stasiun sebelum terminal.
+
+Tidak ada kejadian supernatural atau combat langsung.
+
+Stasiun terlihat normal.
+
+## Investigation
+
+Party dapat menemukan:
+
+- Akses maintenance.
+- Pintu servis yang jarang digunakan.
+- Kabel komunikasi tua.
+- Tanda lama Radio Westa.
+- Jalur menuju area servis commuter rail.
+
+Jika party mencari akses yang tidak biasa:
+
+Mereka menemukan sebuah pintu dengan label lama:
+
+> `RADIO WESTA — SERVICE ACCESS`
+
+Pintu terlihat tua.
+
+Namun salah satu komponen penguncinya jauh lebih baru.
+
+## Main Discovery
+
+Jika party berhasil mendapatkan akses:
+
+> **Ada jaringan terowongan lama yang terhubung ke sistem commuter rail.**
+
+Party dapat mengikuti jalur tersebut menuju **OT1**.
+
+## Optional Detail
+
+Sepanjang jalan party dapat menemukan:
+
+- Kabel tua.
+- Kabel baru.
+- Bekas aktivitas manusia.
+- Peti / material maintenance.
+- Tanda bahwa seseorang baru saja melewati area tersebut.
+
+Jika diperiksa lebih lanjut:
+
+> Salah satu kabel baru masih terasa hangat.
+
+## Information Obtained
+
+Team B mengetahui:
+
+- Jaringan Radio Westa lama masih aktif.
+- Seseorang telah memodifikasi infrastrukturnya.
+- Terowongan memiliki koneksi ke area lain.
+- Ada aktivitas baru di dalam jaringan lama.
+
+---
+
+# Scene 2 — Cross-Cut Investigation
+
+Jika kedua team masih berada di lokasi berbeda, gunakan **cross-cut pacing**.
+
+Jangan memainkan satu team sampai selesai sebelum pindah ke team lainnya.
+
+Recommended pacing:
+
+**Team A → 1–2 interaction**
+
+**Team B → 1–2 interaction**
+
+**Team A → 1–2 interaction**
+
+**Team B → 1–2 interaction**
+
+Tujuannya membuat kedua kelompok merasa sedang menyelidiki kejadian yang sama dari sisi berbeda.
+
+## Example
+
+**Team A**
+
+> Panel radio tua tiba-tiba menyala.
+
+**Switch to Team B.**
+
+> Kalian menemukan kabel baru yang disambungkan ke sistem Radio Westa.
+
+**Switch to Team A.**
+
+> Dari speaker terdengar static dan suara yang hampir tidak dapat dimengerti.
+
+**Switch to Team B.**
+
+> Dari balik dinding, kalian mendengar suara radio yang sama.
+
+## DM Note
+
+Tidak perlu membuat kedua team berkomunikasi secara supernatural.
+
+Mereka hanya menerima tanda bahwa kedua lokasi memiliki hubungan.
+
+---
+
+# Scene 3 — Convergence at OT1
+
+Kedua route akhirnya mengarah ke jaringan terowongan yang sama.
+
+**OT1 = Old Tunnel Junction**
+
+Jika Team B masuk melalui Service Access, mereka dapat mencapai OT1 terlebih dahulu.
+
+Jika Team A menemukan akses dari stasiun terakhir, mereka dapat masuk dari jalur lainnya.
+
+Gunakan OT1 sebagai **shared map**.
+
+## Recommended Entry
+
+**Team A**
+
+Stasiun Terakhir  
+↓  
+Station Service Access  
+↓  
+Old Tunnel  
+↓  
+OT1 — Old Tunnel Junction
+
+**Team B**
+
+Satu Stasiun Sebelum  
+↓  
+Service Access  
+↓  
+Old Tunnel  
+↓  
+OT1 — Old Tunnel Junction
+
+> **DM:** Jangan memaksa party langsung bertemu.
+>
+> Berikan mereka kesempatan untuk menyadari bahwa mereka berada di jaringan yang sama.
+
+---
+
+# Scene 4 — Reunion
+
+Ketika kedua team berada cukup dekat, lakukan reunion secara natural.
+
+Contoh:
+
+> Suara langkah kaki terdengar dari lorong sebelah.
+>
+> Kalian berhenti.
+>
+> Dari arah yang berlawanan muncul kelompok lain.
+>
+> Untuk beberapa detik kalian saling menatap.
+>
+> Kalian baru menyadari bahwa kalian ternyata sedang mengikuti jaringan yang sama.
+
+Setelah bertemu, biarkan pemain saling bertukar informasi.
+
+## Expected Information Exchange
+
+**Team A:**
+
+> "Di stasiun terakhir ada panel Radio Westa yang masih aktif."
+
+**Team B:**
+
+> "Kami menemukan jalur servis lama yang terhubung ke jaringan Radio Westa."
+
+**Team A:**
+
+> "Sumber aktivitasnya dari bawah."
+
+**Team B:**
+
+> "Kami menemukan kabel baru menuju lebih dalam."
+
+At this point:
+
+> **The mystery becomes a physical location.**
+
+---
+
+# Scene 5 — Shared Exploration
+
+Setelah reunion, kembali ke alur utama:
+
+**OT1 → Old Tunnel Network → Relay Room**
+
+Gunakan map OT1 sebagai shared exploration map.
+
+Party dapat mengeksplorasi:
+
+- Maintenance Area
+- Junction
+- Old Tunnel
+- Collapsed Tunnel
+- Relay Room
+
+Tidak semua area harus menghasilkan clue.
+
+Beberapa area dapat berfungsi hanya sebagai environmental storytelling.
+
+---
+
+# Information Distribution
+
+| Discovery | Team A | Team B |
+|---|:---:|:---:|
+| Stasiun terakhir memiliki anomali | ✓ | — |
+| Panel Radio Westa | ✓ | — |
+| Aktivitas berasal dari bawah | ✓ | — |
+| Service Access | ✓ | ✓ |
+| Old Tunnel Network | — | ✓ |
+| Kabel modern | — | ✓ |
+| Bukti seseorang baru saja berada di sana | — | ✓ |
+| Relay Room | — | — |
+| Identitas pengguna relay | — | — |
+| Motif pengguna | — | — |
+
+> **Relay Room adalah shared discovery.**
+>
+> Tidak ada team yang mendapatkan jawaban penuh sebelum mereka bertemu.
+
+---
+
+# Scene 6 — Relay Room
+
+Setelah party reunite, lanjutkan ke Relay Room seperti alur utama Mission D.
+
+Party menemukan:
+
+- Radio relay tua.
+- Komponen modern.
+- Kabel baru.
+- Sumber daya tambahan.
+- Catatan teknis singkat.
+- Terminal dengan aktivitas terbaru.
+
+## Critical Information
+
+Party dapat menyimpulkan:
+
+> **Seseorang sedang menggunakan sistem ini.**
+
+Jangan langsung berikan:
+
+- Nama.
+- Faction.
+- Identitas.
+- Motif.
+- Alasan penggunaan jaringan.
+
+Identity tetap menjadi potential future thread.
+
+---
+
+# Split Party Failure Handling
+
+Split party tidak otomatis menyebabkan kegagalan.
+
+Jika salah satu team gagal dalam investigasi:
+
+## Team A Failed
+
+Mereka tidak menemukan akses atau panel komunikasi.
+
+Team B masih dapat menemukan jaringan lama.
+
+## Team B Failed
+
+Mereka tidak menemukan Service Access.
+
+Team A masih dapat menemukan aktivitas dari bawah stasiun.
+
+## Both Failed
+
+Party tetap dapat menemukan sebagian informasi melalui Relay Room jika mereka akhirnya mencapai jaringan terowongan.
+
+Mission tetap dapat berakhir sebagai:
+
+> **Source Found, Motive Unknown**
+
+atau:
+
+> **Source Partially Identified**
+
+Jangan menghukum split party hanya karena mereka memilih pendekatan berbeda.
+
+---
+
+# DM Pacing Rule
+
+Split party meningkatkan beban PbP karena DM harus menangani dua percakapan.
+
+Untuk menjaga pacing:
+
+## Saat Split
+
+Gunakan scene pendek.
+
+Target:
+
+**1–3 meaningful interactions per team.**
+
+Jangan menjalankan full dungeon secara terpisah.
+
+## Saat Convergence
+
+Segera satukan party begitu kedua route telah menghasilkan informasi yang diperlukan.
+
+## Combat
+
+**Recommended:** Jangan gunakan combat besar sebelum reunion.
+
+Jika ada encounter kecil:
+
+- Gunakan environmental hazard.
+- Gunakan low-threat enemy.
+- Atau jadikan encounter sebagai obstacle yang dapat dihindari.
+
+Major encounter sebaiknya terjadi setelah party kembali menjadi satu kelompok.
+
+---
+
+# Canon / World State
+
+Jika party berhasil menggunakan split route:
+
+**Canon Lock:**
+
+> Party menemukan bahwa jaringan Radio Westa lama di bawah Old Town masih aktif dan telah dimodifikasi menggunakan komponen modern. Investigasi dari dua arah mengonfirmasi bahwa seseorang masih menggunakan jaringan tersebut. Identitas dan motif pengguna tetap tidak diketahui.
+
+## Potential Follow-Up
+
+- Identifikasi pengguna relay.
+- Investigasi jalur terowongan lain.
+- Aktivitas penyelundupan.
+- Faction involvement.
+- Infrastructure investigation.
+- Occult interference jika kemudian ditemukan bukti magical involvement.
+
+---
+
+# DM Reminder
+
+The split is a **player-created approach**, not a required mission structure.
+
+If players do not split:
+
+> Gunakan alur utama Mission D.
+
+If players split:
+
+> Gunakan Split Party Protocol.
+
+Both approaches should converge on the same central mystery without invalidating the player's decision.
+
+**Player creativity should reveal more of the world, not trigger a hidden punishment.**
+
+---
+
 # The Old Tunnels
 
 Terowongan lama tidak harus langsung menjadi dungeon.
