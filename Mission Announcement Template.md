@@ -1,6 +1,6 @@
 Ini Contoh
 
-# 🚆 MISSION #143 — THE LAST TRAIN
+# 🚆 MISSION # — THE LAST TRAIN
 
 > *"Jangan turun di stasiun terakhir."*
 
@@ -54,6 +54,4 @@ Investigate the mysterious messages and discover:
 **Party Tier I only**  
 **2–5 Fixers**
 
-Untuk claim mission, react message ini dengan:
-
-> 🖐️
+Untuk claim mission, Komen pada Thread Misi:
