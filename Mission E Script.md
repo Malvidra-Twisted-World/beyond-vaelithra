@@ -116,7 +116,7 @@ Mission ini harus dapat berdiri sendiri.
 
 # Pre-Session Checklist
 
-- [ ] Party Tier I.
+- [x] Party Tier I. ✅ 2026-09-03
 - [ ] Siapkan **BD1 — Community Hall & Street**.
 - [ ] Siapkan **BD2 — Old Row / Back Lane**.
 - [ ] Siapkan **BD3 — Temporary Elf Hideout**.
@@ -132,8 +132,7 @@ Mission ini harus dapat berdiri sendiri.
 
 # Part 0 — Briefing at The Switchboard
 
-> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
-
+> [!NOTE]
 > Papan kontrak The Switchboard tidak banyak berubah hari ini.
 >
 > Di antara pekerjaan rutin dan beberapa permintaan yang nyaris tidak menarik perhatian, satu berkas tipis menunggu untuk dibuka.
@@ -184,7 +183,6 @@ Wulan tidak tahu:
 **Status:** DM Implementation, belum canon.
 
 > [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
-
 > Perwakilan komunitas itu duduk dekat jendela.
 >
 > Dari caranya memegang map di depan dada, kalian bisa melihat bahwa ia sudah mengulang cerita ini beberapa kali hari ini.

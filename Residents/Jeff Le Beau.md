@@ -20,7 +20,7 @@ Perjalanan Jeff akhirnya membawanya ke dunia fixer profesional. Melalui kontak d
 
 *Charsheet Link:* [LINK](https://www.dndbeyond.com/characters/169740688/S3ugR4)
 
-<iframe src="https://www.dndbeyond.com/characters/169740688/S3ugR4" width="100%" height="500px" />
+[Jeff Le Beau](../attachments/Jeff%20Le%20Beau.md)
 
 
 --- start-multi-column: ID_gca3

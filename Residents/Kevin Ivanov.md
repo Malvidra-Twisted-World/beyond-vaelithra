@@ -1,4 +1,5 @@
 
+
 ```
 Anak salah satu petinggi Script Order, dipersiapkan untuk menjadi penerus ayahnya, namun... lama-lama dijalani, kok ada yang aneh ya?
 ```

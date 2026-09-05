@@ -1,0 +1,3 @@
+```windrose-map
+id: kartaloka
+```
