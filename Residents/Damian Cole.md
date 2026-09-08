@@ -20,3 +20,4 @@ Now Damian walks with the dead at his side. They want revenge. He wants answers.
 [Token](https://cdn.discordapp.com/attachments/1454809151564808409/1541315280796655656/heroictoken_2026-08-24_12-15-03.png?ex=6a8d2537&is=6a8bd3b7&hm=55737e9d98348e55401bc2efdf9f44d4749de545c1c733ed771659fbdc6c3181&)
 
 *Charsheet Link:* [Damian Cole](https://dicecloud.com/character/8Pqs5XPRwksmoeyyh/Damian-Cole)
+
