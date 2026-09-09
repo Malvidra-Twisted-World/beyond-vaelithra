@@ -17,3 +17,7 @@ Setelah lama menghilang, beberapa orang bertemu seorang fixer baru yang selalu m
 
 *Character Face Claim/Image/Token:* [Joshua Graham](https://share.google/W0jujEjnwkAidSD4x)
 *Charsheet Link:* [Dicecloud](https://dicecloud.com/character/7wBRkBcyQrccah5py/New-Character)
+
+# Personal Mission
+
+https://app.notion.com/p/Misi-Joshua-Graham-3d53d1023d8580bb94ddfe0b94aaab3d?source=copy_link
