@@ -14,3 +14,11 @@ No Misi: #143
 Anggota Kelompok: Kvaraktiss, Jeff, Joshua, Damian' Iggy 
 Detail Laporan:
 >Langkah awal untuk menyelidiki misi dengan membagi anggota menjadi dua kelompok, Jeff dan saya menyelidiki di stasiun sebelum akhir dan sisanya ada di stasiun akhir. Jeff mencari info dengan bertanya ke orang sekitar dan saya mencoba mengetahui dengan detect magic hasilnya tidak ada yang aneh. Selanjutnya saya pergi ke ruang konduktor tetapi kantornya dikunci, dengan bantuan security akhirnya dibuka tetapi masih ada pintu yang terkunci akhir dibuka paksa oleh Jeff. Selanjutnya menuju ruang gelap dan akhirnya bertemu kelompok satunya. Kami semua melanjutkan investigasi, dari anggota lain menemukan komputer rusak saya mencoba memperbaiki dengan mending dan lain ada seorang yang misterius lalu dibawa oleh petinggi script order.
+
+# DM NOTES
+
+orang yang ditemui oleh party adalah Maeda, Captain of Kindness Division, Gyokko Gumi, Soyo Gumi
+
+Jeff menemukan sebuah surat berisikan "KT, jika kau menemukan surat ini, aku diculik Raiga, jika bukan, maka aku percayakan surat ini kepada kalian. Amane, Kindness Commander, Gyokko Gumi, Soyo Gumi"
+
+Kravaktiss memanggil Script Order ke lokasi dimana Roy dan beberapa anggota Script Order datang dan membawa Maeda untuk informasi lebih
