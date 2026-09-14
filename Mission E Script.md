@@ -381,6 +381,8 @@ menjadi semakin tidak nyaman.
 >
 > Kalian jelas bukan warga setempat.
 
+![](https://i.imgur.com/Vp7dTyt.jpeg)
+
 ## Possible Clues
 
 Party dapat menemukan:
