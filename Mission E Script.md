@@ -238,7 +238,6 @@ Lokasi terakhir:
 Balai warga merupakan tempat acara berlangsung.
 
 > [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
-
 > Balai warga masih menyisakan bekas acara semalam.
 >
 > Kursi plastik belum semuanya dirapikan.
@@ -334,7 +333,6 @@ dan:
 Setelah party memiliki beberapa clue:
 
 > [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
-
 > Semakin lama kalian menyusun cerita, semakin sulit semua bagian ini dipaksa masuk ke satu kesimpulan.
 >
 > Tidak ada yang melihat Laras diseret.
