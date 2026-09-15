@@ -238,7 +238,6 @@ Lokasi terakhir:
 Balai warga merupakan tempat acara berlangsung.
 
 > [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
-
 > Balai warga masih menyisakan bekas acara semalam.
 >
 > Kursi plastik belum semuanya dirapikan.
@@ -334,7 +333,6 @@ dan:
 Setelah party memiliki beberapa clue:
 
 > [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
-
 > Semakin lama kalian menyusun cerita, semakin sulit semua bagian ini dipaksa masuk ke satu kesimpulan.
 >
 > Tidak ada yang melihat Laras diseret.
@@ -383,6 +381,8 @@ menjadi semakin tidak nyaman.
 >
 > Kalian jelas bukan warga setempat.
 
+![](https://i.imgur.com/Vp7dTyt.jpeg)
+
 ## Possible Clues
 
 Party dapat menemukan:
@@ -413,6 +413,9 @@ Party menemukan lokasi sementara sekelompok elf.
 
 ## BD3 — Temporary Elf Hideout
 
+![](https://i.imgur.com/QZanAoo.jpeg)
+
+
 Bangunan ini **bukan dungeon**.
 
 Bukan markas kriminal.
@@ -430,7 +433,6 @@ Ada:
 - satu ruangan yang lebih tertutup.
 
 > [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
-
 > Bangunan itu dari luar terlihat seperti rumah kosong yang terlalu lama dibiarkan.
 >
 > Tapi ada tanda-tanda kehidupan.
@@ -498,7 +500,6 @@ Lalu:
 Laras berada di ruangan belakang.
 
 > [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
-
 > Di ruangan paling belakang, kalian akhirnya melihat gadis yang kalian cari.
 >
 > Laras duduk dekat jendela.
@@ -564,7 +565,6 @@ Tujuan Laras adalah:
 Gunakan hanya jika pacing mengarah ke confrontation.
 
 > [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
-
 > Suara langkah kaki terdengar dari luar.
 >
 > Beberapa suara berbicara dalam nada rendah.
