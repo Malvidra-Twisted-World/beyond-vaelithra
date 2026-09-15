@@ -740,7 +740,7 @@ Rewards
 
 Standard
 
-150 gold
+150 Escrow
 
 Additional
 
