@@ -413,6 +413,9 @@ Party menemukan lokasi sementara sekelompok elf.
 
 ## BD3 — Temporary Elf Hideout
 
+![](https://i.imgur.com/QZanAoo.jpeg)
+
+
 Bangunan ini **bukan dungeon**.
 
 Bukan markas kriminal.
@@ -430,7 +433,6 @@ Ada:
 - satu ruangan yang lebih tertutup.
 
 > [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
-
 > Bangunan itu dari luar terlihat seperti rumah kosong yang terlalu lama dibiarkan.
 >
 > Tapi ada tanda-tanda kehidupan.
@@ -498,7 +500,6 @@ Lalu:
 Laras berada di ruangan belakang.
 
 > [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
-
 > Di ruangan paling belakang, kalian akhirnya melihat gadis yang kalian cari.
 >
 > Laras duduk dekat jendela.
@@ -564,7 +565,6 @@ Tujuan Laras adalah:
 Gunakan hanya jika pacing mengarah ke confrontation.
 
 > [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
-
 > Suara langkah kaki terdengar dari luar.
 >
 > Beberapa suara berbicara dalam nada rendah.
