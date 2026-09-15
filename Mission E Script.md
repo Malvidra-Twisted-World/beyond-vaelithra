@@ -4,9 +4,6 @@ campaign: Beyond Vaelithra
 tier: I
 status: Draft
 ---
-![](https://i.imgur.com/U3PQlBM.jpeg)
-![](https://i.imgur.com/Ru2bvTs.png)
-![](https://i.imgur.com/ECpKFaa.png)
 
 # Mission E — The Girl from Treetops
 
@@ -23,6 +20,7 @@ status: Draft
 **Information Level:** Parsial
 
 ---
+
 
 # DM Overview
 
