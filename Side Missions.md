@@ -6,4 +6,4 @@ Joshua berniat membuka usaha kecil untuk membangun komunitas di **[[Districts#Be
 ---
 # [[Iggy]]
 ---
-Iggy berhasil membuat sebuah kamera dan hendak mempresentasikan karya buatannya itu di **[[Districts#Adikara District|Adikara District]]**. **[[Factions Structure#Hop Pop|Hop Pop]]** memberi tahu Iggy untuk mengosongkan jadwal karena permintaannya untuk presentasi sudah di approve oleh atasan.
+Iggy berhasil membuat sebuah kamera dan hendak mempresentasikan karya buatannya itu di **[[Districts#Adikara District|Adikara District]]**. **[[Factions Structure#Hop Pop|Hop Pop]]** memberi tahu Iggy untuk mengosongkan jadwal karena permintaannya untuk presentasi sudah di app
