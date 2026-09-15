@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mission F Script.md",
+                "file": "Mission Note Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mission F Script"
+              "title": "Mission Note Template"
             }
           }
         ],
@@ -246,9 +246,9 @@
   },
   "active": "779b3432c9bd879d",
   "lastOpenFiles": [
+    "Mission F Overview.md",
     "Side Missions.md",
     "Residents/Joshua Graham.md",
-    "Mission F Script.md",
     "Mission D Report.md",
     "Residents/Argenta Ravenscroft.md",
     "Kartaloka.md",
