@@ -328,6 +328,60 @@ dan:
 
 ---
 
+ACTUAL PLAY UPDATE — Mission E
+
+Status: Active Play
+Current Location: BD1 — Community Hall & Street
+Current Party: Argenta Ravenscroft, Xenomisil Darkbright, Jeff
+
+Confirmed Player-Facing Canon
+
+- Laras is next in line to become the leader of Treetops.
+- Naira is a member of Treetops and was responsible for training Laras.
+- Laras's training was intentionally harsh because she was being prepared for leadership.
+- Laras fled Treetops because she could not handle the pressure and harsh training.
+
+Lore Discovery — Jeff
+
+Jeff obtained the above information in-character by using telepathy to intimidate the Elf male accompanying Naira.
+
+The information was therefore revealed through an interaction with the Elf male, rather than being voluntarily explained by Naira.
+
+Important: The Elf male's disclosure should not automatically be treated as information Naira openly shared with the party.
+
+Naira — Actual Play
+
+The party encountered Naira in BD1.
+
+Naira warned the party that BD2 — Old Row / Back Lane is a rougher area. Residents there are poor and desperate, and some may resort to pickpocketing or violence to survive.
+
+This warning does not mean that the residents of BD2 are generally criminals. Poverty and desperation should remain contextual factors, not alignment.
+
+Current Mission Position
+
+BD1 — Community Hall
+        ↓
+   Naira Encounter
+        ↓
+Jeff intimidates Elf male
+via telepathy
+        ↓
+Jeff discovers Laras / Treetops lore
+        ↓
+Naira warns about BD2
+        ↓
+     PARTY TRAVELS
+        ↓
+BD2 — Old Row / Back Lane
+
+DM Continuity Note
+
+Actual play takes precedence over the original scripted sequence.
+
+The Jeff → Elf male interaction is now established as the source of the leadership/training/escape lore revealed to the players.
+
+Do not retroactively attribute this information to Naira unless she explicitly reveals it during later play.
+
 # Part 3 — The First Contradiction
 
 Setelah party memiliki beberapa clue:
