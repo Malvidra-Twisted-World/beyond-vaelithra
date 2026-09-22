@@ -15,6 +15,18 @@ Anggota Kelompok: Kvaraktiss, Jeff, Joshua, Damian' Iggy
 Detail Laporan:
 >Langkah awal untuk menyelidiki misi dengan membagi anggota menjadi dua kelompok, Jeff dan saya menyelidiki di stasiun sebelum akhir dan sisanya ada di stasiun akhir. Jeff mencari info dengan bertanya ke orang sekitar dan saya mencoba mengetahui dengan detect magic hasilnya tidak ada yang aneh. Selanjutnya saya pergi ke ruang konduktor tetapi kantornya dikunci, dengan bantuan security akhirnya dibuka tetapi masih ada pintu yang terkunci akhir dibuka paksa oleh Jeff. Selanjutnya menuju ruang gelap dan akhirnya bertemu kelompok satunya. Kami semua melanjutkan investigasi, dari anggota lain menemukan komputer rusak saya mencoba memperbaiki dengan mending dan lain ada seorang yang misterius lalu dibawa oleh petinggi script order.
 
+# Joshua
+
+No Misi: #143
+Anggota Kelompok: Joshua, Kvaraktiss, Jeff, Damian, Iggy
+Detail Laporan:
+
+```
+
+Reno meminta kami menyelidiki pesan misterius yang selalu muncul menjelang stasiun terakhir. Kami berangkat menggunakan kereta dan Iggy dan Jeff turun satu stasiun sebelum tujuan untuk melakukan pemeriksaan sehingga kami terbagi menjadi dua tim: Tim A (Jeff dan Iggy) dan Tim B (saya, Kvaraktiss, dan Damian). Setibanya di stasiun terakhir, saya menanyakan informasi kepada beberapa staf dan mendapat konfirmasi bahwa pesan tersebut telah muncul selama beberapa bulan. Kami kemudian menemukan pintu yang tidak tercantum di peta menuju ruang maintenance, yang memiliki tangga menuju lorong bawah tanah yang menghubungkan kedua stasiun. Lorong tersebut juga memiliki cabang menuju ruang transmisi lama, tempat kami menemukan informasi mengenai asal-usul pesan, keberadaan salah satu anggota Gyokko Gumi, serta penculikan salah satu petingginya. Tidak lama kemudian, seorang petinggi Script Order tiba, dan kami membawa seluruh barang bukti yang ditemukan ke Westa Tower untuk ditindaklanjuti.
+
+```
+
 # DM NOTES
 
 orang yang ditemui oleh party adalah Maeda, Captain of Kindness Division, Gyokko Gumi, Soyo Gumi
