@@ -67,7 +67,7 @@ visibility: DM Only
 >
 > "Kalau begitu, penawaran mesinnya perlu kutinjau dengan kebutuhan baru ini. Kita juga harus sediakan meja penerimaan, alat setrika, penanda cucian, dan penyimpanan. Aku akan mencari calon pekerja yang terbiasa melayani pelanggan sekaligus mengurus pakaian."
 >
- Graham menatap Joshua sebelum melanjutkan.
+> Graham menatap Joshua sebelum melanjutkan.
 >
 > "Untuk mulai, kau ingin kita mengejar peralatan yang lebih hemat, atau modal lebih besar dengan kapasitas lebih banyak? Setelah itu, aku bisa mulai mempertemukanmu dengan para pelamar."
 
