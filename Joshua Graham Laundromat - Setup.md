@@ -23,7 +23,9 @@ visibility: DM Only
 - Usaha yang ingin dibuka adalah **laundromat**.
 - Graham telah menyebarkan kabar mengenai **lowongan pekerjaan** dan sedang membantu **mencarikan peralatan serta kandidat pegawai**.
 - **Model layanan sudah diputuskan Joshua: hybrid dengan kasir, self-service berbasis koin, layanan cuci + setrika, dan setrika saja.** Rinciannya tercatat di bawah.
-- **Belum ditetapkan:** harga per koin, tarif cuci + setrika / setrika saja, mekanisme pengembalian pakaian, merek dan jumlah mesin, pengeluaran final, pegawai yang diterima, nama bisnis, serta tanggal pembukaan.
+- **Spesifikasi baru dari Joshua (proposal operasional sudah diucapkan):** 3 mesin cuci, 3 pengering, 2 setrika; kasir seharian, teknisi panggilan, serta operator cuci/setrika tetap atau paruh waktu; buka pagi–sore.
+- **Tarif awal sudah diberikan Joshua dalam ekuivalen rupiah**, tetapi ada usulan revisi dari DM dan *perlu rekonsiliasi* antara harga per koin, per kg, dan ongkos jasa pegawai. Lihat bagian 1A.
+- **Belum final:** kurs rupiah ke mata uang in-world, satuan/struktur harga final, harga mesin dan modal tersedia, pegawai yang diterima, nama bisnis, serta tanggal pembukaan.
 - Hubungan Joshua dengan Graham bukan berarti Joshua otomatis memiliki sumber daya atau kewenangan penuh The Beacon Circle.
 
 **Aturan DM:** Opsi, kandidat, pemasok, dan masalah di bawah merupakan **proposal konten untuk dimainkan**, bukan kejadian yang sudah canon. Hanya tetapkan hasil setelah Joshua memilih atau scene mengonfirmasikannya.
@@ -42,55 +44,117 @@ visibility: DM Only
 
 **Penting:** Janji **3 hari berlaku untuk paket cuci + setrika** sesuai pernyataan Joshua. Jangan diam-diam menerapkannya ke setrika saja sebelum dikonfirmasi. Semua layanan belum resmi beroperasi hingga perlengkapan dan pegawai tersedia.
 
+### 1A. Jawaban Terbaru Joshua — Catatan Sumber & Status
+
+**Catatan primer dari player (2026-10-30, belum semua unsur menjadi tarif final):**
+
+1. **Peralatan:** 3 mesin cuci, 3 mesin pengering, dan 2 set/perangkat setrika.
+2. **Harga yang diajukan Joshua sebagai ekuivalen rupiah:**
+   - Self-service: **1 koin = Rp10.000**, dengan catatan tambahan **cuci Rp2.000/kg**; deterjen gratis atau pelanggan membawa sendiri.
+   - Layanan titip / drop-off: **cuci Rp7.000/kg**, **cuci + setrika Rp8.000/kg**, **setrika Rp5.000/kg**, dan **express Rp10.000** (satuan express belum jelas).
+3. **Waktu dan antrian:** buka **pagi sampai sore**; pelanggan self-service **menunggu ketersediaan mesin**, batas **1 jam/orang/unit**, jika melewati 1 jam harus membeli koin lagi. Nomor order diberikan saat membeli koin.
+4. **Kepegawaian:** **1 kasir sepanjang jam operasional**, **teknisi on-call**, operator cuci + setrika dapat **full-time atau part-time**.
+5. **Penanganan masalah:** terlambat -> **voucher cuci gratis 1 kg**; pakaian tertukar -> **tidak ditanggung** menurut usulan awal; barang rusak di self-service -> **tidak ditanggung**; barang rusak dalam layanan titip -> **kompensasi 50% harga barang** menurut maksud awal (basis valuasi perlu ditetapkan), dan staf wajib memeriksa kondisi sebelum mencuci; order setrika saja diterima.
+
+**Usulan revisi dari DM setelah jawaban Joshua (BELUM boleh menggantikan tarif Joshua tanpa konfirmasi):**
+- Cuci + setrika **Rp7.000/kg**.
+- Cuci saja **Rp6.000/kg**.
+- Setrika saja **Rp5.000/kg**.
+- DM menginterpretasikannya sebagai **tarif dasar/self-service**, sementara pengerjaan oleh pegawai atau **titip** akan mendapat **tambahan ongkos per kg**, **jumlah tambahan belum ditentukan**.
+
+> **Conflict Flag:** Karena self-service sudah dibayar lewat **koin Rp10.000/jam**, belum jelas apakah tarif per kg itu **alternatif**, **add-on**, atau **pengganti struktur koin**. Selain itu penawaran awal Joshua untuk drop-off (7k/8k/5k) berbeda dari usulan revisi DM (6k/7k/5k + biaya jasa). **Jangan gabungkan keduanya menjadi tagihan ganda** sebelum aturan final dipilih. Catat dua versi tersebut sebagai sumber berbeda.
+
+### 1B. Parameter Operasional yang Sudah Cukup Jelas
+
+| Aspek | Ketentuan Joshua | Status |
+|---|---|---|
+| Mesin | 3 washer + 3 dryer + 2 setrika | Kebutuhan disampaikan, **belum dibeli** |
+| Jam operasional | Pagi hingga sore | Rentang jam tepat **TBA** |
+| Pemakaian self-service | Beli koin di kasir, ambil nomor order, tunggu unit kosong, maks. 1 jam/orang/unit | **Disampaikan Joshua**, perlu aturan teknis siklus |
+| Perpanjangan | Melebihi 1 jam perlu membeli koin lagi | **Disampaikan Joshua**, tentukan pengecualian untuk mesin bermasalah |
+| Deterjen | Gratis disediakan atau boleh membawa sendiri | **Disampaikan Joshua** |
+| Drop-off cuci + setrika | Ambil setelah **3 hari** | **Canon dari jawaban sebelumnya**, bukan janji untuk semua layanan |
+| Staf | 1 kasir all-day, teknisi on-call, operator full-time/part-time | **Rencana Joshua**, belum rekrut |
+| Voucher keterlambatan | Cuci gratis 1 kg | **Kebijakan diusulkan Joshua**, detail penggunaan voucher TBA |
+
+**Batas interpretasi:** 1 jam adalah batas penggunaan pelanggan **per unit**, bukan jaminan satu siklus washer + dryer pasti selesai dalam 1 jam. Apakah 1 koin mencakup **washer saja, dryer saja, atau satu pasangan washer/dryer**, harus dipastikan di RP.
+
+### 1C. Tarif: Versi yang Belum Disatukan
+
+| Layanan | Penawaran Joshua (awal) | Usulan revisi DM (belum dikonfirmasi Joshua) |
+|---|---|---|
+| Self-service mesin | Rp10.000/koin, maks. 1 jam; **tambahan cuci Rp2.000/kg** pernah disebut | Tetap pakai koin? **Belum dijelaskan hubungan dengan tarif/kg** |
+| Cuci saja | **Rp7.000/kg** jika titip | **Rp6.000/kg** sebagai tarif dasar yang dimaksud DM |
+| Cuci + setrika | **Rp8.000/kg** jika titip, 3 hari | **Rp7.000/kg** sebagai tarif dasar yang dimaksud DM |
+| Setrika saja | **Rp5.000/kg** jika titip atau add-on self-service | **Rp5.000/kg** sebagai tarif dasar yang dimaksud DM |
+| Express | **Rp10.000**; basis (per kg? biaya tambahan?) dan deadline tidak disebut | **Belum ditentukan** |
+| Ongkos staf untuk titip | Terwakili dalam harga awal atau belum? **Perlu dipastikan** | Akan ada **tambahan per kg** dengan angka TBA |
+
+**Prinsip rekomendasi agar sederhana:**
+- Jadikan **koin sebagai tarif akses mesin**, bukan otomatis menambah tarif cuci per kg. Jika Joshua memang ingin model **koin + Rp2.000/kg**, minta dia menegaskan mekanisme timbang dan kapan pelanggan membayar.
+- Jadikan **cuci + setrika, cuci saja, dan setrika saja** sebagai **menu jasa karyawan** berbasis kilogram, bukan tarif mesin self-service, kecuali Joshua benar-benar memilih model lain.
+- Jangan membuat nilai kurs antara nominal rupiah referensi dan gold/Escrow tanpa keputusan ekonomi kampanye. **Ekuivalen rupiah = angka analogi harga, bukan otomatis mata uang baru di Kartaloka.**
+- Untuk soft opening, umumkan **satu pricelist final**; jangan memposting kedua versi harga ke pemain.
+
+### 1D. Kebijakan & Risiko Pelayanan
+
+| Kondisi | Usulan Joshua | Catatan DM sebelum dipublikasikan |
+|---|---|---|
+| Pengerjaan titipan terlambat | Voucher gratis **cuci 1 kg** | Tentukan untuk order apa voucher berlaku dan apakah satu voucher per order |
+| Pakaian tertukar | **Tidak ditanggung** | Ini berisiko tinggi bagi kepercayaan warga karena kesalahan sortir oleh staf; **sarankan investigasi, pengembalian, dan kompensasi jika staf terbukti lalai**. Jangan diam-diam mengubah keputusan Joshua |
+| Kerusakan self-service | **Tidak ditanggung** | Bedakan kesalahan pemakaian pelanggan dengan kerusakan mesin akibat kelalaian pengelola; keputusan tanggung jawab akhir perlu SOP |
+| Kerusakan drop-off | **50% harga barang** | Perlu metode penilaian harga, batas, pengecualian barang yang sejak awal rusak; staf wajib inspeksi awal dan mencatat kondisi |
+| Order setrika saja | Diterima | Waktu pengerjaan belum ditetapkan, jangan otomatis samakan dengan 3 hari |
+
+**Guardrail RP:** NPC bisa mempertanyakan klausul kehilangan/tertukar secara realistis. Itu respons komunitas, **bukan kewajiban untuk menghukum Joshua atau memaksakan hukuman hukum tertentu**.
+
 ### SOP operasional yang perlu disiapkan Graham (proposal, belum hasil RP)
 
-1. **Kasir:** menjual dan mencatat koin; memberi instruksi dasar penggunaan mesin; menerima pembayaran jasa lain.
-2. **Self-service:** pelanggan memilih mesin, menggunakannya dengan koin, dan bertanggung jawab atas pakaian selama penggunaan mandiri; aturan kehilangan/kerusakan perlu ditetapkan Joshua.
-3. **Drop-off cuci + setrika:** staf mencatat identitas/order, jumlah atau berat cucian, tanggal serah, dan tanggal pengambilan **3 hari kemudian**; beri tiket/nomor order.
-4. **Setrika saja:** sediakan meja penerimaan dan penandaan cucian terpisah dari order cuci + setrika; tentukan estimasi penyelesaian melalui Joshua.
-5. **Serah-terima:** cocokkan tiket dan barang, catat pembayaran serta komplain secara sederhana.
+1. **Kasir tunggal:** menjual dan mencatat koin, mengeluarkan **nomor order saat pembelian**, mengatur antrian 3 washer/3 dryer, memberi instruksi mesin, serta menerima dan menandai order titipan. Jika buka penuh pagi–sore, atur jam istirahat dan pengganti bila kasir harus meninggalkan meja.
+2. **Self-service:** pelanggan menunggu unit tersedia, menggunakan koin Rp10.000 sesuai batas 1 jam/orang/unit; jika perlu memperpanjang, beli koin lagi. Deterjen tersedia gratis atau boleh bawa sendiri. **Hitung kuota dan kondisi mesin agar pelanggan tidak perlu membayar lebih akibat mesin rusak.** Hubungan tarif per kg vs koin masih TBA.
+3. **Drop-off cuci + setrika:** staf mencatat identitas/order, berat cucian, **hasil pemeriksaan kondisi sebelum proses**, tanggal serah, dan tanggal pengambilan **3 hari kemudian**; beri tiket/nomor order. Cuci saja juga merupakan layanan yang ditawarkan Joshua pada jawaban terbaru; detail waktu pengerjaannya TBA.
+4. **Setrika saja:** dua setrika/area kerja tersedia sesuai rencana; sediakan meja penerimaan dan penandaan order setrika terpisah dari order cuci + setrika; estimasi penyelesaian disepakati kemudian.
+5. **Serah-terima:** cocokkan nomor order, daftar barang, dan pelanggan; dokumentasikan kondisi awal, pembayaran, komplain, voucher keterlambatan, dan status penyelesaian. Jangan gunakan klausul "barang tertukar tidak ditanggung" sebagai alasan mengabaikan proses pencarian.
 6. **Kapasitas:** sebelum menawarkan banyak order, pastikan mesin, setrika, ruang pengeringan, dan karyawan sanggup memenuhi janji 3 hari.
 
 ## 2. Scene Lanjutan — Respons Graham atas Jawaban Joshua
 
 **Trigger:** Joshua menghubungi atau menemui Graham untuk menanyakan perkembangan pengadaan peralatan dan pegawai.
 
-### Narasi respons Graham (siap kirim di PbP berikutnya)
+### Respons Graham setelah Joshua menjawab spesifikasi (siap pakai di PbP)
 
-> Graham menyimak penjelasan Joshua, lalu menggeser satu kertas kosong ke tengah meja. Ia menuliskan tiga baris: **Koin**, **Cuci + Setrika**, dan **Setrika Saja**.
+> Graham menyelesaikan hitungan pada kertasnya. Ada tiga kolom: **mesin**, **orang**, dan **aturan pelayanan**.
 >
-> "Baik. Berarti kasir akan jadi titik utama, bukan cuma menerima pembayaran. Dia harus menyiapkan koin untuk pelanggan yang ingin mencuci sendiri, menerima cucian titipan, dan mencatat permintaan setrika saja."
+> "Tiga mesin cuci, tiga pengering, dan dua setrika. Baik. Aku akan mencari penawaran dengan jumlah itu, termasuk sistem koin yang bisa dikelola dari kasir."
 >
-> Graham memberi garis di bawah layanan kedua.
+> "Untuk karyawan, satu kasir sepanjang hari dan teknisi panggilan masih masuk akal sebagai rancangan awal. Tapi untuk jasa titip yang harus selesai tiga hari, kita harus tahu berapa banyak order yang bisa ditangani para operator."
 >
-> "Tiga hari untuk cuci dan setrika. Itu bisa kita janjikan, asalkan jumlah mesin, pekerja, dan alur pengerjaannya benar-benar mampu menepati waktu itu."
+> Graham lalu menunjuk bagian harga yang memiliki beberapa coretan.
 >
-> "Kalau begitu, penawaran mesinnya perlu kutinjau dengan kebutuhan baru ini. Kita juga harus sediakan meja penerimaan, alat setrika, penanda cucian, dan penyimpanan. Aku akan mencari calon pekerja yang terbiasa melayani pelanggan sekaligus mengurus pakaian."
+> "Ada satu hal yang perlu kita rapikan sebelum kupasang daftar harga. Kau menyebut sepuluh ribu untuk satu koin, tetapi juga ada harga per kilogram. Apakah pelanggan self-service membayar keduanya, atau harga per kilo hanya berlaku saat staf yang mengerjakan?"
 >
-> Graham menatap Joshua sebelum melanjutkan.
+> "Dan tentang aturan barang tertukar, aku sarankan kita benar-benar teliti. Warga Beacon akan lebih mudah mempercayai tempat ini bila mereka tahu cucian mereka dicatat dengan benar, sekalipun terjadi kesalahan."
 >
-> "Untuk mulai, kau ingin kita mengejar peralatan yang lebih hemat, atau modal lebih besar dengan kapasitas lebih banyak? Setelah itu, aku bisa mulai mempertemukanmu dengan para pelamar."
+> Graham menutup map dan menunggu Joshua menjelaskan sistem pembayaran akhirnya.
 
-**Berhenti di sini dan tunggu keputusan Joshua tentang anggaran/kapasitas.** Jangan putuskan harga, pembelian, atau rekrutmen untuknya.
+**DM pause:** Pertanyaan kunci untuk giliran berikutnya adalah **hubungan harga koin dan tarif/kg**, lalu **apakah revisi 6k/7k/5k + ongkos pegawai yang diusulkan DM diterima Joshua**. Peralatan dan staf belum boleh dibeli/direkrut otomatis.
 
-### Pertanyaan lanjutan (satu per satu menurut kebutuhan RP)
+### Hal yang Graham dapat kerjakan tanpa mengunci keputusan Joshua
 
-1. **Modal/kapasitas:** mulai dari mesin lebih sedikit atau paket lebih besar?
-2. **Harga layanan:** harga koin dan berapa koin per penggunaan; tarif cuci + setrika; tarif setrika saja?
-3. **Operasional:** jam buka, apakah pelanggan self-service perlu menunggu mesin kosong, dan bagaimana pencatatan tiket order?
-4. **Kepegawaian:** kasir/penerimaan dan operator cuci-setrika dibutuhkan dalam jadwal seperti apa? Siapa yang menangani setrika?
-5. **Kualitas layanan:** apa aturan keterlambatan penyelesaian 3 hari, barang tertukar/rusak, dan order setrika saja?
-
-Jika Joshua belum memutuskan tarif, Graham bisa menawarkan survei harga di lingkungan Beacon District sebagai **langkah berikutnya**, tanpa menciptakan angka sebagai fakta.
+- Minta penawaran **3 washer + 3 dryer + 2 setrika**, beserta mekanisme pembayaran koin dan kebutuhan instalasi.
+- Survei teknis air, listrik, pengeringan, dan layout antrian.
+- Panggil kandidat kasir dan operator untuk wawancara; minta estimasi gaji full-time / part-time.
+- Susun draf tiket/nomor order, kartu laundry titipan, log kondisi pakaian, dan voucher 1 kg.
+- Buat **dua opsi pricelist tertulis** berdasarkan versi Joshua dan usulan DM; jangan jadikan salah satunya canon sebelum dikonfirmasi.
 
 ## 3. Opsi Pengadaan Peralatan
 
-Graham membawa **dua penawaran awal**, bukan barang yang sudah dibeli.
+Graham dapat menyiapkan **dua alternatif sumber peralatan** dengan jumlah unit **yang sudah dipilih Joshua**. Semua masih penawaran, **bukan barang yang sudah dibeli**.
 
 | Opsi | Isi Penawaran Awal | Kelebihan | Risiko / Konsekuensi |
 |---|---|---|---|
-| **A. Mulai Kecil** | 2 mesin cuci refurbished, 1 pengering refurbished, mekanisme koin + persediaan koin kasir, meja penerimaan, setrika, papan setrika, penanda order, rak dasar | Modal awal lebih rendah, cocok uji permintaan | Kapasitas terbatas; perlu cermat menjaga deadline 3 hari, kondisi mesin perlu diuji |
-| **B. Siap Tumbuh** | 3 mesin cuci baru, 2 pengering baru, mekanisme koin + stok koin, meja kasir/penerimaan, beberapa setrika & papan, penanda order, rak penyimpanan | Kapasitas lebih besar, servis/garansi lebih jelas | Modal lebih tinggi, ruang, staf, dan utilitas harus memadai |
+| **A. Sourcing Hemat** | **3 mesin cuci + 3 pengering refurbished**, mekanisme koin dan stok kasir, **2 setrika & papan**, meja terima, rak, penanda order | Jumlah unit sesuai Joshua dengan modal relatif lebih rendah | Perlu uji kondisi tiap unit dan rencana servis |
+| **B. Sourcing Bergaransi** | **3 mesin cuci + 3 pengering baru**, sistem koin, **2 setrika & papan**, fasilitas kasir dan nomor order, rak penyimpanan | Unit baru, opsi garansi/servis, kapasitas sama | Modal awal lebih besar, instalasi tetap harus dicek |
 
 **Harga:** Tentukan berdasarkan skala ekonomi kampanye dan keputusan Joshua. Jangan menulis transaksi ke ledger sebelum pembelian disetujui.
 
@@ -188,8 +252,9 @@ Salah satu pelamar menolak keputusan tergesa-gesa tanpa jam kerja, upah, dan har
 ### Scene A — Laporan Pengadaan (scene aktif berikutnya)
 - Graham menyampaikan penawaran mesin dan respons awal lowongan.
 - **Model layanan sudah ditentukan Joshua: hybrid dengan koin dari kasir, cuci + setrika tiga hari, dan setrika saja untuk pengguna self-service.**
-- **Scene aktif berikutnya:** Graham mengonfirmasi detail alur dan meminta Joshua memilih prioritas anggaran/kapasitas.
-- **Output yang ditunggu:** arahan pengadaan, belum ada pembelian otomatis.
+- **Joshua telah menyebut kebutuhan 3 washer, 3 dryer, 2 setrika; kasir seharian; teknisi panggilan; jam pagi–sore; koin 10k/jam; ketentuan kompensasi awal.**
+- **Scene aktif berikutnya:** Graham meminta kejelasan *koin versus tarif/kg*, apakah surcharge untuk layanan titip berlaku, dan meminta Joshua menilai kebijakan barang tertukar.
+- **Output yang ditunggu:** tarif yang tidak saling tumpang tindih, pilihan sourcing/modal, belum ada pembelian otomatis.
 
 ### Scene B — Survei Teknis & Wawancara
 - Joshua bisa memilih menemui pemasok, meninjau instalasi tempat, atau mewawancarai kandidat.
@@ -213,12 +278,16 @@ Salah satu pelamar menolak keputusan tergesa-gesa tanpa jam kerja, upah, dan har
 - [x] Tempat usaha telah didapatkan.
 - [x] Kabar lowongan telah disebarkan.
 - [x] Model bisnis dipilih: koin self-service + cuci dan setrika (3 hari) + setrika saja.
+- [x] Kebutuhan alat diputuskan: 3 washer, 3 dryer, 2 setrika.
+- [x] Rancangan staf dan jam layanan disampaikan Joshua.
+- [x] Draft kebijakan voucher keterlambatan dan tanggung jawab kerusakan disampaikan Joshua.
+- [ ] Tarif **coin vs per kg vs tambahan jasa titip** disatukan dan disetujui Joshua.
 - [ ] Penawaran mesin diterima / pemasok dipilih.
 - [ ] Inspeksi lokasi dan instalasi selesai.
 - [ ] Pegawai diseleksi dan perjanjian kerja disepakati.
 - [ ] Barang dibeli dan dipasang.
-- [ ] Harga koin, tarif paket, tarif setrika saja, serta aturan serah-terima disepakati.
-- [ ] Nama usaha dan jam operasional ditetapkan.
+- [ ] Tarif final yang konsisten dan detail voucher, kerusakan, dan barang tertukar disepakati.
+- [ ] Nama usaha dan **jam buka tepat** ditetapkan.
 - [ ] Soft opening / grand opening dimainkan.
 
 ## 9. Catatan Ledger & Kontinuitas
@@ -230,11 +299,14 @@ Jangan mencatat uang keluar/masuk atau NPC sebagai staf resmi sebelum disahkan d
 | Tempat usaha | Didapatkan | Alamat, status sewa/milik, dan biaya bila diketahui |
 | Model layanan | **Diputuskan Joshua** | Self-service koin dibeli di kasir; paket cuci + setrika tiga hari; setrika saja untuk pengguna self-service |
 | Pemasok mesin | Mencari | Supplier pilihan, rincian unit, harga |
-| Peralatan | Belum dibeli | Mesin koin, pengering, kasir, setrika, perlengkapan penandaan order; jumlah unit menyusul |
-| Staf | Lowongan tersebar | Nama, peran, gaji, dan jam kerja |
+| Peralatan | Jumlah diminta, belum dibeli | **3 mesin cuci, 3 pengering, 2 setrika** + koin, kasir, penanda order |
+| Staf | Lowongan tersebar | **1 kasir sepanjang buka; teknisi on-call; operator tetap/part-time**. Nama, gaji, jadwal belum diputuskan |
 | Modal awal | Belum ditetapkan | Sesuai dana Joshua |
-| Harga jasa | Belum ditentukan | Harga koin/siklus, cuci + setrika, setrika saja |
-| Target pengambilan | **3 hari (canon)** | Khusus paket cuci + setrika; detail iron-only belum diputuskan |
+| Harga jasa | **Proposal bercabang; belum jadi menu final** | Koin **Rp10.000**; tarif awal Joshua **2k self-service cuci/kg, 7k cuci titip, 8k cuci+setrika titip, 5k setrika, express 10k**; usulan DM **6k/7k/5k + surcharge titip**. Lihat 1C |
+| Target pengambilan | **3 hari (canon)** | Khusus paket cuci + setrika; detail iron-only dan express belum diputuskan |
+| Antrian | Rancangan Joshua | Tunggu unit kosong, 1 jam/orang/unit, beli koin lagi jika lebih lama |
+| Voucher & kompensasi | Usulan Joshua | Terlambat: cuci 1kg gratis; self-service rusak tidak ditanggung; drop-off kerusakan 50% nilai barang; barang tertukar tidak ditanggung **perlu dipertimbangkan ulang** |
+| Kurs | Belum ditetapkan | Rupiah dipakai sebagai analogi; tidak ada konversi Gold/Escrow yang telah disepakati |
 | Pendapatan | Belum ada | Mulai dihitung setelah usaha benar-benar berjalan |
 | Nama laundromat | Belum dipilih | Hak Joshua menentukan |
 
