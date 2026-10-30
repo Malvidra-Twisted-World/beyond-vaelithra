@@ -11,83 +11,92 @@ visibility: DM Only
 
 > Terkait: [[Side Missions]] · [[Residents/Joshua Graham]] · [[Districts#Beacon District]] · [[Factions Structure#Graham Howard]] · [[Hybrid Campaign Operations]]
 
-## 1. Posisi Cerita
+## 1. Status
 
-- **IC:** Joshua meminta [[Factions Structure#Graham Howard|Graham Howard]] membantu mencari tempat, barang, dan pekerja. **Tempat sudah didapatkan**, lowongan telah disebarkan, barang dan karyawan **belum resmi dibeli/direkrut**.
-- **OOC:** DM telah menanyakan kebutuhan bisnis langsung kepada player Joshua. Itu **bukan dialog roleplay Graham** dan tidak perlu dipentaskan ulang.
-- Bisnis: **hybrid laundromat** di Beacon District, memakai **3 mesin cuci, 3 pengering, 2 setrika**; self-service koin dari kasir serta layanan cuci/setrika oleh pekerja.
-- Jam buka **pagi–sore**; rencana **1 kasir**, **operator laundry full-time/part-time**, **teknisi on-call**.
-- Detail RP: self-service antre mesin kosong, batas 1 jam/orang/unit, bayar koin tambahan untuk perpanjangan; deterjen tersedia gratis atau pelanggan membawa sendiri. Cuci + setrika titipan dijanjikan siap **3 hari**.
-- Harga dari Joshua adalah **ekuivalen rupiah**, **belum dikonversi ke Gold/Escrow**. Harga koin Rp10.000; daftar jasa per kg dan ide minimum tagihan 3 kg masih perlu finalisasi **OOC**, bukan via RP.
-- Kompensasi usulan Joshua: voucher gratis cuci 1 kg bila terlambat; aturan kerusakan/tertukar masih perlu persetujuan SOP final. Detail ini **tidak perlu dihitung order per order** saat simulasi.
+- **IC:** Joshua meminta Graham Howard mencari tempat, barang, dan pekerja. Tempat **sudah didapatkan** dan lowongan **sudah disebarkan**; barang/pegawai belum dikontrak.
+- **OOC:** Detail rencana usaha sudah disampaikan player ke DM pribadi. **Jangan anggap tujuh pertanyaan bisnis itu pernah terjadi sebagai dialog Graham.**
+- Konsep: laundromat hybrid di Beacon District, **3 mesin cuci, 3 pengering, 2 setrika**; self-service koin, serta jasa cuci dan setrika yang dikerjakan staf.
+- Rencana: **pagi–sore**, **1 kasir**, operator penuh/paruh waktu, teknisi on-call. Cuci + setrika titipan dijanjikan selesai **3 hari**. Pelanggan self-service antre, diberi nomor order, dibatasi **1 jam/orang/unit** dan membeli koin lagi untuk perpanjangan; deterjen gratis/boleh bawa sendiri.
+- Kebijakan usulan player: keterlambatan voucher cuci 1 kg; penanganan pakaian rusak/tertukar masih perlu SOP ringkas.
+- **Satuan ekonomi in-game: Escrow (mengikuti unit uang campaign). Tidak ada rupiah dan tidak perlu kurs.** Detail tarif mesin/per kg, minimum order 3 kg, sewa, dan gaji merupakan keputusan desain **OOC** yang belum final. Simulasi usaha di bawah **tidak menghitung order satu per satu**.
 
-## 2. Core Mechanic: Passive Business
+## 2. Passive Business Mechanics
 
-**Tujuan:** Setelah laundromat benar-benar buka, usaha berjalan **otomatis** di background. Tidak perlu bermain tiap pelanggan, mensimulasikan cucian, atau roll event acak setiap hari.
+Setelah **grand opening benar-benar terjadi**, bisnis berjalan di background. **Satu tick = satu minggu in-game**, bukan minggu nyata. Empat tick = satu periode gajian (28 hari in-game).
 
-**Satu tick = satu minggu berlalu di dunia game** (bukan satu minggu waktu nyata atau satu minggu chat). Empat tick = satu periode gajian/bulan bisnis. Jika story melewati beberapa minggu, jalankan tick yang sesuai saat DM merekap downtime.
+### Mingguan: satu roll pemasukan
 
-### Weekly Income Roll (usulan mekanik ringan)
+**Roll `4d6 Escrow`** per minggu in-game.
 
-Roll **4d6 × Rp100.000** = **hasil usaha mingguan setelah biaya rutin** air, listrik, dan bahan habis pakai, **sebelum gaji dan sewa**.
+- Rentang **4–24 Escrow**, rata-rata **14 Escrow/minggu**.
+- Ini adalah **pemasukan setelah biaya rutin** (air, listrik, deterjen, dan bahan habis pakai), tetapi **sebelum gaji dan biaya tetap**.
+- Nominal `4d6` adalah **baseline proposal DM**, bukan hasil transaksi atau profit yang sudah terjadi. Dapat disesuaikan saat bisnis dibuka supaya passive income tidak melampaui nilai mission reguler.
+- Tidak ada roll pelanggan, tarif/kg, atau random-event harian.
 
-- Rentang: **Rp400.000–Rp2.400.000** per minggu; rerata **Rp1.400.000**.
-- Angka ini **baseline rancangan DM**, bukan harga final atau kurs canon. Sesuaikan nilai perkalian bila skala uang campaign berubah.
-- **Tidak ada roll event pada minggu biasa.** Cukup catat hasil mingguan sebagai saldo bisnis.
-
-### Payday: Setiap 4 Tick
+### Setiap 4 Minggu: gajian & laba
 
 ```text
-Saldo bulanan = jumlah 4 hasil roll mingguan
-                - total gaji bulanan karyawan
-                - sewa / biaya tetap bulanan
+Pemasukan periode = total empat roll mingguan (Escrow)
+Laba / rugi = pemasukan periode - gaji - biaya tetap (Escrow)
 ```
 
-- **Gaji kasir, operator, dan biaya tetap disepakati sekali saat opening** lalu dipakai konsisten tiap periode. Teknisi on-call hanya menambah biaya ketika dipakai; jika ingin sangat sederhana, masukkan cadangan servis sebagai biaya tetap.
-- Jika saldo positif, menjadi **laba kas bisnis**. Joshua boleh menyimpannya atau menariknya sesuai keputusan player.
-- Jika saldo negatif, jadi **defisit kas bisnis** yang harus ditutupi sebelum laba dapat ditarik. Jangan otomatis mengambil Gold PC tanpa sepengetahuan player.
-- Nominal masih **Rp ekuivalen** sampai DM menetapkan konversi in-world; **jangan langsung mengubah angka ini menjadi Gold/escrow PC**.
+**Contoh anggaran per 4 minggu (PROPOSAL, bukan canon atau kewajiban):**
 
-**Format catatan sangat singkat:**
+| Pos | Escrow |
+|---|---:|
+| Gaji 1 kasir | 12 |
+| Gaji operator cuci/setrika | 16 |
+| Sewa/tempat dan biaya tetap | 8 |
+| Cadangan teknisi on-call | 4 |
+| **Total contoh** | **40** |
+
+Bila tempat ternyata bebas sewa, pekerja tambahan direkrut, atau kesepakatan gaji berbeda, **ubah komponen biaya sekali saat opening**. Setelah itu gunakan nilai yang sama sampai terjadi perubahan IC. Tidak perlu roll biaya satu per satu.
+
+**Contoh satu periode:** roll mingguan **11, 16, 9, 20 Escrow**, total **56 Escrow**. Dengan contoh biaya tetap **40 Escrow**, laba bisnis **16 Escrow**.
+
+- **Laba** menambah kas usaha; Joshua boleh menarik sebagian ke dompet PC, sesuai keputusan player.
+- **Rugi** mengurangi kas usaha. Bila tak cukup, catat defisit; jangan otomatis memotong dompet karakter tanpa persetujuan.
+- **Tidak ada gaji yang dibayar sebelum karyawan benar-benar diterima** dan usaha beroperasi.
+
+**Template log:**
 
 ```text
-Bulan #__ | Minggu 1–4: __ / __ / __ / __
-Total mingguan: Rp__
-Gaji + biaya tetap: Rp__
-Laba/rugi bulan: Rp__
-Kas usaha akumulatif: Rp__
-Business Progress: __/2
+Laundromat | Periode #__
+Minggu 1–4 : __ / __ / __ / __ Escrow
+Total      : __ Escrow
+Gaji+tetap : __ Escrow
+Laba/rugi  : __ Escrow
+Kas usaha  : __ Escrow
+Progress   : __/2
 ```
 
-## 3. Milestone = Pemicu Side Lore
+## 3. Milestone Menjadi Side-Lore Event
 
-**Usulan default:**
-- **1 bulan yang menghasilkan laba positif** = **+1 Business Progress**.
-- Setiap **2 Business Progress**, tercapai **1 Business Milestone**. Reset progress ke 0/2.
-- **Hanya saat milestone** DM roll **1d6** untuk menentukan tema *side-lore event*. Jangan roll random event tiap tick mingguan.
-- Event bisa dimainkan sebagai **PbP side mission** atau **Voice One-Shot** jika cocok. Tidak harus combat atau kehilangan uang; fokus hubungan warga, reputasi, dan konsekuensi cerita.
-- Keberhasilan/kegagalan event **tidak otomatis mengubah level karakter atau menggandakan payout**; milestone leveling tetap mengikuti [[Beyond Vaelithra Player Progress Milestone Tracker]].
+- **Setiap satu periode 4 minggu yang laba positif:** +1 **Business Progress**.
+- Saat mencapai **2/2 progress**, trigger **1 Business Milestone**, lalu reset menjadi 0/2.
+- **Hanya saat milestone** roll `1d6` untuk jenis side-lore event. Tidak ada random event pada minggu normal.
+- Baru buat skenario yang detail ketika milestone benar-benar terpicu, berdasarkan situasi Kartaloka saat itu. Bisa PbP atau voice one-shot.
+- Event bisnis **bukan otomatis level-up PC**; ikuti [[Beyond Vaelithra Player Progress Milestone Tracker]].
 
-| 1d6 | Tema Side Lore Event (baru dikembangkan ketika terpicu) |
+| 1d6 | Tema |
 |---|---|
-| 1 | Warga Beacon membawa permintaan bantuan pribadi |
-| 2 | Salah satu pekerja punya masalah atau kesempatan baru |
-| 3 | Ada barang tertinggal dengan cerita yang tak terduga |
-| 4 | Pemasok atau usaha sekitar menawarkan kerja sama |
-| 5 | Pesaing lokal menciptakan persaingan/negosiasi |
-| 6 | Perubahan di Beacon District memengaruhi komunitas usaha |
+| 1 | Permintaan bantuan warga Beacon |
+| 2 | Kisah pribadi salah satu pegawai |
+| 3 | Barang tertinggal membuka misteri |
+| 4 | Tawaran kerja sama usaha lokal |
+| 5 | Persaingan dan negosiasi bisnis |
+| 6 | Perubahan situasi komunitas Beacon |
 
-**Milestone bukan selalu masalah:** bisa menghasilkan teman, reputasi, informasi, kontrak, atau perubahan kecil di distrik. Hook spesifik dan konsekuensinya ditulis **nanti**, berdasarkan world state saat milestone terjadi.
+Event bisa menguntungkan, merugikan, atau sekadar mengubah hubungan karakter. Jangan otomatis membuat setiap milestone sebagai bencana atau mengambil uang usaha.
 
-## 4. Status & Checklist
+## 4. Next Step & Checklist
 
 - [x] Tempat usaha ditemukan.
 - [x] Lowongan pegawai disebarkan.
-- [x] Arahan model bisnis, peralatan, dan staffing diperoleh **OOC**.
-- [ ] Graham menyerahkan opsi barang dan kandidat secara **IC**, lalu Joshua menentukan hasil.
-- [ ] Modal awal, pengadaan, dan pegawai disetujui/dibayar.
-- [ ] Tarif final, minimum order (jika ada), serta biaya gaji dan sewa disepakati **OOC**.
-- [ ] **Grand opening** terjadi dan bisnis dinyatakan aktif.
-- [ ] Mulai tick mingguan, periode gajian, dan progress milestone.
+- [x] Spesifikasi usaha dari player dikumpulkan **OOC**.
+- [ ] **IC:** Graham membawa opsi pemasok dan calon pekerja, Joshua menentukan pilihannya.
+- [ ] **OOC:** Tetapkan modal, gaji, biaya tetap, dan harga dalam **Escrow**; minimum order jika diinginkan. **Angka tabel di atas masih contoh.**
+- [ ] Beli perlengkapan, rekrut pegawai, lalu lakukan grand opening.
+- [ ] Mulai roll mingguan, gajian empat minggu, dan progress milestone.
 
-> **DM rule:** Jangan jalankan business roll sebelum usaha buka. Setelah buka, fokus pada **pemasukan, gajian, dan milestone**. Simulasi detail pelanggan, kerusakan mesin, shift, dan kebijakan laundry hanya dipakai bila benar-benar relevan dengan cerita.
+> **Aturan DM:** Scene Graham tidak perlu membahas ulang urusan administrasi OOC. Setelah laundromat buka, cukup **1 roll per minggu, 1 rekap per 4 minggu, dan event hanya saat milestone**.
