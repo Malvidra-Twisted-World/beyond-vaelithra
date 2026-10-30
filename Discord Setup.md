@@ -1,5 +1,7 @@
 # Discord Setup — Beyond Vaelithra
 
+> **Update operasional:** Beyond Vaelithra kini direncanakan mendukung **Voice One-Shot, Play-by-Post, dan Hybrid Arc**. Struktur channel PbP di bawah tetap berlaku; untuk penambahan sesi voice melalui Discord + Malvidra Encounter VTT, rekrut resident baru, dan status roster, lihat [[Hybrid Campaign Operations]]. Panduan ini tidak berarti voice session atau recruitment sudah dibuka.
+
 > Terkait: [[Design Document]] · [[Starter Missions]] · [[Dashboard]]
 
 Tiga hal siap pakai: struktur channel, draft pengumuman pembukaan, dan pinned rules. Semua teks di bawah sudah dalam format Markdown Discord — tinggal copy-paste.
