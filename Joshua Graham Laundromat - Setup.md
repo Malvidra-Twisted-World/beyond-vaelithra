@@ -22,19 +22,19 @@ visibility: DM Only
 - Joshua telah meminta bantuan **Graham Howard**, Chairman of the Beacon Hub Foundation yang mengenalnya sebagai resident Beacon Hub.
 - Usaha yang ingin dibuka adalah **laundromat**.
 - Graham telah menyebarkan kabar mengenai **lowongan pekerjaan** dan sedang membantu **mencarikan peralatan serta kandidat pegawai**.
-- **Model layanan sudah diputuskan Joshua: hybrid dengan kasir, self-service berbasis koin, layanan cuci + setrika, dan setrika saja.** Rinciannya tercatat di bawah.
-- **Spesifikasi baru dari Joshua (proposal operasional sudah diucapkan):** 3 mesin cuci, 3 pengering, 2 setrika; kasir seharian, teknisi panggilan, serta operator cuci/setrika tetap atau paruh waktu; buka pagi–sore.
+- **Arahan OOC player:** Joshua memilih rancangan hybrid dengan kasir, self-service berbasis koin, layanan cuci + setrika, dan setrika saja. Rinciannya tercatat di bawah. **Ini bukan dialog yang sudah terjadi dengan Graham.**
+- **Spesifikasi baru dari jawaban OOC Joshua (rencana operasional, belum diucapkan IC kepada Graham):** 3 mesin cuci, 3 pengering, 2 setrika; kasir seharian, teknisi panggilan, serta operator cuci/setrika tetap atau paruh waktu; buka pagi–sore.
 - **Tarif awal sudah diberikan Joshua dalam ekuivalen rupiah**, tetapi ada usulan revisi dari DM dan *perlu rekonsiliasi* antara harga per koin, per kg, dan ongkos jasa pegawai. Lihat bagian 1A.
 - **Belum final:** kurs rupiah ke mata uang in-world, satuan/struktur harga final, harga mesin dan modal tersedia, pegawai yang diterima, nama bisnis, serta tanggal pembukaan.
 - Hubungan Joshua dengan Graham bukan berarti Joshua otomatis memiliki sumber daya atau kewenangan penuh The Beacon Circle.
 
-**Aturan DM:** Opsi, kandidat, pemasok, dan masalah di bawah merupakan **proposal konten untuk dimainkan**, bukan kejadian yang sudah canon. Hanya tetapkan hasil setelah Joshua memilih atau scene mengonfirmasikannya.
+**Aturan DM:** Semua jawaban bisnis dari Joshua diperoleh lewat **DM OOC antara DM dan player**, bukan adegan antara Joshua dan Graham Howard. Perlakukan sebagai keputusan dan preferensi **player untuk rancangan bisnis**, bukan ucapan NPC/PC yang otomatis sudah terjadi in-character. Opsi, kandidat, pemasok, dan masalah di bawah merupakan proposal konten untuk dimainkan, bukan kejadian yang sudah canon. Sebelum dipakai sebagai informasi yang diketahui Graham, komunikasikan secara in-character bila diperlukan, atau tetapkan handover off-screen secara sadar dan catat, **bukan mengarang bahwa percakapan sudah terjadi**.
 
-### Keputusan Joshua (Canon, jawaban langsung dari player)
+### Arahan Joshua kepada DM (OOC, bukan dialog in-character)
 
 > "ya jadi laundrynya akan dibagi menjadi dua layanan. self-service dengan membeli koin dari kasir, dan laundry cuci + setrika dengan waktu pengambilan 3 hari. Self-service juga dapat menggunakan jasa setrika saja"
 
-**Interpretasi layanan yang sudah disepakati:**
+**Model layanan yang dipilih player sebagai rancangan:**
 
 | Layanan | Alur yang telah diputuskan | Yang masih perlu diputuskan |
 |---|---|---|
@@ -44,9 +44,9 @@ visibility: DM Only
 
 **Penting:** Janji **3 hari berlaku untuk paket cuci + setrika** sesuai pernyataan Joshua. Jangan diam-diam menerapkannya ke setrika saja sebelum dikonfirmasi. Semua layanan belum resmi beroperasi hingga perlengkapan dan pegawai tersedia.
 
-### 1A. Jawaban Terbaru Joshua — Catatan Sumber & Status
+### 1A. Jawaban OOC Joshua kepada DM — Catatan Sumber & Status
 
-**Catatan primer dari player (2026-10-30, belum semua unsur menjadi tarif final):**
+**Jawaban diberikan di private DM secara OOC (2026-10-30), bukan hasil roleplay.** Belum semua unsur menjadi tarif final atau diketahui Graham secara IC:
 
 1. **Peralatan:** 3 mesin cuci, 3 mesin pengering, dan 2 set/perangkat setrika.
 2. **Harga yang diajukan Joshua sebagai ekuivalen rupiah:**
@@ -56,7 +56,7 @@ visibility: DM Only
 4. **Kepegawaian:** **1 kasir sepanjang jam operasional**, **teknisi on-call**, operator cuci + setrika dapat **full-time atau part-time**.
 5. **Penanganan masalah:** terlambat -> **voucher cuci gratis 1 kg**; pakaian tertukar -> **tidak ditanggung** menurut usulan awal; barang rusak di self-service -> **tidak ditanggung**; barang rusak dalam layanan titip -> **kompensasi 50% harga barang** menurut maksud awal (basis valuasi perlu ditetapkan), dan staf wajib memeriksa kondisi sebelum mencuci; order setrika saja diterima.
 
-**Usulan revisi dari DM setelah jawaban Joshua (BELUM boleh menggantikan tarif Joshua tanpa konfirmasi):**
+**Pembahasan OOC dari DM setelah jawaban Joshua (BELUM boleh menggantikan tarif Joshua tanpa konfirmasi):**
 - Cuci + setrika **Rp7.000/kg**.
 - Cuci saja **Rp6.000/kg**.
 - Setrika saja **Rp5.000/kg**.
@@ -90,7 +90,7 @@ visibility: DM Only
 | Express | **Rp10.000**; basis (per kg? biaya tambahan?) dan deadline tidak disebut | **Belum ditentukan** |
 | Ongkos staf untuk titip | Terwakili dalam harga awal atau belum? **Perlu dipastikan** | Akan ada **tambahan per kg** dengan angka TBA |
 
-**Prinsip rekomendasi agar sederhana:**
+**Saran penataan tarif OOC agar sederhana:**
 - Jadikan **koin sebagai tarif akses mesin**, bukan otomatis menambah tarif cuci per kg. Jika Joshua memang ingin model **koin + Rp2.000/kg**, minta dia menegaskan mekanisme timbang dan kapan pelanggan membayar.
 - Jadikan **cuci + setrika, cuci saja, dan setrika saja** sebagai **menu jasa karyawan** berbasis kilogram, bukan tarif mesin self-service, kecuali Joshua benar-benar memilih model lain.
 - Jangan membuat nilai kurs antara nominal rupiah referensi dan gold/Escrow tanpa keputusan ekonomi kampanye. **Ekuivalen rupiah = angka analogi harga, bukan otomatis mata uang baru di Kartaloka.**
@@ -117,35 +117,31 @@ visibility: DM Only
 5. **Serah-terima:** cocokkan nomor order, daftar barang, dan pelanggan; dokumentasikan kondisi awal, pembayaran, komplain, voucher keterlambatan, dan status penyelesaian. Jangan gunakan klausul "barang tertukar tidak ditanggung" sebagai alasan mengabaikan proses pencarian.
 6. **Kapasitas:** sebelum menawarkan banyak order, pastikan mesin, setrika, ruang pengeringan, dan karyawan sanggup memenuhi janji 3 hari.
 
-## 2. Scene Lanjutan — Respons Graham atas Jawaban Joshua
+## 2. Scene Lanjutan — Graham Membawa Hasil Pencarian (IC)
 
-**Trigger:** Joshua menghubungi atau menemui Graham untuk menanyakan perkembangan pengadaan peralatan dan pegawai.
+> **Pemisahan OOC/IC:** Tujuh pertanyaan dan jawaban tentang jumlah unit, tarif, jadwal, staffing, dan kompensasi dilakukan di DM OOC. **Tidak pernah ada adegan Graham mengajukan tujuh pertanyaan tersebut.** Jangan tulis Graham mengetahui angka-angka detail itu dari percakapan yang tidak dimainkan. DM boleh menganggap handover spesifikasi terjadi off-screen **hanya jika memang diinginkan dan dicatat**, bukan sebagai kejadian otomatis.
 
-### Respons Graham setelah Joshua menjawab spesifikasi (siap pakai di PbP)
+**Posisi IC yang sudah diketahui:** Joshua meminta Graham membantu mencari lokasi, perlengkapan, dan pegawai. Lokasi sudah didapatkan, lowongan telah disebarkan, dan Graham sedang mengumpulkan penawaran dan kandidat. **Belum ada pembelian, kontrak kerja, atau pembukaan usaha.**
 
-> Graham menyelesaikan hitungan pada kertasnya. Ada tiga kolom: **mesin**, **orang**, dan **aturan pelayanan**.
->
-> "Tiga mesin cuci, tiga pengering, dan dua setrika. Baik. Aku akan mencari penawaran dengan jumlah itu, termasuk sistem koin yang bisa dikelola dari kasir."
->
-> "Untuk karyawan, satu kasir sepanjang hari dan teknisi panggilan masih masuk akal sebagai rancangan awal. Tapi untuk jasa titip yang harus selesai tiga hari, kita harus tahu berapa banyak order yang bisa ditangani para operator."
->
-> Graham lalu menunjuk bagian harga yang memiliki beberapa coretan.
->
-> "Ada satu hal yang perlu kita rapikan sebelum kupasang daftar harga. Kau menyebut sepuluh ribu untuk satu koin, tetapi juga ada harga per kilogram. Apakah pelanggan self-service membayar keduanya, atau harga per kilo hanya berlaku saat staf yang mengerjakan?"
->
-> "Dan tentang aturan barang tertukar, aku sarankan kita benar-benar teliti. Warga Beacon akan lebih mudah mempercayai tempat ini bila mereka tahu cucian mereka dicatat dengan benar, sekalipun terjadi kesalahan."
->
-> Graham menutup map dan menunggu Joshua menjelaskan sistem pembayaran akhirnya.
+### Narasi PbP berikutnya (aman dari retcon)
 
-**DM pause:** Pertanyaan kunci untuk giliran berikutnya adalah **hubungan harga koin dan tarif/kg**, lalu **apakah revisi 6k/7k/5k + ongkos pegawai yang diusulkan DM diterima Joshua**. Peralatan dan staf belum boleh dibeli/direkrut otomatis.
+> Graham Howard menemuimu sambil membawa map yang tampak lebih tebal daripada sebelumnya. Beberapa lembar berisi kontak pemasok, daftar jenis peralatan yang tersedia, dan nama-nama warga yang berminat bekerja.
+>
+> "Aku sudah mengumpulkan beberapa jalur pengadaan peralatan dan ada beberapa orang yang merespons kabar lowongan. Belum ada yang kujanjikan pekerjaan, dan belum ada barang yang kubeli."
+>
+> Ia membuka map itu dan menunjukkan catatan-catatan tersebut.
+>
+> "Kalau kau siap, kita bisa mulai dari melihat penawaran barang, atau aku bisa mengatur pertemuan dengan para pelamar. Kau ingin mulai dari mana?"
 
-### Hal yang Graham dapat kerjakan tanpa mengunci keputusan Joshua
+**DM pause:** Tunggu Joshua memilih arah scene. Jika detail spesifikasi dibutuhkan agar Graham memesan penawaran yang presisi, lakukan **handover spesifikasi singkat IC atau disepakati off-screen**. Jangan memaksakan rapat harga yang sebelumnya sudah ditanyakan OOC.
 
-- Minta penawaran **3 washer + 3 dryer + 2 setrika**, beserta mekanisme pembayaran koin dan kebutuhan instalasi.
-- Survei teknis air, listrik, pengeringan, dan layout antrian.
-- Panggil kandidat kasir dan operator untuk wawancara; minta estimasi gaji full-time / part-time.
-- Susun draf tiket/nomor order, kartu laundry titipan, log kondisi pakaian, dan voucher 1 kg.
-- Buat **dua opsi pricelist tertulis** berdasarkan versi Joshua dan usulan DM; jangan jadikan salah satunya canon sebelum dikonfirmasi.
+### Tindak lanjut di belakang layar (berdasarkan rencana OOC player)
+
+- Susun shortlist penawaran **3 mesin cuci + 3 pengering + 2 setrika**, mekanisme koin, serta syarat instalasi. Ini **persiapan DM**, bukan barang yang sudah dibeli.
+- Siapkan wawancara kasir dan operator; teknisi dapat dicari untuk kontrak panggilan.
+- Survey kebutuhan air, listrik, pengeringan, ruang antre, nomor order, dan tempat cucian titipan.
+- Finalisasi pricelist dan klausul tanggung jawab **di luar scene melalui DM OOC**, lalu cukup terapkan kebijakan bisnis yang disetujui saat operasional in-character.
+- Berikan player pilihan pengadaan, karyawan, biaya, dan kapan bisnis benar-benar berjalan.
 
 ## 3. Opsi Pengadaan Peralatan
 
@@ -250,11 +246,11 @@ Salah satu pelamar menolak keputusan tergesa-gesa tanpa jam kerja, upah, dan har
 ## 7. Alur PbP yang Disarankan
 
 ### Scene A — Laporan Pengadaan (scene aktif berikutnya)
-- Graham menyampaikan penawaran mesin dan respons awal lowongan.
-- **Model layanan sudah ditentukan Joshua: hybrid dengan koin dari kasir, cuci + setrika tiga hari, dan setrika saja untuk pengguna self-service.**
-- **Joshua telah menyebut kebutuhan 3 washer, 3 dryer, 2 setrika; kasir seharian; teknisi panggilan; jam pagi–sore; koin 10k/jam; ketentuan kompensasi awal.**
-- **Scene aktif berikutnya:** Graham meminta kejelasan *koin versus tarif/kg*, apakah surcharge untuk layanan titip berlaku, dan meminta Joshua menilai kebijakan barang tertukar.
-- **Output yang ditunggu:** tarif yang tidak saling tumpang tindih, pilihan sourcing/modal, belum ada pembelian otomatis.
+- **Keputusan player didapat di DM OOC**, bukan melalui diskusi IC. Jangan mengulang tujuh pertanyaan bisnis sebagai dialog Graham.
+- Graham membawa daftar pemasok dan pelamar yang merespons lowongan. Ia belum membeli atau merekrut.
+- Joshua memilih mulai dari pengecekan penawaran barang atau wawancara calon pegawai.
+- **Output yang ditunggu IC:** pilihan langkah berikutnya dan transaksi yang benar-benar disetujui.
+- **Output yang masih ditunggu OOC:** pricelist konsisten (koin vs kg vs jasa pegawai), termasuk keputusan minimum berat; tidak perlu dimainkan sebagai percakapan Graham.
 
 ### Scene B — Survei Teknis & Wawancara
 - Joshua bisa memilih menemui pemasok, meninjau instalasi tempat, atau mewawancarai kandidat.
@@ -271,17 +267,18 @@ Salah satu pelamar menolak keputusan tergesa-gesa tanpa jam kerja, upah, dan har
 - Jalankan satu interaksi pelayanan atau masalah operasional ringan.
 - Tentukan hasil reputasi dan potensi pemasukan dari keputusan pemain.
 
-## 8. Checklist Progress (Update Seusai RP)
+## 8. Checklist Progress (Bedakan keputusan OOC dan kejadian IC)
 
 - [x] Joshua menyatakan keinginan membuka usaha dan membangun komunitas.
 - [x] Joshua meminta bantuan Graham Howard.
 - [x] Tempat usaha telah didapatkan.
 - [x] Kabar lowongan telah disebarkan.
-- [x] Model bisnis dipilih: koin self-service + cuci dan setrika (3 hari) + setrika saja.
-- [x] Kebutuhan alat diputuskan: 3 washer, 3 dryer, 2 setrika.
-- [x] Rancangan staf dan jam layanan disampaikan Joshua.
-- [x] Draft kebijakan voucher keterlambatan dan tanggung jawab kerusakan disampaikan Joshua.
-- [ ] Tarif **coin vs per kg vs tambahan jasa titip** disatukan dan disetujui Joshua.
+- [x] **OOC:** Model bisnis dipilih: koin self-service + cuci dan setrika (3 hari) + setrika saja.
+- [x] **OOC:** Kebutuhan alat dipilih: 3 washer, 3 dryer, 2 setrika.
+- [x] **OOC:** Rancangan staf dan jam layanan dijawab player.
+- [x] **OOC:** Draft kebijakan voucher keterlambatan dan tanggung jawab kerusakan dijawab player.
+- [ ] **IC:** Brief spesifikasi sampai ke Graham atau disepakati disampaikan off-screen, bila diperlukan.
+- [ ] **OOC:** Tarif **coin vs per kg vs tambahan jasa titip**, dan opsi **minimum tagihan 3 kg**, dibahas dan disetujui Joshua (minimum 3 kg masih saran DM, **belum keputusan player**).
 - [ ] Penawaran mesin diterima / pemasok dipilih.
 - [ ] Inspeksi lokasi dan instalasi selesai.
 - [ ] Pegawai diseleksi dan perjanjian kerja disepakati.
@@ -297,7 +294,7 @@ Jangan mencatat uang keluar/masuk atau NPC sebagai staf resmi sebelum disahkan d
 | Elemen | Status | Catatan untuk diisi setelah scene |
 |---|---|---|
 | Tempat usaha | Didapatkan | Alamat, status sewa/milik, dan biaya bila diketahui |
-| Model layanan | **Diputuskan Joshua** | Self-service koin dibeli di kasir; paket cuci + setrika tiga hari; setrika saja untuk pengguna self-service |
+| Model layanan | **Dipilih player OOC** | Self-service koin dibeli di kasir; paket cuci + setrika tiga hari; setrika saja untuk pengguna self-service; belum otomatis menjadi dialog IC |
 | Pemasok mesin | Mencari | Supplier pilihan, rincian unit, harga |
 | Peralatan | Jumlah diminta, belum dibeli | **3 mesin cuci, 3 pengering, 2 setrika** + koin, kasir, penanda order |
 | Staf | Lowongan tersebar | **1 kasir sepanjang buka; teknisi on-call; operator tetap/part-time**. Nama, gaji, jadwal belum diputuskan |
@@ -310,4 +307,4 @@ Jangan mencatat uang keluar/masuk atau NPC sebagai staf resmi sebelum disahkan d
 | Pendapatan | Belum ada | Mulai dihitung setelah usaha benar-benar berjalan |
 | Nama laundromat | Belum dipilih | Hak Joshua menentukan |
 
-> **DM reminder:** Graham Howard adalah fasilitator dan penghubung, bukan pengambil keputusan atau sumber dana tanpa batas. Beri Joshua ruang menentukan bisnisnya sendiri.
+> **DM reminder:** Graham Howard adalah fasilitator dan penghubung, bukan pengambil keputusan atau sumber dana tanpa batas. **Jangan melakukan retroactive RP atas pertanyaan OOC.** Biarkan Joshua menentukan tindakan IC dan jangan mengunci tarif minimum 3 kg sebelum disetujui player.
