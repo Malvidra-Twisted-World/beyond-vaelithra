@@ -18,7 +18,7 @@ visibility: DM Only
 - Konsep: laundromat hybrid di Beacon District, **3 mesin cuci, 3 pengering, 2 setrika**; self-service koin, serta jasa cuci dan setrika yang dikerjakan staf.
 - Rencana: **pagi–sore**, **1 kasir**, operator penuh/paruh waktu, teknisi on-call. Cuci + setrika titipan dijanjikan selesai **3 hari**. Pelanggan self-service antre, diberi nomor order, dibatasi **1 jam/orang/unit** dan membeli koin lagi untuk perpanjangan; deterjen gratis/boleh bawa sendiri.
 - Kebijakan usulan player: keterlambatan voucher cuci 1 kg; penanganan pakaian rusak/tertukar masih perlu SOP ringkas.
-- **Satuan ekonomi in-game: Escrow (mengikuti unit uang campaign). Tidak ada rupiah dan tidak perlu kurs.** Detail tarif mesin/per kg, minimum order 3 kg, sewa, dan gaji merupakan keputusan desain **OOC** yang belum final. Simulasi usaha di bawah **tidak menghitung order satu per satu**.
+- **Satuan ekonomi in-game: Escrow (mengikuti unit uang campaign). Tidak perlu kurs atau konversi.** Detail tarif mesin/per kg, minimum order 3 kg, sewa, dan gaji merupakan keputusan desain **OOC** yang belum final. Simulasi usaha di bawah **tidak menghitung order satu per satu**.
 
 ## 2. Passive Business Mechanics
 
