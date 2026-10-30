@@ -1,7 +1,11 @@
 
 # [[Joshua Graham]]
 ---
-Joshua berniat membuka usaha kecil untuk membangun komunitas di **[[Districts#Beacon District|Beacon District]]**. Menemui Graham Howard sang kepala Yayasan Beacon Hub, akhirnya Graham mendapatkan spot berpotensi untuk Joshua.
+Joshua berniat membangun komunitas di **[[Districts#Beacon District|Beacon District]]** dengan membuka **laundromat**. Setelah meminta bantuan **[[Factions Structure#Graham Howard|Graham Howard]]**, Chairman of the Beacon Hub Foundation, **tempat usaha sudah didapatkan**.
+
+**Status RP:** Joshua kini meminta Graham membantu mencarikan **peralatan mesin laundry dan pegawai**. Graham telah menyebarkan informasi lowongan kerja serta menyiapkan opsi pengadaan. Belum ada mesin yang dibeli atau pegawai yang resmi diterima; keputusan anggaran, model layanan, dan perekrutan tetap di tangan Joshua.
+
+**Lanjutan scene DM:** [[Joshua Graham Laundromat - Setup]] (dialog siap PbP, penawaran mesin, kandidat, check, dan progress tracker).
 
 ---
 # [[Iggy]]
