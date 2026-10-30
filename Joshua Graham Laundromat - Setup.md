@@ -22,37 +22,66 @@ visibility: DM Only
 - Joshua telah meminta bantuan **Graham Howard**, Chairman of the Beacon Hub Foundation yang mengenalnya sebagai resident Beacon Hub.
 - Usaha yang ingin dibuka adalah **laundromat**.
 - Graham telah menyebarkan kabar mengenai **lowongan pekerjaan** dan sedang membantu **mencarikan peralatan serta kandidat pegawai**.
-- **Belum ditetapkan:** jenis layanan akhir (self-service / drop-off / hybrid), merek dan jumlah mesin, harga, pengeluaran final, pegawai yang diterima, nama bisnis, dan tanggal pembukaan.
+- **Model layanan sudah diputuskan Joshua: hybrid dengan kasir, self-service berbasis koin, layanan cuci + setrika, dan setrika saja.** Rinciannya tercatat di bawah.
+- **Belum ditetapkan:** harga per koin, tarif cuci + setrika / setrika saja, mekanisme pengembalian pakaian, merek dan jumlah mesin, pengeluaran final, pegawai yang diterima, nama bisnis, serta tanggal pembukaan.
 - Hubungan Joshua dengan Graham bukan berarti Joshua otomatis memiliki sumber daya atau kewenangan penuh The Beacon Circle.
 
 **Aturan DM:** Opsi, kandidat, pemasok, dan masalah di bawah merupakan **proposal konten untuk dimainkan**, bukan kejadian yang sudah canon. Hanya tetapkan hasil setelah Joshua memilih atau scene mengonfirmasikannya.
 
-## 2. Scene Lanjutan — Laporan Graham Howard
+### Keputusan Joshua (Canon, jawaban langsung dari player)
+
+> "ya jadi laundrynya akan dibagi menjadi dua layanan. self-service dengan membeli koin dari kasir, dan laundry cuci + setrika dengan waktu pengambilan 3 hari. Self-service juga dapat menggunakan jasa setrika saja"
+
+**Interpretasi layanan yang sudah disepakati:**
+
+| Layanan | Alur yang telah diputuskan | Yang masih perlu diputuskan |
+|---|---|---|
+| **Self-service** | Pelanggan membeli **koin dari kasir** untuk mengoperasikan layanan mandiri | Harga koin, berapa koin per siklus, aturan mesin, jam layanan |
+| **Cuci + setrika (drop-off)** | Pelanggan menitipkan pakaian untuk dicuci dan disetrika oleh layanan; **pengambilan 3 hari** | Tarif, prosedur timbang/hitung, tiket pengambilan, kapasitas harian, kebijakan keterlambatan |
+| **Setrika saja** | Pengguna **self-service boleh menambahkan jasa setrika tanpa memesan paket cuci + setrika** | Tarif, mekanisme serah-terima, dan waktu penyelesaian khusus setrika saja |
+
+**Penting:** Janji **3 hari berlaku untuk paket cuci + setrika** sesuai pernyataan Joshua. Jangan diam-diam menerapkannya ke setrika saja sebelum dikonfirmasi. Semua layanan belum resmi beroperasi hingga perlengkapan dan pegawai tersedia.
+
+### SOP operasional yang perlu disiapkan Graham (proposal, belum hasil RP)
+
+1. **Kasir:** menjual dan mencatat koin; memberi instruksi dasar penggunaan mesin; menerima pembayaran jasa lain.
+2. **Self-service:** pelanggan memilih mesin, menggunakannya dengan koin, dan bertanggung jawab atas pakaian selama penggunaan mandiri; aturan kehilangan/kerusakan perlu ditetapkan Joshua.
+3. **Drop-off cuci + setrika:** staf mencatat identitas/order, jumlah atau berat cucian, tanggal serah, dan tanggal pengambilan **3 hari kemudian**; beri tiket/nomor order.
+4. **Setrika saja:** sediakan meja penerimaan dan penandaan cucian terpisah dari order cuci + setrika; tentukan estimasi penyelesaian melalui Joshua.
+5. **Serah-terima:** cocokkan tiket dan barang, catat pembayaran serta komplain secara sederhana.
+6. **Kapasitas:** sebelum menawarkan banyak order, pastikan mesin, setrika, ruang pengeringan, dan karyawan sanggup memenuhi janji 3 hari.
+
+## 2. Scene Lanjutan — Respons Graham atas Jawaban Joshua
 
 **Trigger:** Joshua menghubungi atau menemui Graham untuk menanyakan perkembangan pengadaan peralatan dan pegawai.
 
-### Narasi pembuka (siap kirim di PbP)
+### Narasi respons Graham (siap kirim di PbP berikutnya)
 
-> Graham Howard mengeluarkan beberapa lembar catatan dari map yang dibawanya. Di antara daftar kontak dan perkiraan kebutuhan, terdapat dua lembar yang ia tempatkan paling atas: **penawaran peralatan** dan **daftar pelamar**.
+> Graham menyimak penjelasan Joshua, lalu menggeser satu kertas kosong ke tengah meja. Ia menuliskan tiga baris: **Koin**, **Cuci + Setrika**, dan **Setrika Saja**.
 >
-> "Joshua, tempatnya sudah ada. Sekarang kita tinggal memastikan tempat itu benar-benar bisa beroperasi sebagai laundromat."
+> "Baik. Berarti kasir akan jadi titik utama, bukan cuma menerima pembayaran. Dia harus menyiapkan koin untuk pelanggan yang ingin mencuci sendiri, menerima cucian titipan, dan mencatat permintaan setrika saja."
 >
-> "Aku sudah bicara dengan beberapa penjual mesin. Ada pilihan yang lebih murah, meski perlu pemeriksaan lebih teliti, dan ada paket yang kondisinya lebih terjamin. Soal pegawai, kabar lowongannya sudah sampai ke warga. Beberapa orang tertarik."
+> Graham memberi garis di bawah layanan kedua.
 >
-> Graham mengetuk pelan lembar pertama.
+> "Tiga hari untuk cuci dan setrika. Itu bisa kita janjikan, asalkan jumlah mesin, pekerja, dan alur pengerjaannya benar-benar mampu menepati waktu itu."
 >
-> "Tapi sebelum kita keluarkan uang, aku perlu keputusanmu. Kau ingin pelanggan mencuci sendiri, menitipkan cucian kepada pegawai, atau menyediakan keduanya?"
+> "Kalau begitu, penawaran mesinnya perlu kutinjau dengan kebutuhan baru ini. Kita juga harus sediakan meja penerimaan, alat setrika, penanda cucian, dan penyimpanan. Aku akan mencari calon pekerja yang terbiasa melayani pelanggan sekaligus mengurus pakaian."
+>
+ Graham menatap Joshua sebelum melanjutkan.
+>
+> "Untuk mulai, kau ingin kita mengejar peralatan yang lebih hemat, atau modal lebih besar dengan kapasitas lebih banyak? Setelah itu, aku bisa mulai mempertemukanmu dengan para pelamar."
 
-**Tunggu jawaban Joshua.** Graham tidak memilih model bisnis untuknya.
+**Berhenti di sini dan tunggu keputusan Joshua tentang anggaran/kapasitas.** Jangan putuskan harga, pembelian, atau rekrutmen untuknya.
 
-### Pertanyaan yang dapat Graham ajukan (bertahap, jangan semuanya sekaligus)
+### Pertanyaan lanjutan (satu per satu menurut kebutuhan RP)
 
-1. **Model layanan:** self-service, jasa laundry dikerjakan pegawai (*drop-off*), atau hybrid?
-2. **Prioritas:** menekan modal awal, atau menyiapkan kapasitas lebih besar?
-3. **Tenaga kerja:** butuh petugas tetap, shift, atau teknisi panggilan?
-4. **Modal:** berapa batas anggaran yang bersedia Joshua keluarkan? Jangan menentukan angka atas nama PC.
+1. **Modal/kapasitas:** mulai dari mesin lebih sedikit atau paket lebih besar?
+2. **Harga layanan:** harga koin dan berapa koin per penggunaan; tarif cuci + setrika; tarif setrika saja?
+3. **Operasional:** jam buka, apakah pelanggan self-service perlu menunggu mesin kosong, dan bagaimana pencatatan tiket order?
+4. **Kepegawaian:** kasir/penerimaan dan operator cuci-setrika dibutuhkan dalam jadwal seperti apa? Siapa yang menangani setrika?
+5. **Kualitas layanan:** apa aturan keterlambatan penyelesaian 3 hari, barang tertukar/rusak, dan order setrika saja?
 
-Jika Joshua belum ingin memutuskan semuanya, Graham boleh mengusulkan survei teknis terlebih dahulu.
+Jika Joshua belum memutuskan tarif, Graham bisa menawarkan survei harga di lingkungan Beacon District sebagai **langkah berikutnya**, tanpa menciptakan angka sebagai fakta.
 
 ## 3. Opsi Pengadaan Peralatan
 
@@ -60,8 +89,8 @@ Graham membawa **dua penawaran awal**, bukan barang yang sudah dibeli.
 
 | Opsi | Isi Penawaran Awal | Kelebihan | Risiko / Konsekuensi |
 |---|---|---|---|
-| **A. Mulai Kecil** | 2 mesin cuci refurbished, 1 pengering refurbished, rak dan meja lipat, peralatan pembersih dasar | Modal awal lebih rendah, mudah menguji permintaan | Kapasitas kecil, kondisi mesin perlu diuji, biaya servis bisa muncul |
-| **B. Siap Tumbuh** | 3 mesin cuci baru, 2 pengering baru, perlengkapan operasional, opsi sistem pembayaran | Kapasitas lebih besar, garansi/servis lebih jelas | Modal lebih tinggi, kebutuhan utilitas dan ruang lebih besar |
+| **A. Mulai Kecil** | 2 mesin cuci refurbished, 1 pengering refurbished, mekanisme koin + persediaan koin kasir, meja penerimaan, setrika, papan setrika, penanda order, rak dasar | Modal awal lebih rendah, cocok uji permintaan | Kapasitas terbatas; perlu cermat menjaga deadline 3 hari, kondisi mesin perlu diuji |
+| **B. Siap Tumbuh** | 3 mesin cuci baru, 2 pengering baru, mekanisme koin + stok koin, meja kasir/penerimaan, beberapa setrika & papan, penanda order, rak penyimpanan | Kapasitas lebih besar, servis/garansi lebih jelas | Modal lebih tinggi, ruang, staf, dan utilitas harus memadai |
 
 **Harga:** Tentukan berdasarkan skala ekonomi kampanye dan keputusan Joshua. Jangan menulis transaksi ke ledger sebelum pembelian disetujui.
 
@@ -70,7 +99,8 @@ Graham membawa **dua penawaran awal**, bukan barang yang sudah dibeli.
 - Daya listrik, jaringan/instalasi, dan ventilasi pengering memadai.
 - Ruang aman untuk pelanggan, staf, dan penyimpanan deterjen.
 - Akses pengiriman mesin serta ketersediaan servis dan suku cadang.
-- Untuk drop-off/hybrid: meja penerimaan, sistem penandaan cucian, dan tempat penyimpanan terpisah.
+- Untuk model hybrid yang sudah dipilih: mesin yang mendukung **sistem koin**, stok koin di kasir, meja penerimaan, sistem penandaan cucian, setrika/papan setrika, dan ruang penyimpanan order terpisah.
+- Cek bahwa kapasitas peralatan dan staf memungkinkan **paket cuci + setrika selesai untuk diambil setelah 3 hari**.
 
 **Dialog tindak lanjut Graham:**
 
@@ -87,7 +117,7 @@ Kabar lowongan yang disebarkan Graham menghasilkan **tiga kandidat awal**. Tidak
 - **Pengalaman:** Pernah menjaga toko kecil dan mengurus pembayaran serta pencatatan stok.
 - **Kelebihan:** Teliti, ramah, bisa membuat proses terima-kembali cucian lebih rapi.
 - **Kekurangan:** Belum berpengalaman menggunakan mesin laundry komersial.
-- **Cocok untuk:** kasir self-service, penerimaan laundry drop-off, koordinasi operasional.
+- **Cocok untuk:** **kasir penjualan koin**, penerimaan laundry cuci + setrika maupun setrika saja, pengelolaan tiket dan pembayaran.
 - **Pertanyaan wawancara:** "Jika pelanggan mengaku kehilangan pakaian, bagaimana kau menyelesaikannya?"
 - **Sikap:** Minta gaji dan jam kerja yang jelas sebelum menerima tawaran.
 
@@ -105,14 +135,15 @@ Kabar lowongan yang disebarkan Graham menghasilkan **tiga kandidat awal**. Tidak
 - **Pengalaman:** Belum pernah bekerja formal; ingin memperoleh penghasilan untuk membantu keluarga.
 - **Kelebihan:** Mau belajar, bisa membantu kebersihan, penyortiran, dan pelayanan sederhana.
 - **Kekurangan:** Butuh pelatihan dan pengawasan pada masa awal.
-- **Cocok untuk:** petugas laundry, asisten shift, pekerjaan pendukung.
+- **Cocok untuk:** **operator cuci + setrika**, penyortiran dan penandaan cucian, bantuan self-service dan pekerjaan pendukung.
 - **Pertanyaan wawancara:** "Kalau kau melakukan kesalahan yang merusak pakaian pelanggan, apa yang kau lakukan?"
 - **Sikap:** Gugup tetapi bersungguh-sungguh.
 
-**Saran kebutuhan awal:**
-- **Self-service:** satu petugas layanan pada jam sibuk; teknisi panggilan.
-- **Drop-off:** satu staf terima/administrasi dan satu staf operasional; teknisi panggilan.
-- **Hybrid:** mulai dengan jumlah pekerja yang realistis terhadap jam operasional dan volume cucian.
+**Saran kebutuhan awal untuk model hybrid yang telah dipilih:**
+- Minimal ada **fungsi kasir / penjualan koin / penerimaan dan serah-terima order** (bisa dipegang satu orang per shift).
+- Minimal ada **fungsi operasional cuci, pengeringan dan setrika** agar paket tiga hari realistis (pegawai bisa rangkap bila volume rendah, bukan berarti semua harus full-time).
+- Darian dapat diajak sebagai **teknisi panggilan** untuk inspeksi dan perawatan, bukan otomatis pegawai tetap.
+- Periksa kebutuhan shift, aturan ketenagakerjaan lokal, dan kapasitas selama uji operasional.
 - Jangan memaksa Joshua menerima kandidat tertentu; boleh wawancara, menawar gaji, mencari kandidat tambahan, atau menjalankan sendiri dahulu.
 
 ### Scene wawancara (opsional, siap kirim)
@@ -156,8 +187,9 @@ Salah satu pelamar menolak keputusan tergesa-gesa tanpa jam kerja, upah, dan har
 
 ### Scene A — Laporan Pengadaan (scene aktif berikutnya)
 - Graham menyampaikan penawaran mesin dan respons awal lowongan.
-- Joshua menentukan model layanan dan prioritas anggaran.
-- **Output:** arahan kepada Graham, belum ada pembelian otomatis.
+- **Model layanan sudah ditentukan Joshua: hybrid dengan koin dari kasir, cuci + setrika tiga hari, dan setrika saja untuk pengguna self-service.**
+- **Scene aktif berikutnya:** Graham mengonfirmasi detail alur dan meminta Joshua memilih prioritas anggaran/kapasitas.
+- **Output yang ditunggu:** arahan pengadaan, belum ada pembelian otomatis.
 
 ### Scene B — Survei Teknis & Wawancara
 - Joshua bisa memilih menemui pemasok, meninjau instalasi tempat, atau mewawancarai kandidat.
@@ -180,12 +212,13 @@ Salah satu pelamar menolak keputusan tergesa-gesa tanpa jam kerja, upah, dan har
 - [x] Joshua meminta bantuan Graham Howard.
 - [x] Tempat usaha telah didapatkan.
 - [x] Kabar lowongan telah disebarkan.
-- [ ] Model bisnis laundromat dipilih.
+- [x] Model bisnis dipilih: koin self-service + cuci dan setrika (3 hari) + setrika saja.
 - [ ] Penawaran mesin diterima / pemasok dipilih.
 - [ ] Inspeksi lokasi dan instalasi selesai.
 - [ ] Pegawai diseleksi dan perjanjian kerja disepakati.
 - [ ] Barang dibeli dan dipasang.
-- [ ] Nama usaha, harga layanan, dan jam operasional ditetapkan.
+- [ ] Harga koin, tarif paket, tarif setrika saja, serta aturan serah-terima disepakati.
+- [ ] Nama usaha dan jam operasional ditetapkan.
 - [ ] Soft opening / grand opening dimainkan.
 
 ## 9. Catatan Ledger & Kontinuitas
@@ -195,10 +228,13 @@ Jangan mencatat uang keluar/masuk atau NPC sebagai staf resmi sebelum disahkan d
 | Elemen | Status | Catatan untuk diisi setelah scene |
 |---|---|---|
 | Tempat usaha | Didapatkan | Alamat, status sewa/milik, dan biaya bila diketahui |
+| Model layanan | **Diputuskan Joshua** | Self-service koin dibeli di kasir; paket cuci + setrika tiga hari; setrika saja untuk pengguna self-service |
 | Pemasok mesin | Mencari | Supplier pilihan, rincian unit, harga |
-| Peralatan | Belum dibeli | Jumlah unit dan kondisinya |
+| Peralatan | Belum dibeli | Mesin koin, pengering, kasir, setrika, perlengkapan penandaan order; jumlah unit menyusul |
 | Staf | Lowongan tersebar | Nama, peran, gaji, dan jam kerja |
 | Modal awal | Belum ditetapkan | Sesuai dana Joshua |
+| Harga jasa | Belum ditentukan | Harga koin/siklus, cuci + setrika, setrika saja |
+| Target pengambilan | **3 hari (canon)** | Khusus paket cuci + setrika; detail iron-only belum diputuskan |
 | Pendapatan | Belum ada | Mulai dihitung setelah usaha benar-benar berjalan |
 | Nama laundromat | Belum dipilih | Hak Joshua menentukan |
 
