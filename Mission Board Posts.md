@@ -83,6 +83,23 @@ React 🖐️ kalau minat.
 
 ---
 
+## Format Voice / PbP / Hybrid di Mission Board
+
+Format baru **tidak mengganti gaya The Ledger** atau informasi Tier/Risk/Payout yang sudah ada. Untuk mission berikutnya, di blok info OOC tambahkan **Format**, durasi dan jadwal jika sudah fix, platform yang dibutuhkan, serta kuota party. Contoh field publik (isi placeholder sebelum dipost):
+
+```markdown
+**Format:** Voice One-Shot
+**Estimated Duration:** 3 jam
+**Schedule:** [Tanggal / jam / timezone setelah dikonfirmasi]
+**Platform:** Discord + Malvidra Encounter VTT
+**Party Size:** [Sesuai mission dan Tier]
+**Registration:** React 🖐️ untuk menyatakan minat; konfirmasi party oleh DM
+```
+
+Untuk PbP, gunakan `Format: Play-by-Post (Async)`. Untuk Hybrid gunakan `Format: Hybrid Arc (Voice + PbP)` serta titik kelanjutan yang akan diumumkan. **Jangan mengasumsikan sesi sudah ada, slot dibuka, atau tanggal telah diputuskan.**
+
+Lihat [[Hybrid Campaign Operations]] untuk standar durasi, rekrut player baru, dan proses Canon Lock lintas format.
+
 ## Cara Pakai
 
 1. Post satu-satu (tidak harus ketiganya sekaligus di awal — lihat §5 [[Running Your First PbP]] soal jangan buka semua mission barengan kalau player masih dikit).
