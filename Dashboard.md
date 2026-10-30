@@ -1,9 +1,10 @@
 # Beyond Vaelithra — Dashboard
 
-Kota **Kartaloka**, Dewanegara. West Marches-inspired, Async PbP, tier-gated.
+Kota **Kartaloka**, Dewanegara. West Marches-inspired, **Voice + PbP + Hybrid**, tier-gated, persistent world.
 
 ## Dokumen Inti
 - [[Design Document]] — sistem lengkap: Party Tier, The Switchboard (Hub), Fixer Network, Mission Board, World State, contoh eskalasi, ringkasan kritik desain.
+- [[Hybrid Campaign Operations]] — rancangan operasional Voice One-Shot, PbP, Hybrid Arc, Malvidra Encounter VTT, roster casual/hiatus, dan rekrut resident baru (belum dianggap diluncurkan).
 - [[Factions]] — 6 faksi awal + tabel relasi.
 - [[Districts]] — 7 distrik awal + tabel danger level.
 - [[Starter Missions]] — 3 mission Tier I siap pasang + contoh Aftermath Log.
@@ -14,6 +15,7 @@ Kota **Kartaloka**, Dewanegara. West Marches-inspired, Async PbP, tier-gated.
 - [[Session Scripts — Starter Missions]] — versi read-aloud + roleplay beats + NPC dialog siap pakai buat ketiga starter mission, format sama kayak The Witchlight Veil.
 - [[Mission Board Posts]] — versi PUBLIK (tanpa spoiler) dari 3 starter mission, siap post ke `#the-switchboard`.
 - [[Mission Note Template]] — duplicate tiap kali ada mission dimainkan, isi setelah thread selesai (actual-play recap + Aftermath Log).
+- [[Side Missions]] — catatan personal mission resident; [[Joshua Graham Laundromat - Setup]] memuat scene lanjutan Joshua dan keputusan layanan laundry.
 
 ## World State Saat Ini
 *(diisi manual seiring campaign berjalan — lihat §6 [[Design Document]] untuk format)*
@@ -70,4 +72,5 @@ Kota **Kartaloka**, Dewanegara. West Marches-inspired, Async PbP, tier-gated.
 - [x] Contoh emergent campaign structure
 - [x] Starter missions (3, Tier I)
 - [x] Contoh Aftermath Log (ilustratif, belum dari play asli)
+- [ ] Pilot Voice One-Shot dan rekrut resident baru (lihat [[Hybrid Campaign Operations]])
 - [ ] Sesi pertama dimainkan
