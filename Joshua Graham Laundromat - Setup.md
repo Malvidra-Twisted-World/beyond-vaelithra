@@ -100,3 +100,7 @@ Event bisa menguntungkan, merugikan, atau sekadar mengubah hubungan karakter. Ja
 - [ ] Mulai roll mingguan, gajian empat minggu, dan progress milestone.
 
 > **Aturan DM:** Scene Graham tidak perlu membahas ulang urusan administrasi OOC. Setelah laundromat buka, cukup **1 roll per minggu, 1 rekap per 4 minggu, dan event hanya saat milestone**.
+
+**Last Time**
+
+![](https://i.imgur.com/uNSvRMj.png)
