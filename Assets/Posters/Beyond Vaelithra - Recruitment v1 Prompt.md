@@ -2,7 +2,7 @@
 
 Generated with built-in imagegen. Based on Recruitment Announcement - Hybrid and Design Document. Schedule, pricing, contact and slot count omitted because they remain unconfirmed in the announcement draft.
 
-![[Beyond Vaelithra - Recruitment v1.png]]
+![](Beyond%20Vaelithra%20-%20Recruitment%20v1.png)
 
 ## Generation prompt
 
