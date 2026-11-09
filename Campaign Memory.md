@@ -499,6 +499,28 @@ Do NOT force a connection to The Collector without evidence.
 
 ---
 
+## Thread D — Soyo Gumi / Amane / Raiga / Kaede
+
+**Sources:** [[Mission D Report]] (Mission #143) and DM-confirmed Jeff–Kaede actual play on 2026-11-09.
+
+### Established
+
+- The Last Train investigation produced a letter addressed to **"KT"**, signed by **Amane**, Kindness Commander of **Gyokko Gumi / Soyo Gumi**. The letter stated she was kidnapped by **Raiga**.
+- **Kaede Tsukishiro** is the **Envy Commander** of **Nisshoku / Soyo Gumi**; he has a **love–hate** personal relationship with Amane.
+- Following Haki practice, **Jeff detected Kaede nearby via Kenbunshokku**. Kaede mistook him for a subordinate of Raiga, fled, then attacked from shadow after Jeff caught up. Jeff dodged using Kenbunshokku.
+- **Present scene:** Jeff and Kaede are staring each other down. **ONGOING / UNRESOLVED.**
+
+### Open Questions
+
+- Whether **"KT"** in the letter definitively means Kaede Tsukishiro.
+- The current whereabouts and condition of Amane, and the circumstances around Raiga.
+- The ultimate outcome of Jeff's encounter with Kaede.
+- Any broader political relationship between Nisshoku, Gyokko Gumi, and Raiga.
+
+**Canon guardrail:** This is a thread emerging from specific character events, not a reason to connect every mission or faction. The kidnapping is established as the **letter's claim**; do not invent a confirmed rescue or confrontation. See [[NPCs/Kaede Tsukishiro]].
+
+---
+
 # 10. Mission Outcome Philosophy
 
 When designing follow-up missions, use these outcome categories:
@@ -591,6 +613,19 @@ Major canon updates:
 - Stage dismantled.
 - "Xy'lo-" established as an unexplained final utterance.
 - The Velvet Séance survives.
+
+---
+
+## 2026-11-09
+
+### Kaede Tsukishiro / Jeff Le Beau Encounter
+**Status:** Ongoing
+
+- DM confirmed Kaede's identity as **Nisshoku Envy Commander** of Soyo Gumi, his appearance, personality, shadow ability, and short guandao-inspired dagger **Envy**.
+- His love–hate relationship with **Amane**, Kindness Commander of Gyokko Gumi, is established.
+- Jeff's Kenbunshokku evasion of Kaede's shadow ambush is canon.
+- Both are currently facing one another; no outcome has been decided.
+- Connected reference: [[NPCs/Kaede Tsukishiro]].
 
 ---
 
