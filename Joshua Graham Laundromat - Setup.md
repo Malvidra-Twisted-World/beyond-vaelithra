@@ -103,4 +103,4 @@ Event bisa menguntungkan, merugikan, atau sekadar mengubah hubungan karakter. Ja
 
 **Last Time**
 
-![](https://i.imgur.com/uNSvRMj.png)
+![](https://i.imgur.com/uNSvRMj.png|360)

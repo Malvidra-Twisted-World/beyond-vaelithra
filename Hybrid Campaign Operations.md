@@ -153,6 +153,8 @@ Di samping field yang sudah **wajib** pada [[Design Document]], tambahkan field 
 
 ### Draft pengumuman publik (sesuaikan placeholder sebelum posting)
 
+Versi pengumuman rekrutmen lengkap untuk disebarkan: [[Recruitment Announcement - Hybrid]]. Isi placeholder dan konfirmasi detail sebelum posting.
+
 ```markdown
 🏙️ **BEYOND VAELITHRA — NEW RESIDENTS WANTED**
 
