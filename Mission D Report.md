@@ -34,3 +34,13 @@ orang yang ditemui oleh party adalah Maeda, Captain of Kindness Division, Gyokko
 Jeff menemukan sebuah surat berisikan "KT, jika kau menemukan surat ini, aku diculik Raiga, jika bukan, maka aku percayakan surat ini kepada kalian. Amane, Kindness Commander, Gyokko Gumi, Soyo Gumi"
 
 Kravaktiss memanggil Script Order ke lokasi dimana Roy dan beberapa anggota Script Order datang dan membawa Maeda untuk informasi lebih
+
+## DM Continuity Link — Kaede (2026-11-09)
+
+> **Follow-up context, not an alteration to the original Mission #143 player reports.**
+
+- The letter found by Jeff is signed **Amane**, Kindness Commander of **Gyokko Gumi / Soyo Gumi**, and addressed to **"KT"**. It claims Amane was abducted by **Raiga**.
+- Another Soyo Gumi commander has now been established: [[NPCs/Kaede Tsukishiro|Kaede Tsukishiro]], **Envy Commander** of **Nisshoku**.
+- **"KT" = Kaede Tsukishiro** remains a **possible interpretation**, not a confirmed identity in this report.
+- During a later encounter, Kaede mistook Jeff for Raiga's subordinate and attempted a shadow ambush; Jeff dodged with Kenbunshokku. Their standoff is **ongoing**.
+- Do not conflate **Maeda** (named earlier in the report) with **Amane** or Kaede without a separate DM clarification.
