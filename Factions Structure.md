@@ -755,9 +755,10 @@ NPCs should feel like people who continue living in Kartaloka rather than quest 
 
 Soyo Gumi contains multiple internal groups.
 
-Known subordinate organization:
+Known subordinate organizations:
 
-- **Gyokko Gumi**
+- **Gyokko Gumi** — home of Amane, the Kindness Commander.
+- **Nisshoku** — home of [[NPCs/Kaede Tsukishiro|Kaede Tsukishiro]], the Envy Commander.
 
 ### Current Status
 
@@ -769,6 +770,8 @@ Active.
 
 **Type:** Criminal Subgroup / Soyo Gumi Branch  
 **Parent Organization:** Soyo Gumi
+
+**Known Commander:** **Amane**, Kindness Commander. Amane has a love–hate relationship with [[NPCs/Kaede Tsukishiro|Kaede Tsukishiro]] of Nisshoku. This personal dynamic does not automatically determine the entire branches' political relationship.
 
 ### Known Events
 
@@ -783,6 +786,27 @@ The abduction was carried out by members of the Shinigami Syndicate.
 ### Status
 
 **ACTIVE / INCIDENT UNDERWAY**
+
+---
+
+# Nisshoku
+
+**Type:** Soyo Gumi Subgroup / Division  
+**Parent Organization:** Soyo Gumi  
+**Known Commander:** [[NPCs/Kaede Tsukishiro|Kaede Tsukishiro]], **Envy Commander**
+
+### Established Details
+
+- Kaede is a teenage male with green hair and green eyes who wears a black Nisshoku haori marked **"Envy Commander"** and **"Soyo Gumi"** on the front.
+- His weapon **Envy** is a short, dagger-scale take on Guan Yu's curved guandao blade.
+- He is deeply envious and habitually grumbles, yet is fundamentally kind.
+- He can merge into shadows and has attempted a shadow ambush against fixer **Jeff Le Beau**, who evaded with **Kenbunshokku**.
+- **Current scene:** Kaede and Jeff are face-to-face; the encounter remains unresolved.
+- Kaede mistakenly believed Jeff to be one of **Raiga's subordinates**.
+
+**Boundary:** Nisshoku's wider membership, operations, hierarchy, and political stance remain undefined. Kaede's personal connections do not establish faction-wide loyalties.
+
+See [[NPCs/Kaede Tsukishiro]] for the full canon NPC profile and encounter chronology.
 
 ---
 
