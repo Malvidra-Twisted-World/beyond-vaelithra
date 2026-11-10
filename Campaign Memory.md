@@ -532,7 +532,9 @@ Do NOT force a connection to The Collector without evidence.
 - Jeff has ordinary **Kenbun** (Advantage on Perception within **30 ft**) and **Awakened Future Sight Level 1** (**5 seconds** ahead); he is still learning ordinary **King's Will**. Raga and Remote have not been awarded to Jeff.
 - **King's Will:** failed **Charisma save** results in **Incapacitated** until the user's **concentration breaks**; successful save grants **King's Will Resistance** (Advantage on a later King's Will save). The DM's initial DC wording is **Spell Save DC + CHA**, exact interpretation unresolved.
 - **Titah** uses a **Magic Action**, reaches **10 ft**, and lasts **Concentration up to 1 minute**; Awakened **Titah Lintas** reaches **25 ft** and selects a **single target**. The bonus from King's Will Resistance lasts **until the next King's Will save**, at which point it is consumed; it is earned again on a successful save.
-- **Bajra (Raga ordinary):** grants an **attack-roll bonus** and **additional Force damage** on hits. **Nagaraga (Raga Awakened):** higher attack-roll bonus and more additional Force damage; on hit the target must make a **Strength save or become Stunned**. **At the start of each Stunned target's turn**, it re-attempts the STR save; success ends the condition immediately, failure means the next retry occurs at the start of its following turn. **Only one initial Nagaraga stun-save attempt may be triggered per user's turn.** Exact numerical bonuses, STR save DC, maximum duration (if any) and resource limits are unresolved.
+- **Bajra (Raga ordinary):** **Free Action** activation, **+1 attack roll** and **+1d8 additional Force damage** on hits.
+- **Nagaraga (Raga Awakened):** **Free Action** activation, **+3 attack roll**, **+3d8 additional Force damage**. A hit prompts a **Strength save (DC 8 + PB + STR modifier)** or the target is **Stunned**. At the start of each affected target's turn, it repeats the STR save: success ends Stunned; failure means retry at the start of its next turn. At most **one initial stun save triggered per Nagaraga user's turn**. Eligible attack types, resource limits and Bajra stacking are still unconfirmed.
+- **Training and awakening:** conditional on player roleplay and DM adjudication, not an automatic unlock schedule.
 - Players can **describe and color their Niskara aura**. Old-Era Echoes may attract **long-dormant Divine and Infernal beings**, at DM discretion; no guaranteed consequence or fixed trigger is set.
 - Using Niskara can **draw the attention of long-dormant Divine and Infernal beings from the old era**. Their response, trigger frequency and timing remain under DM control and are not automatic.
 - Jeff's use of Kenbun to avoid Kaede's shadow attack is already actual-play canon; the standoff remains unresolved.
@@ -542,6 +544,19 @@ Do NOT force a connection to The Collector without evidence.
 
 ---
 
+
+## Thread F — Sins & Virtues Resonance (Planned)
+
+**Source:** DM decisions, 2026-11-10. Working system note: [[Lore/Sins & Virtues Resonance - Integration Plan]].
+
+- The seven Sin/Virtue oppositions are DM-approved. The DM chooses one trait for a meaningful event; roll **2d8** and add it to that trait.
+- Its opposing trait loses **floor(rolled amount / 2)**. This reduction applies **both directions**, Sin → Virtue and Virtue → Sin.
+- Each trait has separate thresholds; their mechanical effects are restricted to **appropriate social rolls**, without forcing the PC's decisions.
+- A **three-threshold model (20/50/80, bonuses +1/+2/+3)** has been drafted at DM request; **not yet explicitly ratified**.
+- During [[Mission F Script|Mission F — No Way Out]], the DM has confirmed that **approaching the protected area near Sealed Chamber exposes the PCs to a large concentration of Old-Era energy**. This can foreshadow Resonance **if they approach**, but does not expose the chamber's contents or establish the facility's origin.
+- The exact outcome of Mission F and its later plot consequences remain **OPEN** until actual play.
+
+---
 
 # 10. Mission Outcome Philosophy
 
