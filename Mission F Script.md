@@ -1,617 +1,450 @@
 ---
-
-tags: [DnD, Mission, Beyond Vaelithra, West Marches, Session Script]
+tags:
+  - DnD
+  - Mission
+  - Beyond Vaelithra
+  - Session Script
 campaign: Beyond Vaelithra
+mission: F
 tier: I
-status: Draft
+status: Ready to Run
+visibility: DM Only
+district: The Fringe
+category: Survival / Extraction
+reward: 150 Escrow
 ---
+
 # Mission F — No Way Out
 
-«Terkait: [[Mission F Overview]] · [[Mission Expansion Generator Hooks]] · [[Districts]] · [[Factions Structure]] · [[Mission Board Posts]] · [[Mission Note Template]]»
+> [!info] Mission at a Glance
+> **Kategori:** Survival / Extraction · **Party Tier:** I · **Distrik:** The Fringe  
+> **Klien:** Perusahaan survey (melalui The Switchboard) · **Payout:** **150 Escrow**  
+> **Risk:** Sedang · **Information:** Parsial · **Seed:** The Mountains Escape  
+> **Objective pemain:** Selamatkan **6 pekerja survey** dari fasilitas industri tua.  
+> **Konflik DM:** Wizard ingin mencegah sesuatu keluar; pekerja ingin pulang.  
+> **Inti misteri:** Apa yang dilindungi di bawah fasilitas? **Jangan jawab dulu.**
 
-Kategori: Survival / Extraction
-Generator Seed: The Mountains Escape
-Klien: Perusahaan survey
-Distrik: The Fringe
-Party Tier: I
-Trust Tier dibutuhkan: —
-Payout: 150 Gold
-Risk Level: Sedang
-Information Level: Parsial
+**Dokumen terkait:** [[Mission F Overview]] · [[Lore/Sins & Virtues Resonance - Integration Plan|Resonansi Sins & Virtues]] · [[Mission Note Template]] · [[Mission Board Posts]] · [[Districts]] · [[Factions Structure]]
 
-DM Overview
+## Navigasi Sesi
 
-Premise
+- [[#Part 0 — Briefing at The Switchboard|0. Briefing]]
+- [[#Part 1 — Arrival at The Fringe|1. Approach (F1)]]
+- [[#Part 2 — The Closed Entrance|2. Entrance (F2)]]
+- [[#Part 3 — Old Service Tunnel|3. Tunnel (F3)]]
+- [[#Part 4 — The Survivors|4. Survivors]]
+- [[#Part 5 — The Wizards|5. Negotiation]]
+- [[#Part 6 — Choices and Sublevel 2|6. Choices / Sublevel (F4)]]
+- [[#Part 7 — What the Party Can Learn|7. Discovery]]
+- [[#Part 8 — Extraction|8. Extraction]]
+- [[#Resolution and Rewards|Resolution]] · [[#Session Record|Session Record]]
 
-Enam pekerja survey dikirim untuk memeriksa sebuah fasilitas industri tua di The Fringe.
-
-Mereka seharusnya kembali dua hari lalu.
-
-Pesan terakhir yang diterima The Switchboard:
-
-«"Kami terjebak. Jangan datang lewat jalan utama."»
-
-Klien hanya meminta satu hal:
-
-«Bring them home.»
-
-Hidden Complication
-
-Para pekerja masih hidup, tetapi tidak bebas meninggalkan fasilitas.
-
-Mereka ditahan oleh sekelompok wizard yang menggunakan sebagian fasilitas sebagai tempat berlindung sekaligus penelitian sementara.
-
-Para wizard mengklaim mereka tidak menghukum para pekerja.
-
-Peralatan survey mereka mendeteksi sesuatu di bawah fasilitas.
-
-Sesuatu yang menurut para wizard:
-
-«"Tidak seharusnya dibawa keluar."»
-
-Kedua pihak percaya mereka sedang mencegah bencana.
-
-Tidak ada yang benar-benar memahami apa yang ada di bawah fasilitas.
+> [!tip] Jalur cepat DM
+> **Briefing → pilih rute → temukan pekerja → dialog Garran → pilih ekstraksi / investigasi / konfrontasi → extraction → aftermath.**  
+> **F4 dan Sealed Chamber opsional.** Jangan memaksa party masuk Sublevel 2 hanya demi foreshadowing.
 
 ---
 
-Canon Guardrails
+## DM Brief — Baca Sebelum Mulai
 
-- Fasilitas belum memiliki nama resmi.
-- Jangan menetapkan fasilitas sebagai milik Adikarsa, pemerintah, Sundering War, Script Order, atau Vaeil.
-- Para wizard bukan cult, villain, atau hero.
-- Jangan menjelaskan isi sealed chamber.
-- **DM-approved foreshadowing (2026-11-10):** area mendekati sesuatu yang dilindungi di Sublevel 2 memiliki **konsentrasi besar energi Old-Era**. Ini adalah clue energi, **bukan konfirmasi** siapa membangun fasilitas atau apa isi ruang yang disegel.
-- Jangan menentukan siapa pembuat fasilitas.
-- Jangan menentukan fungsi sebenarnya dari sistem.
-- Temporal phenomena boleh muncul, tetapi penyebab akhirnya tetap unknown.
-- Mission ini berdiri sendiri dan tidak otomatis terhubung dengan mission lain.
+### Premis
 
----
+Enam pekerja survey ditugaskan memeriksa fasilitas industri tua di **The Fringe**. Mereka tidak kembali sesuai jadwal dua hari lalu. Pesan terakhir kepada The Switchboard berbunyi:
 
-NPCs
+> "Kami terjebak. Jangan datang lewat jalan utama."
 
-Garran Vey
+Klien ingin semuanya pulang, bukan membuka konspirasi.
 
-Race: Human
-Role: Wizard Leader
+### Hidden Complication
 
-Tenang, rasional, dan yakin tindakannya diperlukan.
+Para pekerja masih hidup, tetapi dijaga oleh sekelompok wizard yang memakai fasilitas sebagai tempat berlindung dan penelitian sementara.
 
-«"Kalian datang untuk membawa mereka pulang."»
+Alat survey mendeteksi sesuatu di bawah kompleks dan secara tidak sengaja **mengaktifkan kembali sebagian sistem**. Setelah itu, pintu dan ward berubah serta muncul fenomena temporal.
 
-«"Saya tidak melarang."»
+Garran dan rekan-rekannya takut para pekerja membawa sesuatu yang belum dipahami keluar. Mereka tidak berniat menyiksa pekerja, tetapi menahan mereka adalah pilihan yang tetap bisa dipertanyakan.
 
-«"Saya melarang mereka membawa sesuatu yang tidak mereka pahami."»
+> [!warning] CANON GUARDRAILS — DM ONLY
+> - **Fasilitas belum memiliki nama/pemilik/asal-usul resmi.** Jangan pastikan Adikarsa, pemerintah, Script Order, Sundering War, Vaeil, atau faksi lain sebagai pembuatnya.
+> - **Isi dan tujuan Sealed Chamber tidak diketahui.** Jangan tentukan artefak, makhluk, atau ancaman di balik pintu sebelum actual play membenarkannya.
+> - Wizard **bukan otomatis villain atau hero**; para pekerja juga tidak mengetahui semuanya.
+> - **Konsentrasi energi Old-Era yang besar di dekat sesuatu yang dilindungi di Sublevel 2 adalah petunjuk canon DM**. Namun sumber energi, siapa penjaganya, dan hubungannya dengan Resonansi **belum diungkapkan**.
+> - Kejadian temporal boleh terjadi; penyebab sejatinya tetap **unknown**.
+> - Mission dapat berdiri sendiri. Jangan paksa semua thread ke kosmologi besar.
 
----
+### NPC Quick Reference
 
-Mara Vell
+| NPC | Peran | Cara Memainkan |
+|---|---|---|
+| **Garran Vey** | Human Wizard, pemimpin | Rasional, tenang, protektif, yakin risikonya nyata |
+| **Mara Vell** | Half-Elf Apprentice | Ragu terhadap keputusan Garran; tidak suka kekerasan |
+| **Bram Kest** | Human Survey Technician | Panik, tetapi berusaha profesional |
+| **Yara Sen** | Dwarf Surveyor | Keras kepala; tidak percaya wizard |
 
-Race: Half-Elf
-Role: Apprentice
+> [!note] Dialog singkat
+> **Garran:** "Saya melarang mereka membawa sesuatu yang tidak mereka pahami."  
+> **Mara:** "Kalau tempat ini berbahaya, bukankah lebih baik semua orang pergi?"  
+> **Bram:** "Kami cuma melakukan survey. Setidaknya... kami tidak bermaksud menggali apa pun."  
+> **Yara:** "Kalau mereka ingin menolong, kenapa mereka mengunci pintunya?"
 
-Lebih muda dan lebih mudah diajak bicara.
+### Pre-Session Checklist
 
-Tidak sepenuhnya setuju dengan Garran.
-
-«"Kami sudah terlalu lama di sini."»
-
-«"Kalau tempat ini memang berbahaya, bukankah lebih baik semua orang pergi?"»
-
----
-
-Bram Kest
-
-Race: Human
-Role: Survey Technician
-
-Panik tetapi tetap profesional.
-
-«"Kami cuma melakukan survey."»
-
-«"Kami tidak menggali apa pun."»
-
-«"Setidaknya... kami tidak bermaksud menggali apa pun."»
-
----
-
-Yara Sen
-
-Race: Dwarf
-Role: Surveyor
-
-Keras kepala dan curiga terhadap wizard.
-
-«"Kalau mereka benar-benar ingin menolong kami, kenapa mereka mengunci pintunya?"»
-
----
-
-Pre-Session Checklist
-
-- [ ] Map F1 — Approach Route
+- [ ] Map F1 — Approach Route (atau theater of the mind)
 - [ ] Map F2 — Outer Facility
 - [ ] Map F3 — Old Service Tunnel
-- [ ] Map F4 — Old Arcane Facility
-- [ ] Token Garran
-- [ ] Token Mara
-- [ ] Worker tokens
-- [ ] Wizard stat blocks
-- [ ] Siapkan extraction hazards
-- [ ] Jangan tentukan isi sealed chamber sebelum actual play
+- [ ] Map F4 — Old Arcane Facility (**opsional**)
+- [ ] Token Garran, Mara, dan workers (bisa pakai placeholder)
+- [ ] Stat block Mage/Wizard-like dan Apprentice Mage-like **jika party memilih combat**
+- [ ] Siapkan 3–4 extraction hazards
+- [ ] **Jangan siapkan jawaban pasti** tentang isi Sealed Chamber
 
 ---
 
-Part 0 — Briefing at The Switchboard
+## Part 0 — Briefing at The Switchboard
 
-«[!NOTE] READ ALOUD
+**Lokasi:** Westa Tower · **Tujuan scene:** Party menerima kontrak dan pesan peringatan.
 
-Wulan meletakkan satu map tipis di atas meja.
+> [!quote] READ ALOUD
+> Wulan meletakkan sebuah map tipis di atas meja.  
+>  
+> "Ada tim survey yang belum kembali dari The Fringe."  
+>  
+> Ia membuka halaman pertama.  
+>  
+> "Mereka masih hidup. Setidaknya... menurut pesan terakhir."  
+>  
+> Wulan membalik halaman.  
+>  
+> "Masalahnya, mereka bilang jangan datang lewat jalan utama."  
+>  
+> Ia menatap kalian.  
+>  
+> "Jadi kalian jangan datang lewat jalan utama."  
+>  
+> Ia mendorong kontrak ke tengah meja.  
+>  
+> "Cari mereka. Bawa pulang kalau bisa."
 
-"Ada tim survey yang belum kembali dari The Fringe."
+**Wulan tahu:** jumlah pekerja (6), lokasi fasilitas, jadwal survey, isi pesan terakhir, dan bahwa belum ada laporan serangan.
 
-Ia membuka halaman pertama.
+**Wulan tidak tahu:** siapa yang menahan mereka, apa yang mereka temukan, alasan pasti jalan utama ditutup, dan keamanan fasilitas.
 
-"Mereka masih hidup."
-
-Wulan membalik halaman.
-
-"Masalahnya, mereka bilang jangan datang lewat jalan utama."
-
-Ia menatap kalian.
-
-"Jadi kalian jangan datang lewat jalan utama."
-
-Ia mendorong kontrak ke tengah meja.
-
-"Cari mereka. Bawa pulang kalau bisa."»
-
-Wulan Knows
-
-- Enam pekerja dikirim survey.
-- Mereka belum kembali selama dua hari.
-- Lokasi fasilitas.
-- Waktu keberangkatan.
-- Pesan terakhir.
-- Tidak ada laporan serangan.
-
-Wulan Does Not Know
-
-- Siapa yang menahan mereka.
-- Apa yang mereka temukan.
-- Kenapa jalan utama dilarang.
-- Apakah fasilitas aman.
+**Transisi:** Biarkan party memilih persiapan secukupnya, lalu berangkat ke The Fringe.
 
 ---
 
-Part 1 — Arrival at The Fringe
+## Part 1 — Arrival at The Fringe
 
-Map F1 — Approach Route
+**Map:** F1 — Approach Route  
+**Tujuan scene:** Party memilih jalur menuju kompleks. Jalan utama **sebagian runtuh dan diblokir**.
 
-Jalan utama menuju fasilitas sebagian runtuh dan diblokir.
+> [!quote] READ ALOUD
+> Jalan menuju fasilitas semakin lama semakin tidak terasa seperti bagian dari kota.  
+>  
+> Bangunan tua berdiri tanpa pola. Sebagian hanya menyisakan rangka besi dan beton. Kabut tipis menggantung di antara bangunan.  
+>  
+> Tidak ada suara mesin. Tidak ada lalu lintas. Hanya angin yang bergerak melewati pipa-pipa kosong.  
+>  
+> Di kejauhan, kompleks industri besar berdiri di balik pagar tua. Gerbang depannya terbuka.  
+>  
+> Namun jalan menuju gerbang itu... sengaja dipalang.
 
-Party dapat memilih:
-
+**Pilihan rute yang mungkin:**
 - Old service route
 - Drainage tunnel
 - Hill path
 - Abandoned industrial area
 
-«[!NOTE] READ ALOUD
-
-Jalan menuju fasilitas semakin lama semakin tidak terasa seperti bagian dari kota.
-
-Bangunan tua berdiri tanpa pola.
-
-Sebagian hanya menyisakan rangka besi dan beton.
-
-Kabut tipis menggantung di antara bangunan.
-
-Tidak ada suara mesin.
-
-Tidak ada lalu lintas.
-
-Hanya angin yang bergerak melewati pipa-pipa kosong.
-
-Di kejauhan, sebuah kompleks industri besar berdiri di balik pagar tua.
-
-Gerbang depannya terbuka.
-
-Tapi jalan menuju gerbang itu...
-
-sengaja dipalang.»
+> [!tip] DM
+> Rute berbeda boleh menghasilkan deskripsi pendekatan yang berbeda, tetapi **jangan jadikan pilihan jalur sebagai jebakan gagal otomatis**. Arahkan ke scene Entrance atau Service Tunnel sesuai aksi mereka.
 
 ---
 
-Part 2 — The Closed Entrance
+## Part 2 — The Closed Entrance
 
-Map F2 — Outer Facility
+**Map:** F2 — Outer Facility  
+**Tujuan scene:** Tegaskan bahwa kompleks ini bukan sekadar tempat orang disandera.
 
-Jalan utama diblokir dari dalam.
+Jalan utama ditutup dari dalam; terdapat jejak aktivitas yang relatif baru.
 
-Investigation DC 10
+| Pemeriksaan | Hasil |
+|---|---|
+| **Investigation DC 10** | Bekas alat berat, jejak kaki baru, garis ward, tanda pergerakan orang |
+| **Arcana DC 12** | Ward **bukan untuk mencegah orang masuk**, melainkan **mencegah sesuatu keluar** |
 
-Party menemukan:
+> [!note] Clue utama
+> "Ward tersebut tidak dibuat untuk mencegah orang masuk."  
+>  
+> "Ward dibuat untuk mencegah sesuatu keluar."
 
-- bekas alat berat;
-- fresh footprints;
-- ward lines;
-- tanda banyak orang bergerak keluar-masuk.
-
-Arcana DC 12
-
-Party mengetahui:
-
-«Ward tersebut tidak dibuat untuk mencegah orang masuk.»
-
-«Ward dibuat untuk mencegah sesuatu keluar.»
+**Transisi:** Party menemukan atau mengikuti jalur servis yang membawa mereka menuju bagian dalam fasilitas.
 
 ---
 
-Part 3 — The Service Tunnel
+## Part 3 — Old Service Tunnel
 
-Map F3 — Old Service Tunnel
+**Map:** F3 — Old Service Tunnel  
+**Tujuan scene:** Berikan clue Sublevel 2 dan survey equipment yang memicu aktivitas.
 
-Terowongan tua membawa party masuk ke bagian dalam fasilitas.
+**Yang terlihat:** panel listrik mati, pipa tua, tanda survey modern, dan sebuah equipment box.
 
-Di dalam terdapat:
+**Isi equipment box:**
+- Battery pack
+- Survey scope
+- Damaged arcane detector
+- Notebook pekerja
 
-- panel listrik mati;
-- pipa tua;
-- survey markings;
-- equipment box.
+> [!example] HANDOUT — Notebook
+> **SUBLEVEL 2**  
+>  
+> "Signal started after scan."  
+>  
+> "Don't scan again."
 
-Equipment Box
-
-Berisi:
-
-- battery pack;
-- survey scope;
-- damaged arcane detector;
-- notebook.
-
-Notebook
-
-Satu halaman diberi lingkaran:
-
-«SUBLEVEL 2»
-
-Di bawahnya:
-
-«"Signal started after scan."»
-
-Catatan tambahan:
-
-«"Don't scan again."»
+> [!tip] DM
+> Benda-benda di atas adalah petunjuk investigasi. **Belum otomatis menjadi magic item** atau kunci yang wajib dibawa untuk menyelesaikan penyelamatan.
 
 ---
 
-Part 4 — The Survivors
+## Part 4 — The Survivors
 
-Party menemukan enam pekerja.
+**Tujuan scene:** Temukan enam pekerja; tunjukkan kondisi mereka **tidak seperti korban penyiksaan**, tetapi **pintu dijaga**.
 
-Mereka memiliki makanan, air, selimut, dan medical supplies.
+> [!quote] READ ALOUD
+> Kalian akhirnya menemukan mereka.  
+>  
+> Enam orang. Kotor. Lelah.  
+>  
+> Salah satu langsung berdiri ketika melihat kalian.  
+>  
+> "Kalian dari Switchboard?"  
+>  
+> Ia menatap kalian seperti seseorang yang sudah terlalu lama menunggu bantuan.  
+>  
+> "Tolong."  
+>  
+> Ia menunjuk ke belakang.  
+>  
+> "Bawa kami keluar dari sini."
 
-Tidak terlihat seperti korban penyiksaan.
+**Kondisi:** tersedia makanan, air, selimut, dan medical supplies. Pintu tempat mereka berkumpul diawasi.
 
-Pintu mereka dijaga.
+| Pekerja tahu | Pekerja tidak tahu |
+|---|---|
+| Detector menemukan anomali | Isi sebenarnya area yang dilindungi |
+| Ada akses menuju Sublevel 2 | Apa yang persisnya diaktifkan |
+| Setelah scan, sistem berubah | Mengapa wizard begitu takut |
+| Main exit terkunci dan wizard muncul | |
 
-«[!NOTE] READ ALOUD
-
-Kalian akhirnya menemukan mereka.
-
-Enam orang.
-
-Kotor.
-
-Lelah.
-
-Salah satu langsung berdiri ketika melihat kalian.
-
-"Kalian dari Switchboard?"
-
-Ia menatap kalian seperti seseorang yang sudah terlalu lama menunggu bantuan.
-
-"Tolong."
-
-Ia menunjuk ke belakang.
-
-"Bawa kami keluar dari sini."»
-
-Workers Know
-
-- Detector menemukan anomaly.
-- Mereka menemukan akses menuju Sublevel 2.
-- Setelah scan, sistem fasilitas berubah.
-- Main exit terkunci.
-- Para wizard muncul.
-- Mereka dilarang menyentuh area tertentu.
-
-Workers Don't Know
-
-Apa yang sebenarnya mereka aktifkan.
+**Transisi:** Jika party hendak membawa pekerja pergi, Garran muncul. Jika mereka menyelidiki atau bernegosiasi lebih dulu, gunakan informasi Part 5 secara natural.
 
 ---
 
-Part 5 — The Wizards
+## Part 5 — The Wizards
 
-Ketika party mencoba membawa pekerja pergi, Garran muncul.
+**Tujuan scene:** Negosiasi dengan Garran, bukan boss battle wajib.
 
-«[!NOTE] READ ALOUD
+> [!quote] READ ALOUD
+> Seorang pria berjalan keluar dari koridor. Jubahnya sederhana, tongkat berada di tangannya.  
+>  
+> Ia berhenti beberapa meter dari kalian.  
+>  
+> "Kalau tujuan kalian membawa mereka pulang, kita sebenarnya menginginkan hal yang sama."  
+>  
+> Ia melihat ke arah para pekerja.  
+>  
+> "Masalah kita hanya satu."  
+>  
+> Ia menunjuk alat survey yang rusak.  
+>  
+> "Mereka menemukan sesuatu."
 
-Seorang pria berjalan keluar dari koridor.
-
-Jubahnya sederhana.
-
-Tongkat berada di tangannya.
-
-Ia berhenti beberapa meter dari kalian.
-
-"Kalau tujuan kalian membawa mereka pulang, kita sebenarnya menginginkan hal yang sama."
-
-Ia melihat ke arah para pekerja.
-
-"Masalah kita hanya satu."
-
-Ia menunjuk damaged survey tool.
-
-"Mereka menemukan sesuatu."»
-
-Garran's Position
-
-Garran mengatakan:
+### Posisi Garran
 
 - Ada sesuatu di bawah fasilitas.
-- Survey equipment mengaktifkan sistem lama.
-- Mereka tidak memahami sistem tersebut.
-- Mereka tidak boleh membawa equipment keluar.
-- Ia tidak berniat menyakiti pekerja.
+- Survey equipment **mengaktifkan sistem lama**.
+- Para wizard tidak memahami sistem itu.
+- Mereka tidak ingin equipment dibawa keluar.
+- Garran mengklaim tidak ingin menyakiti pekerja.
 
-Jika Ditanya Kenapa Mereka Tidak Pergi
+### Jika ditanya kenapa wizard tidak pergi
 
-Garran menjelaskan:
+Mereka **pernah** mencoba meninggalkan fasilitas. Saat cukup jauh, fenomena berhenti, tetapi beberapa jam kemudian seorang wizard kehilangan sekitar **sembilan menit ingatan** tanpa luka atau penjelasan.
 
-Mereka pernah mencoba meninggalkan fasilitas.
+> [!quote] GARRAN
+> "Kami tidak tahu apa yang terjadi selama sembilan menit itu."
 
-Saat cukup jauh, phenomenon berhenti.
+### Menjaga NPC tetap konsisten
 
-Beberapa jam kemudian seorang wizard kehilangan sekitar sembilan menit ingatan.
-
-Tidak ada luka.
-
-Tidak ada penjelasan.
-
-«"Kami tidak tahu apa yang terjadi selama sembilan menit itu."»
+- Garran dapat bernegosiasi, tetapi tidak meremehkan risikonya.
+- Mara tidak sepenuhnya setuju dengan Garran dan menghindari killing blow.
+- Para pekerja ingin keluar; mereka tidak wajib setuju dengan penjelasan Garran.
 
 ---
 
-Part 6 — What Is Below
+## Part 6 — Choices and Sublevel 2
 
-Party dapat memilih:
+**Tiga jalur utama:** Party bebas memilih, menggabungkan, atau mengubah rencana.
 
-A. Membawa pekerja keluar sekarang
+| Pilihan | Langkah berikutnya |
+|---|---|
+| **A. Evakuasi pekerja sekarang** | Lanjut ke [[#Part 8 — Extraction|Part 8 — Extraction]] |
+| **B. Investigasi Sublevel 2** | Masuk **Map F4** di bawah ini |
+| **C. Paksa wizard membuka jalan** | Negosiasi lanjutan atau [[#Optional Combat|Optional Combat]] |
 
-Masuk ke extraction sequence.
+### Map F4 — Old Arcane Facility
 
-B. Memeriksa Sublevel 2
+**Area:** Control Room · Research Corridor · Storage Chamber · Sealed Chamber.
 
-Masuk ke Map F4.
+Kompleks ini menyerupai fasilitas riset yang ditinggalkan terlalu cepat. Tidak ada mayat, ritual, atau monster yang telah ditetapkan sebagai penghuni area ini.
 
-C. Memaksa wizard membuka jalan
+#### Control Room
 
-Potential confrontation.
+Salah satu panel masih aktif dengan tulisan:
 
----
+> **TEMPORAL STABILITY**
 
-Map F4 — Old Arcane Facility
+Tulisan ini **tidak memastikan** fasilitas digunakan untuk penelitian waktu. Party baru mengetahui bahwa sistem mempunyai indikator stabilitas temporal.
 
-Area:
+#### Sealed Chamber
 
-- Control Room
-- Research Corridor
-- Storage Chamber
-- Sealed Chamber
+Sebuah pintu besar dengan indikator aktif:
 
-Fasilitas terlihat seperti tempat penelitian lama yang ditinggalkan terlalu cepat.
+> **DO NOT RELEASE**
 
-Tidak ada mayat.
+| Pemeriksaan | Hasil |
+|---|---|
+| **Arcana DC 12** | Sistem di sekitar pintu masih aktif |
+| **Arcana DC 15** | Sistem tampaknya menjaga stabilitas **sesuatu**; identitasnya tetap tidak diketahui |
 
-Tidak ada ritual.
+> [!warning] DM ONLY — Old-Era Energy
+> **Canon DM (2026-11-10):** Di sekitar area yang **melindungi sesuatu** pada Sublevel 2, terdapat **konsentrasi besar energi Old-Era**. Ini dimaksudkan sebagai foreshadowing menuju [[Lore/Sins & Virtues Resonance - Integration Plan|Sins & Virtues Resonance]].  
+>  
+> Jika party **mendekat**, boleh ungkap sensasi energi kuno melalui deskripsi atau pemeriksaan yang sesuai. **Jangan otomatis membuka Sealed Chamber, mengungkap isi, memastikan fasilitas berasal dari Sundering War, atau menyamakan energi ini dengan Niskara.**  
+>  
+> **Roll 2d8 Resonansi bukan otomatis karena menyentuh pintu.** DM memilih pemicu naratif berdasarkan tindakan signifikan PC. Jika party tidak mendekat, petunjuk boleh tetap tersembunyi.
 
-Tidak ada monster.
-
----
-
-Control Room
-
-Salah satu panel masih aktif.
-
-Label:
-
-«TEMPORAL STABILITY»
-
----
-
-Sealed Chamber
-
-Pintu besar dengan indikator aktif.
-
-Tulisan tua:
-
-«DO NOT RELEASE»
-
-Arcana DC 12
-
-Sistem masih aktif.
-
-Arcana DC 15
-
-Sistem tampaknya menjaga stability sesuatu.
-
-Tidak diketahui apa.
-
-### DM-Only: Old-Era Resonance Foreshadowing
-
-> **New DM decision, 2026-11-10.** Saat party **mendekati area yang melindungi sesuatu** di sekitar Sealed Chamber, ada **konsentrasi energi Old-Era yang sangat besar**. Lihat [[Lore/Sins & Virtues Resonance - Integration Plan|Sins & Virtues Resonance]].
->
-> Boleh deskripsikan tekanan atau gema energi yang semakin terasa ketika mendekat. **Jangan ungkap identitas benda/makhluk yang dilindungi atau asal-usul fasilitas.** Pengenalan energi ini tidak otomatis menjadikan fasilitas dibangun pada Sundering War atau mengonfirmasi hubungan dengan Niskara.
->
-> Jika party tidak mendekat, **jangan paksa discovery**. Jika mereka mendekat, beri petunjuk secara natural sesuai tindakan dan pemeriksaan mereka. Roll 2d8 Sins/Virtues hanya saat DM menilai ada pemicu signifikan, bukan otomatis saat menyentuh pintu.
+> [!quote] OPTIONAL READ ALOUD — Jika mendekat
+> Semakin dekat kalian ke bagian fasilitas yang tertutup, udara terasa semakin berat. Bukan panas atau dingin, melainkan tekanan halus yang sulit dijelaskan.  
+>  
+> Di sini ada energi yang sangat tua. Apa sumbernya, dan mengapa tempat ini menjaganya, belum dapat kalian pastikan.
 
 ---
 
-Part 7 — The Truth
+## Part 7 — What the Party Can Learn
 
-Party dapat menyimpulkan:
+**Kesimpulan yang mungkin diperoleh melalui investigasi:**
 
-Para pekerja tidak membawa artefak keluar.
-
-Mereka juga tidak sengaja membuka sesuatu.
-
-Peralatan survey mereka:
-
-«mengaktifkan kembali sebagian sistem fasilitas.»
+Alat survey tidak membuka pintu terakhir atau membawa artefak keluar. Alat itu **tidak sengaja mengaktifkan kembali sebagian sistem fasilitas**.
 
 Akibatnya:
-
 - Main exit terkunci.
-- Wards berubah.
+- Ward berubah.
 - Sublevel aktif.
-- Temporal phenomena muncul.
+- Fenomena temporal mulai muncul.
 
-Para wizard melihat hal tersebut dan menahan para pekerja karena panik.
+Para wizard menahan pekerja karena takut terhadap apa yang mungkin terjadi berikutnya.
 
-DM NOTE
-
-Jawaban Tier I berhenti di:
-
-«"Kami tidak tahu."»
-
-Jangan reveal:
-
-- siapa pembuat fasilitas;
-- tujuan fasilitas;
-- isi sealed chamber;
-- apakah sistem benar-benar berbahaya;
-- apakah sistem aktif di tempat lain.
+> [!warning] DM ONLY — Batas Pengungkapan Tier I
+> Jawaban misi ini **boleh berhenti pada "kami tidak tahu."**  
+>  
+> **Jangan reveal:** pembuat fasilitas, fungsi asli sistem, isi Sealed Chamber, apakah yang disegel berbahaya, atau apakah ada instalasi serupa di tempat lain. Old-Era energy hanya petunjuk, **bukan jawaban penuh**.
 
 ---
 
-Part 8 — Extraction
+## Part 8 — Extraction
 
-Terlepas dari keputusan party, fasilitas mulai aktif kembali.
+**Tujuan scene:** Selamatkan pekerja sambil menghadapi fasilitas yang aktif kembali. Trigger terjadi **terlepas dari jalur pilihan party**, dengan pacing sesuai keadaan yang dimainkan.
 
-«[!NOTE] READ ALOUD
+> [!quote] READ ALOUD
+> Suara rendah terdengar dari balik dinding.  
+>  
+> Lampu menyala, lalu mati.  
+>  
+> Sebuah pintu terkunci. **CLANG.**  
+>  
+> Pintu lain ikut menutup. **CLANG.**  
+>  
+> Garran menatap koridor. Untuk pertama kalinya, ia benar-benar terlihat takut.  
+>  
+> "Kita harus pergi."
 
-Suara rendah terdengar dari balik dinding.
+### Extraction Hazards
 
-Lampu menyala.
+**Gunakan 3–4 saja** sesuai pacing; tidak harus berurutan.
 
-Kemudian mati.
+| Hazard | Check / Save | Efek gagal |
+|---|---|---|
+| Locked Door | **DC 12** Athletics / Thieves' Tools / Arcana | Waktu terbuang; pintu tetap menghalangi |
+| Collapsing Floor | **DC 12** Dexterity / Athletics | Tambahkan complication lingkungan |
+| Magical Pulse | **DC 12 CON Save** | **1d4 Force damage** |
+| Temporal Distortion | **DC 12 WIS Save** | Kehilangan **Reaction** sampai giliran berikutnya |
+| Closing Machinery | **DC 12** Dexterity | Tambahkan complication lingkungan |
 
-Sebuah pintu terkunci.
+> [!tip] Fail Forward
+> **Gagal check tidak otomatis menggagalkan mission.** Pilih konsekuensi yang sesuai: pekerja terluka, equipment tertinggal, party terpisah, wizard tertinggal, atau jalur keluar berubah. Jangan tentukan nasib korban tanpa mempertimbangkan tindakan player.
 
-CLANG.
+### Optional Combat
 
-Pintu lain ikut menutup.
+Combat **hanya jika** party memilih kekerasan atau memaksa jalan dengan cara yang memicu perlawanan.
 
-CLANG.
+| NPC | Panduan stat block |
+|---|---|
+| Garran | Mage / Wizard-like |
+| Mara | Apprentice Mage-like |
 
-Garran menatap koridor.
+- Sesuaikan dengan **Party Tier I**.
+- Mara menghindari killing blow.
+- Garran tidak bertarung sampai mati.
 
-Untuk pertama kalinya, ia terlihat benar-benar takut.
-
-"Kita harus pergi."»
-
-Extraction Hazards
-
-Gunakan 3–4 sesuai pacing:
-
-- Locked Door: DC 12 Athletics / Thieves' Tools / Arcana
-- Collapsing Floor: DC 12 Dexterity / Athletics
-- Magical Pulse: DC 12 Constitution save, 1d4 force damage jika gagal
-- Temporal Distortion: DC 12 Wisdom save, kehilangan Reaction sampai turn berikutnya
-- Closing Machinery: DC 12 Dexterity
-
-Failure tidak menghentikan mission.
-
-Tambahkan complication:
-
-- Worker terluka.
-- Equipment tertinggal.
-- Party terpisah.
-- Wizard tertinggal.
-- Jalur keluar berubah.
-
----
-
-Optional Combat
-
-Combat hanya terjadi jika party menyerang wizard atau memaksa jalan dengan kekerasan.
-
-Garran
-
-Gunakan Mage/Wizard-like stat block.
-
-Mara
-
-Gunakan Apprentice Mage-like stat block.
-
-Mara menghindari killing blow.
-
-Garran tidak bertarung sampai mati.
-
-Jika party berhasil mengalahkannya:
-
-«"Cukup."
-
-"Bawa mereka pergi."
-
-"Tapi jangan buka pintu itu."»
+> [!quote] GARRAN — Jika menyerah
+> "Cukup."  
+>  
+> "Bawa mereka pergi."  
+>  
+> "Tapi jangan buka pintu itu."
 
 ---
 
-Resolution
+## Resolution and Rewards
 
-Full Success
+| Hasil | Kondisi | Payout |
+|---|---|---|
+| **Full Success** | Seluruh **6 pekerja** selamat | **150 Escrow** |
+| **Partial Success** | Sebagian diselamatkan; ada yang tertinggal/hilang | **150 Escrow**, dapat disesuaikan DM |
+| **Failure** | Gagal menyelamatkan pekerja | Berdasarkan actual play / keputusan DM |
 
-Semua pekerja berhasil dibawa keluar.
+**Possible recovered items:** damaged survey detector, old facility schematic, experimental component, handwritten wizard notes. **Jangan langsung menetapkannya sebagai magic item.**
 
-Payout: 150 Gold
+**Misteri tetap terbuka:** Apa sebenarnya yang berada di bawah fasilitas belum perlu dijawab, apa pun ending misi.
 
-Partial Success
+### Aftermath / Future Threads
 
-Sebagian besar pekerja berhasil diselamatkan.
+Hanya aktifkan yang didukung tindakan pemain:
 
-Satu pekerja tertinggal atau hilang.
-
-Payout: 150 Gold, subject to DM adjustment
-
-Failure
-
-Party gagal membawa pekerja keluar.
-
-Status pekerja ditentukan melalui actual play.
-
-Facility
-
-Apa pun hasil mission:
-
-«Apa yang sebenarnya ada di bawah fasilitas tetap unresolved.»
+- **Dormant:** Fasilitas ditinggalkan dan tidak ditelusuri lagi.
+- **Data interest:** Seseorang ingin membeli hasil survey.
+- **Recurring location:** Fasilitas menjadi sasaran misi lain.
+- **Faction interest:** Script Order tertarik **jika** menerima dokumen; Night Remnant mungkin bereaksi terhadap anomali; Adikarsa hanya terlibat bila ada bukti.
+- **Survivor consequence:** Seseorang mungkin mengalami missing time setelah pulang, bila sesuai dengan actual play.
+- **Resonansi:** Catat siapa yang benar-benar mendekati area berenergi Old-Era dan apa pilihan mereka.
 
 ---
 
-Aftermath
+## Session Record
 
-Catat hanya hal yang benar-benar terjadi:
+> [!note] Isi **setelah** terjadi dalam actual play. Jangan pra-isi sebagai canon.
+> - **Tanggal sesi:**  
+> - **Anggota party:**  
+> - **Rute masuk:**  
+> - **Pekerja yang selamat / hilang:**  
+> - **Kondisi Garran dan Mara:**  
+> - **Apakah Sublevel 2 ditemukan:**  
+> - **Apakah party mendekati area energi Old-Era:**  
+> - **Apakah Sealed Chamber dibuka:**  
+> - **Anomali yang dialami:**  
+> - **Barang / dokumen yang dibawa keluar:**  
+> - **Resonansi (jika benar-benar dipicu):**  
+> - **Ending & payout akhir:**  
+> - **Open threads untuk sesi berikutnya:**
 
-- siapa yang diselamatkan;
-- kondisi Garran;
-- kondisi Mara;
-- apakah wizard meninggalkan fasilitas;
-- apakah Sublevel 2 ditemukan;
-- apakah sealed chamber dibuka;
-- apakah temporal anomaly terjadi;
-- apakah equipment dibawa keluar.
-
-Jangan menambahkan hubungan faction atau cosmology tanpa actual play.
+**Prinsip akhir:** *Siapa yang berhak menentukan kapan sesuatu cukup aman untuk dilepas?* Pekerja ingin pulang, wizard ingin mencegah bahaya, dan party harus memutuskan langkahnya sendiri.
