@@ -142,6 +142,8 @@ After training, Jeff accidentally detected nearby [[NPCs/Kaede Tsukishiro|Kaede 
 The DM's answers about Titah range/duration, one-use King's Will Resistance, stronger Nagaraga bonuses, Strength save / Stunned effect, aura customization, and Divine/Infernal echoes have been **integrated above as canon**.
 
 1. Final **Titah / Titah Lintas Charisma save DC**; ordinary Titah target count/area, use/recharge limits, any additional save timing.
-2. **Bajra** attack-roll bonus and additional Force damage values; eligible attack types, activation/duration and resource limits.
+2. **Bajra** attack-roll bonus and additional Force damage values; eligible attack types, activation/duration and resource limits. ini +1 aja damagenya 1d8, aktivasinya itu free action
 3. **Nagaraga** upgraded attack-roll bonus and Force damage values; **Strength save DC**, resource limits, and interaction with Bajra bonuses. **Stunned save timing and one initial stun attempt per user turn are confirmed**; whether to set any additional hard duration cap is still open.
+	1. aktivasi free action, +3 attack damagenya 3d8, strenght save itu 8+PB+STR Mod
 4. Training/awakening progression; any additional restrictions and how Old-Era Echoes are triggered in actual play.
+	1. Ini kondisional sih gimana RP
