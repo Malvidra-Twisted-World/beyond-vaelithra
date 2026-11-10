@@ -93,11 +93,16 @@ Each discipline has an **ordinary form** and an **Awakened form**. This is techn
 **DM-confirmed upgraded offensive effects:**
 - Nagaraga grants a **higher attack-roll bonus than ordinary Bajra**.
 - A successful Nagaraga-enhanced hit deals **more additional Force damage than Bajra**.
-- **On a successful Nagaraga-enhanced hit, the target must make a Strength Saving Throw. On a failed save, the target gains the Stunned condition**, representing the force of the impact.
-- On a **successful Strength save**, the target avoids the Stunned condition; the hit and its Force damage still apply.
-- Exact attack bonus, Force damage, **Strength save DC**, **Stunned duration**, whether the stun attempt can apply to every hit, resource limits, and whether Nagaraga replaces or stacks with Bajra's numerical bonuses remain **DM TBD**. Do not invent numbers or imply that Jeff currently knows Nagaraga.
+- **On a successful Nagaraga-enhanced hit**, the selected target makes a **Strength Saving Throw**. On a failed save, the target gains the **Stunned** condition, representing the force of the impact.
+- On a **successful initial Strength save**, the target avoids the Stunned condition; the hit and its Force damage still apply.
+- **At the start of each of its turns**, a target currently Stunned by Nagaraga **repeats the Strength Saving Throw** against the same DC.
+  - **Success:** Nagaraga's Stunned condition ends immediately at the start of that turn.
+  - **Failure:** the target remains Stunned and cannot repeat this save until **the start of its next turn**.
+- **Limit:** the Nagaraga user can trigger **at most one initial Stun saving throw per turn**. Additional hits that turn do not create additional initial stun saves.
+- **No automatic expiration at the end of the attacker's next turn:** the current DM ruling uses repeated target-turn saves; no separate fixed maximum stun duration has been established.
+- Exact attack-roll bonus, additional Force damage amount, **Strength save DC**, eligible attacks, Nagaraga resource limits and how Nagaraga bonuses interact with Bajra bonuses remain **DM TBD**. Do not invent numbers or imply that Jeff currently knows Nagaraga.
 
-> **Balance flag (DM-only, not canon):** Stunned is a major control condition. Before using Nagaraga in combat, choose its save DC, stun duration, and frequency/usage limits.
+> **Balance note:** Repeated Stunned can be potent even with a save at the beginning of each target turn. The one-stun-attempt-per-user-turn limit is canon; any further escape clause or maximum duration would require a new DM ruling.
 
 ## Current Character Progress: Jeff Le Beau
 
@@ -137,5 +142,5 @@ The DM's answers about Titah range/duration, one-use King's Will Resistance, str
 
 1. Final **Titah / Titah Lintas Charisma save DC**; ordinary Titah target count/area, use/recharge limits, any additional save timing.
 2. **Bajra** attack-roll bonus and additional Force damage values; eligible attack types, activation/duration and resource limits.
-3. **Nagaraga** upgraded attack-roll bonus and Force damage values; **Strength save DC**, **Stunned duration**, stun frequency, and interaction with Bajra bonuses.
+3. **Nagaraga** upgraded attack-roll bonus and Force damage values; **Strength save DC**, resource limits, and interaction with Bajra bonuses. **Stunned save timing and one initial stun attempt per user turn are confirmed**; whether to set any additional hard duration cap is still open.
 4. Training/awakening progression; any additional restrictions and how Old-Era Echoes are triggered in actual play.
