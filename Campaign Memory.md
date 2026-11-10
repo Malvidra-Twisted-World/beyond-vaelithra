@@ -521,6 +521,20 @@ Do NOT force a connection to The Collector without evidence.
 
 ---
 
+## Thread E — Ancient Power (Haki, Working Term)
+
+**Source:** Explicit DM lore decision, 2026-11-10. Full mechanics and guardrails: [[Lore/Haki - Ancient Will (Working Term)]].
+
+- An uncommon power, currently called **Haki** for player familiarity, **already existed during the Sundering War**.
+- Only a small number of people in modern **Kartaloka** can use it; the **true in-world name** is still undecided.
+- Its use may become a **trigger for something connected to the old days**, but no fixed detector, enemy, adverse effect, or mandatory trigger has been established.
+- **Jeff Le Beau** currently has **Kenbunshokku** (advantage on Perception within 30 feet), **Future Sight Level 1** (5-second foresight), and is **learning King's Will** (Charisma save, DC = Spell Save DC + CHA as stated by DM; exact rule semantics / effect unresolved).
+- Jeff's successful Kenbunshokku evasion of **Kaede Tsukishiro** has already been established in actual play. The **standoff is unresolved**.
+
+**Guardrail:** Do not make all mystery threads secretly Sundering War connected. Suggested old-era reactions remain optional, not confirmed events.
+
+---
+
 # 10. Mission Outcome Philosophy
 
 When designing follow-up missions, use these outcome categories:
@@ -626,6 +640,16 @@ Major canon updates:
 - Jeff's Kenbunshokku evasion of Kaede's shadow ambush is canon.
 - Both are currently facing one another; no outcome has been decided.
 - Connected reference: [[NPCs/Kaede Tsukishiro]].
+
+---
+
+### Jeff's Ancient Power / Haki
+**Status:** DM-confirmed foundation; some mechanics unresolved.
+
+- The power predates modern Kartaloka and existed during the Sundering War.
+- Kenbunshokku and Future Sight Level 1 are granted to Jeff; King's Will is still being learned.
+- The real historical name and specific power-use triggers are open.
+- See [[Lore/Haki - Ancient Will (Working Term)]] and [[Residents/Jeff Le Beau]].
 
 ---
 
