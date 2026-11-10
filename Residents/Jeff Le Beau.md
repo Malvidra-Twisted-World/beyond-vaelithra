@@ -32,8 +32,8 @@ Perjalanan Jeff akhirnya membawanya ke dunia fixer profesional. Melalui kontak d
 | **Rasa** (Future Sight) | Awakened | **Pralihat** | **Granted:** Future Sight Level 1, sees **5 seconds** ahead |
 | **Karsa** (King's Will / Haoh) | Ordinary | **Titah** | **Learning:** target makes CHA save; failed save gives **Incapacitated** until concentration breaks; successful save gives **King's Will Resistance** (Advantage on a later King's Will save) |
 | **Karsa** (King's Will Remote) | Awakened | **Titah Lintas** | **Not confirmed:** extended range, selective targeting |
-| **Raga** (Busho) | Ordinary | **Bajra** | **Not learned by Jeff:** bonus to attack rolls **and extra Force damage**; numerical values pending |
-| **Raga** (Raga–Naga) | Awakened | **Nagaraga** | **Not learned by Jeff:** higher attack bonus and extra Force damage; on hit, **STR save or Stunned**. Stunned target **re-saves at the start of each turn**; success ends Stunned, failure means retry next turn. **One initial stun attempt per user's turn**. Numerical bonuses / save DC pending |
+| **Raga** (Busho) | Ordinary | **Bajra** | **Not learned by Jeff:** Free Action, **+1 attack roll**, **+1d8 extra Force damage** |
+| **Raga** (Raga–Naga) | Awakened | **Nagaraga** | **Not learned by Jeff:** Free Action, **+3 attack roll**, **+3d8 extra Force damage**; on hit, **STR save DC 8 + PB + STR mod** or Stunned. Target re-saves at the start of each turn; **one initial stun attempt per user turn** |
 
 **Naming:** All six Niskara technique names are **canon, approved by the DM (2026-11-10)**. A canon technique existing in the setting does **not** mean Jeff has learned it; refer to his status in the table.
 
