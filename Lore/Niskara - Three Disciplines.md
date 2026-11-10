@@ -55,8 +55,7 @@ Each discipline has an **ordinary form** and an **Awakened form**. This is techn
 
 **DM-confirmed resolution and activation:**
 - **Activation:** **Magic Action**.
-- **Ordinary range:** **10 ft**. Specific target count/area within that range is **not yet specified**.
-	- Any Creature around 10ft
+- **Ordinary range:** **10 ft**; **any creature within 10 ft** is an eligible target. Whether the effect applies simultaneously to every eligible creature or to selected creatures remains open until DM specifies the target count.
 - **Duration:** **Concentration, up to 1 minute**.
 - Target makes a **Charisma Saving Throw**.
 - **Failed save:** target becomes **Incapacitated** until the concentration ends (up to 1 minute).
@@ -83,17 +82,19 @@ Each discipline has an **ordinary form** and an **Awakened form**. This is techn
 
 #### Ordinary: Bajra (Busho)
 
-**DM-confirmed offensive effects:**
-- Using Bajra adds a **bonus to the attack roll** (improves chance to hit).
-- A successful Bajra-enhanced hit deals **additional Force damage**.
-- The amount of the attack-roll bonus and the **additional Force damage dice / points** have **not yet been determined**.
-- Which attack types qualify (unarmed, melee weapons, ranged attacks), activation economy, duration, use limits, and whether damage type changes or stays alongside the attack's original damage remain **DM TBD**. The confirmed wording is **additional Force damage**, not automatic replacement of the base attack's damage.
+**DM-confirmed offensive effects (Obsidian update, 2026-11-10):**
+- **Activation: Free Action** (DM homebrew: no Action / Bonus Action required to activate).
+- Using Bajra adds **+1 to the attack roll**.
+- A successful Bajra-enhanced hit deals **+1d8 Force damage** in addition to its normal damage.
+- The DM has not yet specified eligible attack types (unarmed, melee weapons, ranged attacks), how long the empowered state lasts, use limits, or which attacks it enhances. Do not treat the base damage as automatically converted to Force.
 
 #### Awakened: Nagaraga (Raga–Naga)
 
-**DM-confirmed upgraded offensive effects:**
-- Nagaraga grants a **higher attack-roll bonus than ordinary Bajra**.
-- A successful Nagaraga-enhanced hit deals **more additional Force damage than Bajra**.
+**DM-confirmed upgraded offensive effects (Obsidian update, 2026-11-10):**
+- **Activation: Free Action** (DM homebrew: no Action / Bonus Action required to activate).
+- Nagaraga grants **+3 to the attack roll**.
+- A successful Nagaraga-enhanced hit deals **+3d8 additional Force damage**, beyond the hit's normal damage.
+- Nagaraga's initial and repeated **Strength Saving Throw DC = 8 + user's proficiency bonus + user's Strength modifier**.
 - **On a successful Nagaraga-enhanced hit**, the selected target makes a **Strength Saving Throw**. On a failed save, the target gains the **Stunned** condition, representing the force of the impact.
 - On a **successful initial Strength save**, the target avoids the Stunned condition; the hit and its Force damage still apply.
 - **At the start of each of its turns**, a target currently Stunned by Nagaraga **repeats the Strength Saving Throw** against the same DC.
@@ -101,7 +102,8 @@ Each discipline has an **ordinary form** and an **Awakened form**. This is techn
   - **Failure:** the target remains Stunned and cannot repeat this save until **the start of its next turn**.
 - **Limit:** the Nagaraga user can trigger **at most one initial Stun saving throw per turn**. Additional hits that turn do not create additional initial stun saves.
 - **No automatic expiration at the end of the attacker's next turn:** the current DM ruling uses repeated target-turn saves; no separate fixed maximum stun duration has been established.
-- Exact attack-roll bonus, additional Force damage amount, **Strength save DC**, eligible attacks, Nagaraga resource limits and how Nagaraga bonuses interact with Bajra bonuses remain **DM TBD**. Do not invent numbers or imply that Jeff currently knows Nagaraga.
+- The **+3 attack / +3d8 Force** values are the confirmed Awakened values. Whether Bajra's bonus stacks with Nagaraga's bonus or is **replaced** by it is still a DM choice; the safer balance suggestion is **replacement, not stacking**. This recommendation is **not yet canon**.
+- Eligible attacks, empowered duration, Nagaraga resource limits, and any maximum number of targets or conditions on use remain **DM TBD**. Do not imply that Jeff currently knows Nagaraga.
 
 > **Balance note:** Repeated Stunned can be potent even with a save at the beginning of each target turn. The one-stun-attempt-per-user-turn limit is canon; any further escape clause or maximum duration would require a new DM ruling.
 
@@ -137,13 +139,18 @@ After training, Jeff accidentally detected nearby [[NPCs/Kaede Tsukishiro|Kaede 
 
 **Optional DM examples, not events already played:** An old ward reacts, an ancient relic resonates, or an awakened observer recognizes the signature. Do not force every Kartaloka mystery to share this same source.
 
+## Awakening Through Roleplay
+
+**DM-confirmed:** Training and awakening progression are **conditional on how the player roleplays and develops the character**. There is no universal automatic unlock table, fixed XP cost, or required bloodline.
+
+- Every living being can attempt to train Niskara, but success is not guaranteed.
+- A practitioner chooses and describes the **color and visual appearance of their aura**.
+- The DM decides whether a narrative/training milestone plausibly unlocks a discipline or its Awakened form.
+- Resonance thresholds do **not** automatically unlock Niskara.
+
 ## Outstanding Design Decisions (Remaining)
 
-The DM's answers about Titah range/duration, one-use King's Will Resistance, stronger Nagaraga bonuses, Strength save / Stunned effect, aura customization, and Divine/Infernal echoes have been **integrated above as canon**.
-
-1. Final **Titah / Titah Lintas Charisma save DC**; ordinary Titah target count/area, use/recharge limits, any additional save timing.
-2. **Bajra** attack-roll bonus and additional Force damage values; eligible attack types, activation/duration and resource limits. ini +1 aja damagenya 1d8, aktivasinya itu free action
-3. **Nagaraga** upgraded attack-roll bonus and Force damage values; **Strength save DC**, resource limits, and interaction with Bajra bonuses. **Stunned save timing and one initial stun attempt per user turn are confirmed**; whether to set any additional hard duration cap is still open.
-	1. aktivasi free action, +3 attack damagenya 3d8, strenght save itu 8+PB+STR Mod
-4. Training/awakening progression; any additional restrictions and how Old-Era Echoes are triggered in actual play.
-	1. Ini kondisional sih gimana RP
+1. Final **Titah / Titah Lintas Charisma save DC**, whether ordinary Titah affects all nearby creatures or chosen creatures, and any use/recharge limits.
+2. **Bajra** eligible attack types, empowered duration, and use/recharge limits.
+3. **Nagaraga** empowered duration, eligible attacks, numerical stacking vs replacement with Bajra, and resource limits. **Confirmed:** free activation, +3 attack, +3d8 Force, STR DC = 8 + PB + STR modifier, and re-save timing.
+4. Specific roleplay/training criteria for individuals remain **case-by-case DM rulings**. Old-Era Echoes can draw dormant Divine/Infernal attention, but no fixed probability applies.
