@@ -57,9 +57,16 @@ These are familiar Sin/Virtue oppositions, **not an assertion that the final Vae
 ## Open Mechanics Questions
 
 1. Confirm the canonical pair mapping from the Vaelithra Long Campaign.
+	1. itu pairnya bener
 2. Confirm whether *both directions* cause reciprocal reduction or only Sin→Virtue.
+	1. yes both direction
 3. Choose whether half-amount deductions round down, round up, or retain fractions.
+	1. Round down
 4. Set minimum/maximum values and starting points for each trait.
+	1. 2d8 tetep 2d8
 5. Set numerical thresholds, social modifier scaling, duration and stacking.
+	1. yes tolong buatin 3 threshold
 6. Ensure resonance influences roleplay without forcibly taking decisions away from a PC.
+	1. yes ini cuma ada efek tambahan di social roll mereka
 7. Choose the actual first event or discovery after Mission F based on the party's actions.
+	1. Pas mereka mendekati ke tempat sesuatu yang dilindungi itu, itu banyak energi old-era

@@ -56,6 +56,7 @@ Each discipline has an **ordinary form** and an **Awakened form**. This is techn
 **DM-confirmed resolution and activation:**
 - **Activation:** **Magic Action**.
 - **Ordinary range:** **10 ft**. Specific target count/area within that range is **not yet specified**.
+	- Any Creature around 10ft
 - **Duration:** **Concentration, up to 1 minute**.
 - Target makes a **Charisma Saving Throw**.
 - **Failed save:** target becomes **Incapacitated** until the concentration ends (up to 1 minute).
