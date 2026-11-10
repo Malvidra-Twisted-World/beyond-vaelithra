@@ -528,7 +528,7 @@ Do NOT force a connection to The Collector without evidence.
 - The in-world name for the power formerly labeled **Haki** is **Niskara**.
 - It existed during the **Sundering War**. **All living beings have the potential to train it**, but not all practitioners awaken it; confirmed users in modern Kartaloka remain rare.
 - There are three disciplines, each with **ordinary** and **Awakened** stages: **Rasa** (Kenbun / Future Sight), **Karsa** (King's Will / Remote), **Raga** (Busho / Raga–Naga).
-- Proposed technique names: **Waskita → Pralihat** (Rasa); **Titah → Titah Lintas** (Karsa); **Bajra → Nagaraga** (Raga). **Names are proposals**, not individually confirmed by the DM.
+- **DM-approved canon technique names (2026-11-10):** **Waskita → Pralihat** (Rasa); **Titah → Titah Lintas** (Karsa); **Bajra → Nagaraga** (Raga). The six names and ordinary/Awakened pairing are finalized; numerical mechanics remain partly unresolved.
 - Jeff has ordinary **Kenbun** (Advantage on Perception within **30 ft**) and **Awakened Future Sight Level 1** (**5 seconds** ahead); he is still learning ordinary **King's Will**. Raga and Remote have not been awarded to Jeff.
 - **King's Will:** failed **Charisma save** results in **Incapacitated** until the user's **concentration breaks**; successful save grants **King's Will Resistance** (Advantage on a later King's Will save). The DM's initial DC wording is **Spell Save DC + CHA**, exact interpretation unresolved.
 - The **Remote** Awakened form has greater reach and more selective targeting; ordinary **Raga** augments attacks, and **Raga–Naga** is its Awakened form. Exact numerical rules are not yet set.
@@ -650,7 +650,7 @@ Major canon updates:
 ---
 
 ### Jeff's Niskara Progression
-**Status:** DM-confirmed structure; proposed names and numerical limits pending.
+**Status:** DM-confirmed structure and canon technique names; numerical limits pending.
 
 - The ancient willpower system is called **Niskara**, usable in principle by all living beings through training, though awakening is rare.
 - Jeff has **Rasa ordinary / Kenbun** (30-ft Perception Advantage), **Rasa Awakened / Future Sight Level 1** (5-second future glimpse), and is learning **Karsa ordinary / King's Will** (Incapacitated on failed CHA save until concentration ends; success grants Advantage on a future King's Will save).
