@@ -61,6 +61,7 @@ Canon Guardrails
 - Jangan menetapkan fasilitas sebagai milik Adikarsa, pemerintah, Sundering War, Script Order, atau Vaeil.
 - Para wizard bukan cult, villain, atau hero.
 - Jangan menjelaskan isi sealed chamber.
+- **DM-approved foreshadowing (2026-11-10):** area mendekati sesuatu yang dilindungi di Sublevel 2 memiliki **konsentrasi besar energi Old-Era**. Ini adalah clue energi, **bukan konfirmasi** siapa membangun fasilitas atau apa isi ruang yang disegel.
 - Jangan menentukan siapa pembuat fasilitas.
 - Jangan menentukan fungsi sebenarnya dari sistem.
 - Temporal phenomena boleh muncul, tetapi penyebab akhirnya tetap unknown.
@@ -448,6 +449,14 @@ Arcana DC 15
 Sistem tampaknya menjaga stability sesuatu.
 
 Tidak diketahui apa.
+
+### DM-Only: Old-Era Resonance Foreshadowing
+
+> **New DM decision, 2026-11-10.** Saat party **mendekati area yang melindungi sesuatu** di sekitar Sealed Chamber, ada **konsentrasi energi Old-Era yang sangat besar**. Lihat [[Lore/Sins & Virtues Resonance - Integration Plan|Sins & Virtues Resonance]].
+>
+> Boleh deskripsikan tekanan atau gema energi yang semakin terasa ketika mendekat. **Jangan ungkap identitas benda/makhluk yang dilindungi atau asal-usul fasilitas.** Pengenalan energi ini tidak otomatis menjadikan fasilitas dibangun pada Sundering War atau mengonfirmasi hubungan dengan Niskara.
+>
+> Jika party tidak mendekat, **jangan paksa discovery**. Jika mereka mendekat, beri petunjuk secara natural sesuai tindakan dan pemeriksaan mereka. Roll 2d8 Sins/Virtues hanya saat DM menilai ada pemicu signifikan, bukan otomatis saat menyentuh pintu.
 
 ---
 
