@@ -18,7 +18,7 @@ visibility: DM Only
 - **All living beings have the potential to train Niskara**; it is **not** an exclusive bloodline, species, divine gift, or inborn caste.
 - **Training does not guarantee awakening**: not all trainees succeed in triggering/unlocking it.
 - Only a small number of people in present-day Kartaloka are known to use it.
-- Using Niskara **may trigger an event/reaction tied to the old era**, but the source, detection rules, consequences, and frequency of these events remain **DM-controlled and unresolved**.
+- Using Niskara **may attract long-dormant Divine and Infernal beings of the old era**. The mechanics, timing, awareness, and consequences remain **DM-controlled and unresolved**.
 - A specific connection to Vaeil, the Vaelithra, or any individual deity is **not established** by this note.
 
 ## Structure: Three Disciplines, Two Stages
@@ -53,40 +53,51 @@ Each discipline has an **ordinary form** and an **Awakened form**. This is techn
 
 #### Ordinary: Titah (King's Will / Haoh)
 
-**DM-confirmed resolution:**
+**DM-confirmed resolution and activation:**
+- **Activation:** **Magic Action**.
+- **Ordinary range:** **10 ft**. Specific target count/area within that range is **not yet specified**.
+- **Duration:** **Concentration, up to 1 minute**.
 - Target makes a **Charisma Saving Throw**.
-- **Failed save:** the target is **Incapacitated until the user's concentration on King's Will ends**.
-- **Successful save:** the target avoids incapacitation and gains **King's Will Resistance**, giving **Advantage on a later saving throw against King's Will**.
+- **Failed save:** target becomes **Incapacitated** until the concentration ends (up to 1 minute).
+- **Successful save:** target avoids incapacitation and gains **King's Will Resistance**, giving **Advantage on the very next saving throw it makes against King's Will**.
+- **Resistance consumption:** the resistance is consumed on that next King's Will save. If that next save **also succeeds**, the target gains King's Will Resistance again; otherwise the prior resistance is gone.
 
 **DC as originally stated by DM:** `Spell Save DC + CHA`.
 
 **DC design note, NOT an override:** `CHA` is ambiguous (score or modifier), and adding CHA to a Charisma-based spell save DC may count the stat twice. A cleaner *suggested* formula is **8 + proficiency bonus + Charisma modifier**. Confirm final DC before automation; preserve the DM's original wording until adopted.
 
-- Concentration follows the intended break condition; concentration breaking immediately ends incapacitation.
-- Target count, exact range, action requirement, reuse, concentration maximum duration, whether new saves are offered after a failed save, and duration/stacking of King's Will Resistance have **not** been established. Do **not** invent them.
+- Breaking concentration ends the incapacitation immediately, even before the 1-minute maximum.
+- No repeating save on failure has been specified. Target count, use/recharge limits, and any other activation prerequisites remain **TBD**; do not invent them.
 - In actual-play continuity, **Jeff is still learning King's Will**; do not represent it as mastered.
 
 #### Awakened: Titah Lintas (King's Will — Remote)
 
-- Awakening increases **effective range** over ordinary King's Will.
-- It can be **more selective/targeted**.
-- Exact range, target count, propagation/line-of-sight, attack mechanics, and how Resistance works on the Remote form remain **DM TBD**.
+- **Activation:** Magic Action; **range 25 ft**, **single selected target**.
+- **Duration:** Concentration, up to 1 minute, with the same failed/successful Charisma save effects and Resistance consumption as ordinary Titah.
+- Awakening allows the user to project King's Will farther and more precisely.
+- Line-of-sight requirements, usage/recharge limits, and any further adjustments to Titah Lintas remain **DM TBD**.
 - Do not automatically give Jeff this Awakened form.
 
 ### Raga — Force / Armament
 
 #### Ordinary: Bajra (Busho)
 
-**DM-confirmed intent:** Enhances the user's **attack strength**.
-
-- Damage formula, whether enhancement applies to strikes, weapons, or both, duration, stacking, and costs are **not yet specified**.
-- Do not invent a flat damage bonus or treat this as a default magical weapon.
+**DM-confirmed offensive effects:**
+- Using Bajra adds a **bonus to the attack roll** (improves chance to hit).
+- A successful Bajra-enhanced hit deals **additional Force damage**.
+- The amount of the attack-roll bonus and the **additional Force damage dice / points** have **not yet been determined**.
+- Which attack types qualify (unarmed, melee weapons, ranged attacks), activation economy, duration, use limits, and whether damage type changes or stays alongside the attack's original damage remain **DM TBD**. The confirmed wording is **additional Force damage**, not automatic replacement of the base attack's damage.
 
 #### Awakened: Nagaraga (Raga–Naga)
 
-- This is the **Awakened Raga manifestation**, referred to by DM as **Raga–Naga**.
-- Exactly **how** Nagaraga advances an ordinary Raga strike (damage, penetration, range, defense interactions, visuals, etc.) is **not yet defined**.
-- Do not borrow unapproved canon mechanics from another media property.
+**DM-confirmed upgraded offensive effects:**
+- Nagaraga grants a **higher attack-roll bonus than ordinary Bajra**.
+- A successful Nagaraga-enhanced hit deals **more additional Force damage than Bajra**.
+- **On a successful Nagaraga-enhanced hit, the target must make a Strength Saving Throw. On a failed save, the target gains the Stunned condition**, representing the force of the impact.
+- On a **successful Strength save**, the target avoids the Stunned condition; the hit and its Force damage still apply.
+- Exact attack bonus, Force damage, **Strength save DC**, **Stunned duration**, whether the stun attempt can apply to every hit, resource limits, and whether Nagaraga replaces or stacks with Bajra's numerical bonuses remain **DM TBD**. Do not invent numbers or imply that Jeff currently knows Nagaraga.
+
+> **Balance flag (DM-only, not canon):** Stunned is a major control condition. Before using Nagaraga in combat, choose its save DC, stun duration, and frequency/usage limits.
 
 ## Current Character Progress: Jeff Le Beau
 
@@ -111,19 +122,20 @@ After training, Jeff accidentally detected nearby [[NPCs/Kaede Tsukishiro|Kaede 
 - The DM intends to start connecting **Mission F — No Way Out** aftermath to the larger Sins & Virtues Resonance lore, but the mechanism and concrete events are **not yet canonized in actual play**.
 - Mission F's industrial facility remains of **unconfirmed origin**. Do not automatically declare it a Vaelithra artifact, Niskara source, or Sundering War research complex.
 
-## Optional Old-Era Echoes — DM Ideas, Not Canon Events
+## Niskara Aura and Old-Era Echoes
 
-An old ward or relic could react; a rare practitioner might recognize an energy signature; a historical witness might find this unsettling. These are **scene-specific possible hooks**, not automatic penalties for ordinary technique use. Do not force all Kartaloka mysteries to share one ancient source.
+**DM-confirmed:**
+- Each practitioner may **describe and color their own Niskara aura**. The appearance is player-authored and does not automatically provide mechanical bonuses or establish a Sin/Virtue affinity.
+- The activation of this old-era power **can lure or draw the attention of ancient Divine and Infernal beings that have long lain dormant**.
+- **When and how** those beings react, what they know, whether they awaken, and whether the user is identifiable remain **DM-controlled**. Using Niskara does not automatically summon an enemy or cause a Divine/Infernal encounter.
 
-## Outstanding Design Decisions
+**Optional DM examples, not events already played:** An old ward reacts, an ancient relic resonates, or an awakened observer recognizes the signature. Do not force every Kartaloka mystery to share this same source.
 
-1. Final King's Will **DC calculation** and target/action/range/duration limits.
-	1. Durasinya 1 menit, actionnya magic action, targetnya kalo normal 10ft, kalo remote 25ft single target.
-2. Whether King's Will Resistance has a duration or limits and what counts as a subsequent King's Will save.
-	1. Durasinya until next save, jadi kalo udah save, resistancenya ilang kecuali berhasil lagi.
-3. Awakened Remote's target/range rules.
-	1. Ikutin diatas
-4. Bajra and Nagaraga damage/weapon mechanics.
-	1. tambahin attack sama damage ke force damage
-5. How practitioners awaken forms, training progression, and what if anything causes old-era echoes.
-	1. Nah ini aku mau mereka yang gambarin mereka boleh warnain sendiri auranya, efeknya old-era echoes akan mancing para kaum Divine dan Infernal yang lama tertidur
+## Outstanding Design Decisions (Remaining)
+
+The DM's answers about Titah range/duration, one-use King's Will Resistance, stronger Nagaraga bonuses, Strength save / Stunned effect, aura customization, and Divine/Infernal echoes have been **integrated above as canon**.
+
+1. Final **Titah / Titah Lintas Charisma save DC**; ordinary Titah target count/area, use/recharge limits, any additional save timing.
+2. **Bajra** attack-roll bonus and additional Force damage values; eligible attack types, activation/duration and resource limits.
+3. **Nagaraga** upgraded attack-roll bonus and Force damage values; **Strength save DC**, **Stunned duration**, stun frequency, and interaction with Bajra bonuses.
+4. Training/awakening progression; any additional restrictions and how Old-Era Echoes are triggered in actual play.
