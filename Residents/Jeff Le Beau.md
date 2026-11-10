@@ -22,11 +22,11 @@ Perjalanan Jeff akhirnya membawanya ke dunia fixer profesional. Melalui kontak d
 
 ## Niskara — Ancient Will (DM-Confirmed, 2026-11-10)
 
-> **Canon rules and naming proposals:** [[Lore/Niskara - Three Disciplines|Niskara — Three Disciplines]].
+> **Canon technique names and current rules:** [[Lore/Niskara - Three Disciplines|Niskara — Three Disciplines]].
 >
 > **Niskara** was formerly called **Haki** to help players recognize the concept. All living beings can train it, though actual awakening is uncommon in modern Kartaloka; the power existed during the Sundering War.
 
-| Discipline | Stage | Working technique name | Current Jeff status / DM effect |
+| Discipline | Stage | Canon technique name | Current Jeff status / DM effect |
 |---|---|---|---|
 | **Rasa** (Kenbun) | Ordinary | **Waskita** | **Active:** Advantage on Perception involving things within 30 ft |
 | **Rasa** (Future Sight) | Awakened | **Pralihat** | **Granted:** Future Sight Level 1, sees **5 seconds** ahead |
@@ -35,7 +35,7 @@ Perjalanan Jeff akhirnya membawanya ke dunia fixer profesional. Melalui kontak d
 | **Raga** (Busho) | Ordinary | **Bajra** | **Not confirmed:** attack-strength enhancement |
 | **Raga** (Raga–Naga) | Awakened | **Nagaraga** | **Not confirmed:** awakened form mechanics TBD |
 
-**Naming:** The six technique names are **proposals** pending DM confirmation, but the ordinary/Awakened structure and functional roles are DM-defined.
+**Naming:** All six Niskara technique names are **canon, approved by the DM (2026-11-10)**. A canon technique existing in the setting does **not** mean Jeff has learned it; refer to his status in the table.
 
 **King's Will DC:** DM's originally given wording was `Spell Save DC + CHA`. The exact interpretation is not finalized. See the lore note for the alternative suggestion `8 + proficiency bonus + CHA modifier`. Do not silently replace the DM formula.
 
