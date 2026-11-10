@@ -105,6 +105,7 @@ The points are intended to accumulate over meaningful scenes rather than every o
 ## Remaining Questions
 
 1. DM approval or revision of **three proposed thresholds** (20/50/80) and social bonuses (+1/+2/+3).
+	1. Itu oke tapi dengan jelas misal Pride akan +1 kalo melakukan sesuatu dengan kepercayaan diri dan -1 kalo dia dibantu orang. gitu gitu
 2. Starting scores, minimum/maximum values, and award frequency. **2d8 remains the award roll**.
 3. Whether the eventual long-campaign version adds other influences beyond the **currently approved social-roll effects**.
 4. Actual-play record: which PCs approach the protected zone, what they perceive, and what choices they make.
