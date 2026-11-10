@@ -20,6 +20,22 @@ Perjalanan Jeff akhirnya membawanya ke dunia fixer profesional. Melalui kontak d
 
 *Charsheet Link:* [LINK](https://www.dndbeyond.com/characters/169740688/S3ugR4)
 
+## Ancient Power / Haki (DM-Confirmed, 2026-11-10)
+
+> See [[Lore/Haki - Ancient Will (Working Term)|Ancient Will — Haki]] for the canonical Sundering War background and outstanding rule questions.
+
+| Technique | Current status | DM ruling |
+|---|---|---|
+| Kenbunshokku | Active / used | Advantage on Perception within **30 ft** of Jeff |
+| Future Sight Level 1 | Granted | See **5 seconds** into the future |
+| King's Will | **Still learning** | Target makes **Charisma Saving Throw**, DC = **Spell Save DC + CHA** (as stated by DM; precise calculation and consequences TBD) |
+
+The name **Haki** is temporary for player familiarity; the setting-specific name is still undecided. The power existed in the **Sundering War** and is **rare** in current-day Kartaloka. Activating it may become a story trigger, but no specific automatic effect is established.
+
+**Actual play:** After Haki practice, Jeff sensed Kaede Tsukishiro within the area, pursued him, and avoided a shadow ambush using Kenbunshokku. They are now facing each other; **no outcome has been determined**.
+
+
+
 [Jeff Le Beau](../attachments/Jeff%20Le%20Beau.md)
 
 
