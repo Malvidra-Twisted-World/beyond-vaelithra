@@ -1,7 +1,7 @@
 ---
 tags: [DnD, Beyond Vaelithra, DM Lore, Niskara, Sundering War, Homebrew]
 campaign: Beyond Vaelithra
-status: Canon Foundation / Technique Names Proposed / Mechanics Partial
+status: Canon Names and Structure / Mechanics Partial
 visibility: DM Only
 ---
 
@@ -25,13 +25,13 @@ visibility: DM Only
 
 Each discipline has an **ordinary form** and an **Awakened form**. This is technique mastery, **not** the same as a Sin/Virtue resonance threshold or class level.
 
-| Discipline | Haki comparison (OOC) | Ordinary technique — proposed in-world name | Awakened technique — proposed in-world name |
+| Discipline | Haki comparison (OOC) | Ordinary technique — canon name | Awakened technique — canon name |
 |---|---|---|---|
 | **Rasa** | Kenbunshoku / Observation | **Waskita** | **Pralihat** |
 | **Karsa** | Haoshoku / King's Will | **Titah** | **Titah Lintas** |
 | **Raga** | Busoshoku / Armament | **Bajra** | **Nagaraga** (*Raga–Naga*) |
 
-> **Naming status:** The **Niskara** system name, its three intended functions and two stages come from the DM's decisions. **Waskita, Pralihat, Titah, Titah Lintas, Bajra, and Nagaraga are proposed local technique names, not yet separately ratified by the DM.** Keep the OOC Haki counterparts available for player comprehension.
+> **Canon naming confirmed by DM (2026-11-10):** **Niskara** is the system name, with three disciplines and two stages. All six technique names are approved: **Waskita, Pralihat, Titah, Titah Lintas, Bajra, and Nagaraga**. The OOC Haki counterparts are retained only to help players understand the reference.
 
 ### Rasa — Sense / Perception
 
@@ -117,9 +117,8 @@ An old ward or relic could react; a rare practitioner might recognize an energy 
 
 ## Outstanding Design Decisions
 
-1. Final acceptance or revision of the **six proposed technique names**.
-2. Final King's Will **DC calculation** and target/action/range/duration limits.
-3. Whether King's Will Resistance has a duration or limits and what counts as a subsequent King's Will save.
-4. Awakened Remote's target/range rules.
-5. Bajra and Nagaraga damage/weapon mechanics.
-6. How practitioners awaken forms, training progression, and what if anything causes old-era echoes.
+1. Final King's Will **DC calculation** and target/action/range/duration limits.
+2. Whether King's Will Resistance has a duration or limits and what counts as a subsequent King's Will save.
+3. Awakened Remote's target/range rules.
+4. Bajra and Nagaraga damage/weapon mechanics.
+5. How practitioners awaken forms, training progression, and what if anything causes old-era echoes.
