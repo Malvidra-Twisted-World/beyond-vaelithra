@@ -118,7 +118,12 @@ An old ward or relic could react; a rare practitioner might recognize an energy 
 ## Outstanding Design Decisions
 
 1. Final King's Will **DC calculation** and target/action/range/duration limits.
+	1. Durasinya 1 menit, actionnya magic action, targetnya kalo normal 10ft, kalo remote 25ft single target.
 2. Whether King's Will Resistance has a duration or limits and what counts as a subsequent King's Will save.
+	1. Durasinya until next save, jadi kalo udah save, resistancenya ilang kecuali berhasil lagi.
 3. Awakened Remote's target/range rules.
+	1. Ikutin diatas
 4. Bajra and Nagaraga damage/weapon mechanics.
+	1. tambahin attack sama damage ke force damage
 5. How practitioners awaken forms, training progression, and what if anything causes old-era echoes.
+	1. Nah ini aku mau mereka yang gambarin mereka boleh warnain sendiri auranya, efeknya old-era echoes akan mancing para kaum Divine dan Infernal yang lama tertidur
