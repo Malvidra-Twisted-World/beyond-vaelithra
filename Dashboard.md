@@ -16,6 +16,8 @@ Kota **Kartaloka**, Dewanegara. West Marches-inspired, **Voice + PbP + Hybrid**,
 - [[Mission Board Posts]] — versi PUBLIK (tanpa spoiler) dari 3 starter mission, siap post ke `#the-switchboard`.
 - [[Mission Note Template]] — duplicate tiap kali ada mission dimainkan, isi setelah thread selesai (actual-play recap + Aftermath Log).
 - [[Side Missions]] — catatan personal mission resident; [[Joshua Graham Laundromat - Setup]] memuat scene lanjutan Joshua dan keputusan layanan laundry.
+- [[Lore/Niskara - Three Disciplines|Niskara — Three Disciplines]] — sistem kehendak kuno dari era Sundering War, tiga disiplin (Rasa / Karsa / Raga), dua tahap dan progres Jeff.
+- [[Lore/Sins & Virtues Resonance - Integration Plan|Sins & Virtues Resonance]] — rancangan kelanjutan pasca-Mission F, roll 2d8, pasangan Sin/Virtue, threshold dan social roll (belum final).
 
 ## World State Saat Ini
 *(diisi manual seiring campaign berjalan — lihat §6 [[Design Document]] untuk format)*
