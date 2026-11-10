@@ -99,7 +99,7 @@ The points are intended to accumulate over meaningful scenes rather than every o
 
 - [[Lore/Niskara - Three Disciplines|Niskara]] is a trainable potential found in all living beings, but awakening is uncommon in modern Kartaloka.
 - Resonance tracks the growth of Sin/Virtue aspects through significant character choices.
-- Activating Niskara does **not automatically** award Resonance points.
+- Activatng Niskara does **not automatically** award Resonance points.
 - Old-Era Echoes from Niskara can attract ancient Divine and Infernal beings; **this does not establish** the energy near Mission F's sealed location as Niskara.
 
 ## Remaining Questions
@@ -108,4 +108,4 @@ The points are intended to accumulate over meaningful scenes rather than every o
 	1. Itu oke tapi dengan jelas misal Pride akan +1 kalo melakukan sesuatu dengan kepercayaan diri dan -1 kalo dia dibantu orang. gitu gitu
 2. Starting scores, minimum/maximum values, and award frequency. **2d8 remains the award roll**.
 3. Whether the eventual long-campaign version adds other influences beyond the **currently approved social-roll effects**.
-4. Actual-play record: which PCs approach the protected zone, what they perceive, and what choices they make.
+4. Actual-play record: which PCs approach the protected zone, what they perceive, and what choices they make
