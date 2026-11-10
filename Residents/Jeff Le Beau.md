@@ -20,20 +20,26 @@ Perjalanan Jeff akhirnya membawanya ke dunia fixer profesional. Melalui kontak d
 
 *Charsheet Link:* [LINK](https://www.dndbeyond.com/characters/169740688/S3ugR4)
 
-## Ancient Power / Haki (DM-Confirmed, 2026-11-10)
+## Niskara — Ancient Will (DM-Confirmed, 2026-11-10)
 
-> See [[Lore/Haki - Ancient Will (Working Term)|Ancient Will — Haki]] for the canonical Sundering War background and outstanding rule questions.
+> **Canon rules and naming proposals:** [[Lore/Niskara - Three Disciplines|Niskara — Three Disciplines]].
+>
+> **Niskara** was formerly called **Haki** to help players recognize the concept. All living beings can train it, though actual awakening is uncommon in modern Kartaloka; the power existed during the Sundering War.
 
-| Technique | Current status | DM ruling |
-|---|---|---|
-| Kenbunshokku | Active / used | Advantage on Perception within **30 ft** of Jeff |
-| Future Sight Level 1 | Granted | See **5 seconds** into the future |
-| King's Will | **Still learning** | Target makes **Charisma Saving Throw**, DC = **Spell Save DC + CHA** (as stated by DM; precise calculation and consequences TBD) |
+| Discipline | Stage | Working technique name | Current Jeff status / DM effect |
+|---|---|---|---|
+| **Rasa** (Kenbun) | Ordinary | **Waskita** | **Active:** Advantage on Perception involving things within 30 ft |
+| **Rasa** (Future Sight) | Awakened | **Pralihat** | **Granted:** Future Sight Level 1, sees **5 seconds** ahead |
+| **Karsa** (King's Will / Haoh) | Ordinary | **Titah** | **Learning:** target makes CHA save; failed save gives **Incapacitated** until concentration breaks; successful save gives **King's Will Resistance** (Advantage on a later King's Will save) |
+| **Karsa** (King's Will Remote) | Awakened | **Titah Lintas** | **Not confirmed:** extended range, selective targeting |
+| **Raga** (Busho) | Ordinary | **Bajra** | **Not confirmed:** attack-strength enhancement |
+| **Raga** (Raga–Naga) | Awakened | **Nagaraga** | **Not confirmed:** awakened form mechanics TBD |
 
-The name **Haki** is temporary for player familiarity; the setting-specific name is still undecided. The power existed in the **Sundering War** and is **rare** in current-day Kartaloka. Activating it may become a story trigger, but no specific automatic effect is established.
+**Naming:** The six technique names are **proposals** pending DM confirmation, but the ordinary/Awakened structure and functional roles are DM-defined.
 
-**Actual play:** After Haki practice, Jeff sensed Kaede Tsukishiro within the area, pursued him, and avoided a shadow ambush using Kenbunshokku. They are now facing each other; **no outcome has been determined**.
+**King's Will DC:** DM's originally given wording was `Spell Save DC + CHA`. The exact interpretation is not finalized. See the lore note for the alternative suggestion `8 + proficiency bonus + CHA modifier`. Do not silently replace the DM formula.
 
+**Actual play:** After Haki/Niskara practice, Jeff sensed [[NPCs/Kaede Tsukishiro|Kaede]] nearby, pursued him, and avoided a shadow ambush using Kenbun/Waskita. They remain face-to-face with **no resolved outcome**.
 
 
 [Jeff Le Beau](../attachments/Jeff%20Le%20Beau.md)
