@@ -1,0 +1,262 @@
+{
+  "mission": "F - No Way Out",
+  "generator": "Built-in image_gen",
+  "local_png_checks": "passed",
+  "vtt_import_tested": false,
+  "playtested": false,
+  "wulan": "Existing DM asset; not recreated or bundled",
+  "assets": [
+    {
+      "file": "Maps/F1-Approach-Route.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3883435,
+      "sha256": "911bfb6908ae9012613e560c1b65169f06bf0a8b5a010e3ec978a2ee45bba3f3",
+      "grid_px": 64,
+      "grid_offset_px": [
+        0,
+        0
+      ],
+      "grid_cells": [
+        24,
+        16
+      ],
+      "feet_per_cell": 5
+    },
+    {
+      "file": "Maps/F2-Outer-Facility.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3688849,
+      "sha256": "b58b555eebe602b3557ad8db0ff8a61719f42bd922be078b6780080c32ba738c",
+      "grid_px": 64,
+      "grid_offset_px": [
+        0,
+        0
+      ],
+      "grid_cells": [
+        24,
+        16
+      ],
+      "feet_per_cell": 5
+    },
+    {
+      "file": "Maps/F3-Service-Tunnel.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3464754,
+      "sha256": "8580f378936623d37b847d61603166245db03859cae22b375f40bb24532ef8ed",
+      "grid_px": 64,
+      "grid_offset_px": [
+        0,
+        0
+      ],
+      "grid_cells": [
+        24,
+        16
+      ],
+      "feet_per_cell": 5
+    },
+    {
+      "file": "Maps/F4-Sublevel-2.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3014513,
+      "sha256": "b0fce1d3022496e290b18d265da9a9a808bb95ab8fa2eaf9fff164a764121918",
+      "grid_px": 64,
+      "grid_offset_px": [
+        0,
+        0
+      ],
+      "grid_cells": [
+        24,
+        16
+      ],
+      "feet_per_cell": 5
+    },
+    {
+      "file": "Tokens/Bram-Kest.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "bytes": 2426861,
+      "sha256": "57b893b886a52b8d1f609c6d4921b617b689dddebae528ccee1c5b14787d57f7",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "corner_alpha": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "display_cells": [
+        1,
+        1
+      ]
+    },
+    {
+      "file": "Tokens/Garran-Vey.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "bytes": 2267360,
+      "sha256": "1f4ea9d8d4a9d02a0014188fc4e84afcc0d39da80ffec3b54ad6c938de3cacc1",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "display_cells": [
+        1,
+        1
+      ]
+    },
+    {
+      "file": "Tokens/Mara-Vell.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "bytes": 2221772,
+      "sha256": "b30233e9a93db6e5386d00d2f0da707268b5e032858d4c80636c3750e3fd689c",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "display_cells": [
+        1,
+        1
+      ]
+    },
+    {
+      "file": "Tokens/Surveyor-03.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "bytes": 2365335,
+      "sha256": "ff5a2ace9e11d8db3460c4af70276c2b8e8ec051a213860dd3b137c33159cde9",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "display_cells": [
+        1,
+        1
+      ]
+    },
+    {
+      "file": "Tokens/Surveyor-04.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "bytes": 2436825,
+      "sha256": "bafaca018db2d6a73d000b560871ef227474afe3b2fe1e797a985cdab3d74112",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "display_cells": [
+        1,
+        1
+      ]
+    },
+    {
+      "file": "Tokens/Surveyor-05.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "bytes": 2237926,
+      "sha256": "a2380f181ae464fccd7d9175cd761998df64633c45cbc957fa5365dc7d3a7ea7",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "display_cells": [
+        1,
+        1
+      ]
+    },
+    {
+      "file": "Tokens/Surveyor-06.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "bytes": 2266474,
+      "sha256": "1923cd9cb5558628f3518dd73e277c11eeec4c04c31bec63a6734da35402aa4c",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "display_cells": [
+        1,
+        1
+      ]
+    },
+    {
+      "file": "Tokens/Wizard-Generic.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "bytes": 2378442,
+      "sha256": "d39b24676eeb11af5db3802f91abfa515266df31f2d0f0753f102f059da1e573",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "display_cells": [
+        1,
+        1
+      ]
+    },
+    {
+      "file": "Tokens/Yara-Sen.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "bytes": 2403132,
+      "sha256": "5518b355a311e00ec5fc80039a7363d253c25bce4272a963b0f98b1fff51bbff",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "display_cells": [
+        1,
+        1
+      ]
+    }
+  ]
+}

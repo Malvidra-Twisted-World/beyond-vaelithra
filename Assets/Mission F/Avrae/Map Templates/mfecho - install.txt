@@ -1,0 +1,16 @@
+!alias mfecho <drac2>
+c = combat()
+if not c:
+    err("Start initiative with !init begin first.")
+a = &ARGS&
+n = a[0] if a else "3"
+if n not in ["2", "3"]:
+    err("Use !mfecho 2 or !mfecho 3.")
+roster = [['Unstable Echo', 'E1', 'J9', 'c'], ['Unstable Echo', 'E2', 'N9', 'c'], ['Unstable Echo', 'E3', 'Q9', 'c']]
+roster = roster[:int(n)]
+cmds = []
+for monster, name, loc, color in roster:
+    if not c.get_combatant(name, strict=True):
+        cmds.append('!init madd "' + monster + '" -name "' + name + '" -note "Location: ' + loc + ' | Size: S | Color: ' + color + '"')
+return "multiline\n" + "\n".join(cmds) if cmds else 'echo All preset combatants are already present; nothing was changed.'
+</drac2>

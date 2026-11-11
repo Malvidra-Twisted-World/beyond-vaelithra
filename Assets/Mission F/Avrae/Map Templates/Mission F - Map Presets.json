@@ -1,0 +1,105 @@
+{
+  "grid": {
+    "columns": 24,
+    "rows": 16,
+    "cellPixels": 64,
+    "feetPerCell": 5
+  },
+  "mapFiles": {
+    "f1": "../Maps/F1-Approach-Route.png",
+    "f2": "../Maps/F2-Outer-Facility.png",
+    "f3": "../Maps/F3-Service-Tunnel.png",
+    "f4": "../Maps/F4-Sublevel-2.png"
+  },
+  "rosters": {
+    "mfwizards": [
+      [
+        "Garran Vey",
+        "GV",
+        "L9",
+        "p"
+      ],
+      [
+        "Mara Vell",
+        "MV",
+        "M6",
+        "b"
+      ],
+      [
+        "Wizard Associate",
+        "WZ",
+        "S9",
+        "g"
+      ]
+    ],
+    "mfrescue": [
+      [
+        "Surveyor",
+        "Bram",
+        "P6",
+        "o"
+      ],
+      [
+        "Surveyor",
+        "Yara",
+        "R6",
+        "y"
+      ],
+      [
+        "Surveyor",
+        "S03",
+        "T6",
+        "b"
+      ],
+      [
+        "Surveyor",
+        "S04",
+        "V6",
+        "g"
+      ],
+      [
+        "Surveyor",
+        "S05",
+        "U4",
+        "r"
+      ],
+      [
+        "Surveyor",
+        "S06",
+        "U3",
+        "p"
+      ]
+    ],
+    "mfecho": [
+      [
+        "Unstable Echo",
+        "E1",
+        "J9",
+        "c"
+      ],
+      [
+        "Unstable Echo",
+        "E2",
+        "N9",
+        "c"
+      ],
+      [
+        "Unstable Echo",
+        "E3",
+        "Q9",
+        "c"
+      ]
+    ]
+  },
+  "publicMapUrlsConfigured": false,
+  "discordTested": false,
+  "publicMapUrls": {
+    "f1": null,
+    "f2": null,
+    "f3": "https://i.imgur.com/xU87p2b.jpeg",
+    "f4": null
+  },
+  "imageUrlVerified": {
+    "f3": "Fetched successfully; visually matched F3; 1536 x 1024 JPEG. OTFBM rendering not verified."
+  }
+}

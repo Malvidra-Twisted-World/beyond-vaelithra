@@ -51,15 +51,25 @@ Supaya konsisten lintas DM, pakai pola ini tiap kali membuat institusi baru:
 
 ## 2. Format Permainan
 
-**West Marches-inspired, bukan West Marches literal.** Perbedaan paling penting dari West Marches klasik: campaign ini **tidak pakai leveling bebas per individu**. Alasannya murni praktis — di PbP async, rate aktivitas tiap pemain jomplang jauh, dan kalau leveling dibiarkan organik per-mission-per-orang, dalam sebulan bisa ada karakter level 8 duduk semeja sama karakter level 2 di mission yang sama. Itu tidak playable. Jadi struktur levelnya **tier-gated** (detail §2.2), sisanya tetap West Marches: pool pemain terbuka, party dibentuk per-mission, async, dunia persisten.
+**West Marches-inspired, bukan West Marches literal.** Perbedaan paling penting dari West Marches klasik: campaign ini **tidak pakai leveling bebas per individu**. Alasannya murni praktis — dalam pool pemain dengan aktivitas dan format main berbeda, rate perkembangan bisa jomplang jauh, dan kalau leveling dibiarkan organik per-mission-per-orang, karakter level 8 bisa duduk semeja dengan karakter level 2 di mission yang sama. Itu tidak playable. Jadi struktur levelnya **tier-gated** (detail §2.2). Campaign mendukung **PbP async, Voice One-Shot, dan Hybrid Arc** dengan pool pemain terbuka, party dibentuk per-mission, dan dunia persisten. Panduan operasional: [[Hybrid Campaign Operations]].
 
 Aturan main:
 
-- Tidak ada kewajiban posting harian. Scene boleh berhenti kalau satu pemain offline, lanjut kapan saja mereka kembali (soft-pause, bukan dianggap absen/DNF).
+- **Untuk PbP:** tidak ada kewajiban posting harian. Scene boleh berhenti kalau satu pemain offline, lanjut ketika mereka kembali (soft-pause, bukan otomatis absen/DNF). Untuk Voice, jadwal dan kehadiran disepakati per sesi.
 - Party dibentuk per-mission dari pool pemain yang available, **dalam Party Tier yang sama** (lihat §2.2) — bukan fixed party, tapi bukan sembarang gabung juga.
 - Beberapa mission berjalan **paralel** di channel/thread berbeda, termasuk paralel lintas-tier (party Tier I dan Tier II bisa jalan bersamaan di distrik yang sama, mengerjakan hal berbeda).
 - Dunia **persisten**: hasil satu mission memengaruhi mission lain, bahkan yang dimainkan party berbeda.
 - Sesi tidak "reset". Kalau sebuah quest gagal, gagalnya permanen sampai ada pihak yang memperbaikinya lewat mission baru.
+
+### 2.1 Pilihan Format Bermain
+
+| Format | Penggunaan | Prinsip |
+|---|---|---|
+| **Voice One-Shot** | Mission ringkas yang ditargetkan selesai dalam satu sesi (umumnya 2–4 jam) dengan Discord dan Malvidra Encounter VTT jika memerlukan map/token | Tetap Party Tier-gated, satu Canon Lock dan satu payout per kontrak |
+| **Play-by-Post** | Roleplay, personal mission, bisnis, investigasi panjang, dan cerita asinkron | Aturan thread Active/Paused/Stale tetap berlaku; tidak ada kewajiban posting harian |
+| **Hybrid Arc** | Campuran voice untuk scene besar dan PbP untuk kelanjutannya | Catat transisi scene, status karakter dan hasil supaya tidak menduplikasi outcome |
+
+**Voice dan PbP sama-sama canon** setelah dicatat DM; perbedaan format **tidak** mengubah sistem milestone, escrow, batas Party Tier, atau konsekuensi dunia. Pedoman prep, VTT, roster casual/hiatus, dan rekrutmen resident ada di [[Hybrid Campaign Operations]].
 
 ### 2.2 Party Tier — Sistem Level Tetap per Mission
 

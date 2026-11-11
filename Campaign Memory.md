@@ -499,6 +499,65 @@ Do NOT force a connection to The Collector without evidence.
 
 ---
 
+## Thread D — Soyo Gumi / Amane / Raiga / Kaede
+
+**Sources:** [[Mission D Report]] (Mission #143) and DM-confirmed Jeff–Kaede actual play on 2026-11-09.
+
+### Established
+
+- The Last Train investigation produced a letter addressed to **"KT"**, signed by **Amane**, Kindness Commander of **Gyokko Gumi / Soyo Gumi**. The letter stated she was kidnapped by **Raiga**.
+- **Kaede Tsukishiro** is the **Envy Commander** of **Nisshoku / Soyo Gumi**; he has a **love–hate** personal relationship with Amane.
+- Following Haki practice, **Jeff detected Kaede nearby via Kenbunshokku**. Kaede mistook him for a subordinate of Raiga, fled, then attacked from shadow after Jeff caught up. Jeff dodged using Kenbunshokku.
+- **Present scene:** Jeff and Kaede are staring each other down. **ONGOING / UNRESOLVED.**
+
+### Open Questions
+
+- Whether **"KT"** in the letter definitively means Kaede Tsukishiro.
+- The current whereabouts and condition of Amane, and the circumstances around Raiga.
+- The ultimate outcome of Jeff's encounter with Kaede.
+- Any broader political relationship between Nisshoku, Gyokko Gumi, and Raiga.
+
+**Canon guardrail:** This is a thread emerging from specific character events, not a reason to connect every mission or faction. The kidnapping is established as the **letter's claim**; do not invent a confirmed rescue or confrontation. See [[NPCs/Kaede Tsukishiro]].
+
+---
+
+## Thread E — Niskara / Ancient Will
+
+**Source:** Explicit DM decisions through 2026-11-10. See [[Lore/Niskara - Three Disciplines]] for the canonical working system and unresolved mechanics.
+
+- The in-world name for the power formerly labeled **Haki** is **Niskara**.
+- It existed during the **Sundering War**. **All living beings have the potential to train it**, but not all practitioners awaken it; confirmed users in modern Kartaloka remain rare.
+- There are three disciplines, each with **ordinary** and **Awakened** stages: **Rasa** (Kenbun / Future Sight), **Karsa** (King's Will / Remote), **Raga** (Busho / Raga–Naga).
+- **DM-approved canon technique names (2026-11-10):** **Waskita → Pralihat** (Rasa); **Titah → Titah Lintas** (Karsa); **Bajra → Nagaraga** (Raga). The six names and ordinary/Awakened pairing are finalized; numerical mechanics remain partly unresolved.
+- Jeff has ordinary **Kenbun** (Advantage on Perception within **30 ft**) and **Awakened Future Sight Level 1** (**5 seconds** ahead); he is still learning ordinary **King's Will**. Raga and Remote have not been awarded to Jeff.
+- **King's Will:** failed **Charisma save** results in **Incapacitated** until the user's **concentration breaks**; successful save grants **King's Will Resistance** (Advantage on a later King's Will save). The DM's initial DC wording is **Spell Save DC + CHA**, exact interpretation unresolved.
+- **Titah** uses a **Magic Action**, reaches **10 ft**, and lasts **Concentration up to 1 minute**; Awakened **Titah Lintas** reaches **25 ft** and selects a **single target**. The bonus from King's Will Resistance lasts **until the next King's Will save**, at which point it is consumed; it is earned again on a successful save.
+- **Bajra (Raga ordinary):** **Free Action** activation, **+1 attack roll** and **+1d8 additional Force damage** on hits.
+- **Nagaraga (Raga Awakened):** **Free Action** activation, **+3 attack roll**, **+3d8 additional Force damage**. A hit prompts a **Strength save (DC 8 + PB + STR modifier)** or the target is **Stunned**. At the start of each affected target's turn, it repeats the STR save: success ends Stunned; failure means retry at the start of its next turn. At most **one initial stun save triggered per Nagaraga user's turn**. Eligible attack types, resource limits and Bajra stacking are still unconfirmed.
+- **Training and awakening:** conditional on player roleplay and DM adjudication, not an automatic unlock schedule.
+- Players can **describe and color their Niskara aura**. Old-Era Echoes may attract **long-dormant Divine and Infernal beings**, at DM discretion; no guaranteed consequence or fixed trigger is set.
+- Using Niskara can **draw the attention of long-dormant Divine and Infernal beings from the old era**. Their response, trigger frequency and timing remain under DM control and are not automatic.
+- Jeff's use of Kenbun to avoid Kaede's shadow attack is already actual-play canon; the standoff remains unresolved.
+- The intended Sins/Virtues Resonance follow-up after **Mission F: No Way Out** is a **future DM plan**, not a played outcome. Niskara and Resonance are separate mechanics unless DM establishes a connection.
+
+**Guardrail:** Avoid automatically linking all mysteries, factions or the Mission F facility itself to Sundering War powers.
+
+---
+
+
+## Thread F — Sins & Virtues Resonance (Planned)
+
+**Source:** DM decisions, 2026-11-10. Working system note: [[Lore/Sins & Virtues Resonance - Integration Plan]].
+
+- The seven Sin/Virtue oppositions are DM-approved. The DM chooses one trait for a meaningful event; roll **2d8** and add it to that trait.
+- Its opposing trait loses **floor(rolled amount / 2)**. This reduction applies **both directions**, Sin → Virtue and Virtue → Sin.
+- Each trait has separate thresholds; their mechanical effects are restricted to **appropriate social rolls**, without forcing the PC's decisions.
+- A **three-threshold model (20/50/80, bonuses +1/+2/+3)** has been drafted at DM request; **not yet explicitly ratified**.
+- During [[Mission F Script|Mission F — No Way Out]], the DM has confirmed that **approaching the protected area near Sealed Chamber exposes the PCs to a large concentration of Old-Era energy**. This can foreshadow Resonance **if they approach**, but does not expose the chamber's contents or establish the facility's origin.
+- The exact outcome of Mission F and its later plot consequences remain **OPEN** until actual play.
+
+---
+
 # 10. Mission Outcome Philosophy
 
 When designing follow-up missions, use these outcome categories:
@@ -591,6 +650,29 @@ Major canon updates:
 - Stage dismantled.
 - "Xy'lo-" established as an unexplained final utterance.
 - The Velvet Séance survives.
+
+---
+
+## 2026-11-09
+
+### Kaede Tsukishiro / Jeff Le Beau Encounter
+**Status:** Ongoing
+
+- DM confirmed Kaede's identity as **Nisshoku Envy Commander** of Soyo Gumi, his appearance, personality, shadow ability, and short guandao-inspired dagger **Envy**.
+- His love–hate relationship with **Amane**, Kindness Commander of Gyokko Gumi, is established.
+- Jeff's Kenbunshokku evasion of Kaede's shadow ambush is canon.
+- Both are currently facing one another; no outcome has been decided.
+- Connected reference: [[NPCs/Kaede Tsukishiro]].
+
+---
+
+### Jeff's Niskara Progression
+**Status:** DM-confirmed structure and canon technique names; numerical limits pending.
+
+- The ancient willpower system is called **Niskara**, usable in principle by all living beings through training, though awakening is rare.
+- Jeff has **Rasa ordinary / Kenbun** (30-ft Perception Advantage), **Rasa Awakened / Future Sight Level 1** (5-second future glimpse), and is learning **Karsa ordinary / King's Will** (Incapacitated on failed CHA save until concentration ends; success grants Advantage on a future King's Will save).
+- **Karsa Remote** and **Raga / Raga–Naga** are planned system abilities, **not confirmed as learned by Jeff**.
+- Read [[Lore/Niskara - Three Disciplines]] and [[Residents/Jeff Le Beau]]; the historical note [[Lore/Haki - Ancient Will (Working Term)]] now redirects to that guide.
 
 ---
 
