@@ -6,7 +6,8 @@ a = &ARGS&
 s = a[0].lower() if a else "f3"
 if s not in ["f1", "f2", "f3", "f4"]:
     err("Use !mfscene f1, f2, f3, or f4.")
-u = get("mf_map_" + s, "https://i.imgur.com/xU87p2b.jpeg" if s == "f3" else "")
+urls = {'f1': 'https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20F/Maps/F1-Approach-Route.png', 'f2': 'https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20F/Maps/F2-Outer-Facility.png', 'f3': 'https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20F/Maps/F3-Service-Tunnel.png', 'f4': 'https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20F/Maps/F4-Sublevel-2.png'}
+u = get("mf_map_" + s, urls[s])
 if not u.startswith("https://") or any(x in u for x in ['"', "~", "\n", " "]):
     err("Set a direct HTTPS image URL first: !uvar mf_map_" + s + " URL")
 dm = c.get_combatant("DM", strict=True)

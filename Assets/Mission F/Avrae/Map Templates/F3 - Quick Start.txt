@@ -2,7 +2,7 @@ F3 — Service Tunnel
 
 Jika alias sudah dipasang sebelumnya, kirim satu per satu:
 
-!uvar mf_map_f3 https://i.imgur.com/xU87p2b.jpeg
+!uvar mf_map_f3 https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20F/Maps/F3-Service-Tunnel.png
 
 !mfscene f3
 

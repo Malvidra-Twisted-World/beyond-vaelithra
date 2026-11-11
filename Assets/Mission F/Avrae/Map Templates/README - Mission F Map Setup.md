@@ -12,26 +12,20 @@ Ikuti [[README - Import to Avrae]]. Bestiary harus aktif untuk akun DM sebelum m
 
 ### 2. Konfigurasi URL gambar map
 
-**F3 sudah tersedia:** `https://i.imgur.com/xU87p2b.jpeg`. Gambar berhasil diambil dan cocok secara visual dengan Service Tunnel, dengan ukuran 1536 × 1024 px. Alias `mfscene` versi paket terbaru memakai URL ini sebagai default F3; kamu juga dapat menyimpannya ke user variable dengan `!uvar mf_map_f3 https://i.imgur.com/xU87p2b.jpeg`. URL render yang dikirim DM: `https://otfbm.io/24x16/@c64//?a=2&bg=https://i.imgur.com/xU87p2b.jpeg`. Untuk background, pakai URL Imgur langsung, bukan URL render OTFBM. Render OTFBM belum berhasil diverifikasi dari lingkungan ini.
+Keempat map memakai direct image URL dari repo publik **Malvidra-Twisted-World/beyond-vaelithra**, branch **master**. Alias terbaru sudah menyertakan default URL F1–F4; tidak perlu hosting terpisah.
 
-F1, F2, dan F4 masih memerlukan URL publik.
-
-### Hosting map lainnya
-
-Upload **gambar PNG asli** F1–F4 dari `Assets/Mission F/Maps/` ke tempat yang memberikan direct image URL publik. Contohnya file pada repository GitHub publik dengan URL `raw.githubusercontent.com`. Upload gambar player-safe saja; tidak perlu mengunggah script atau panduan DM. Hosting belum dilakukan oleh template ini.
-
-URL harus dapat diambil tanpa login dan menghasilkan gambar PNG/JPEG. Link halaman preview Google Drive bukan direct image URL. Background harus diambil juga oleh layanan OTFBM, jadi gambar yang terlihat di browser pribadi belum membuktikan renderer dapat membacanya. Hindari mengandalkan attachment Discord yang bertanda tangan dan bisa kedaluwarsa.
-
-Simpan URL ke user variable, satu command per pesan. Ganti semua placeholder berikut dengan URL gambar sebenarnya; jangan menulis tanda `< >`.
+Jika alias versi lama sudah dipasang, atau user variable sebelumnya masih menunjuk Imgur, jalankan satu per satu:
 
 ```text
-!uvar mf_map_f1 https://i.imgur.com/ocOpxfR.jpeg
-!uvar mf_map_f2 https://i.imgur.com/oe39Bhy.jpeg
-!uvar mf_map_f3 https://i.imgur.com/xU87p2b.jpeg
-!uvar mf_map_f4 https://i.imgur.com/3J7hzl6.jpeg
+!uvar mf_map_f1 https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20F/Maps/F1-Approach-Route.png
+!uvar mf_map_f2 https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20F/Maps/F2-Outer-Facility.png
+!uvar mf_map_f3 https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20F/Maps/F3-Service-Tunnel.png
+!uvar mf_map_f4 https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20F/Maps/F4-Sublevel-2.png
 ```
 
-Semua gambar asli berukuran **1536 × 1024 px**. Grid **24 × 16**, **64 px per kotak**, **5 ft per kotak**. Jangan resize saat upload. Template tidak menganggap tekstur sambungan lantai sebagai garis grid presisi.
+User variable mengalahkan URL default alias. Karena itu, update variable F3 di atas jika sebelumnya memakai Imgur.
+
+Semua gambar asli berukuran **1536 × 1024 px**. Grid **24 × 16**, **64 px per kotak**, **5 ft per kotak**. URL GitHub harus melayani gambar publik tanpa login. Link `github.com/.../blob/...` adalah halaman preview; preset menggunakan `raw.githubusercontent.com`.
 
 ### 3. Install empat alias pribadi
 
@@ -159,11 +153,11 @@ Coba di channel percobaan terlebih dahulu:
 
 Jika initiative atau DM sudah ada, lewati dua command pertama. Ganti URL dengan gambar sebenarnya. Jika cara langsung ini bekerja tetapi `!mfscene f3` tidak, kemungkinan versi alias menyimpan konfigurasi map dengan cara lain; template belum cocok dengan versi server itu. Jangan menghapus combat sesi untuk mengetesnya.
 
-Jika background tidak tampil dengan kedua cara, cek akses URL, format PNG/JPEG, serta respons layanan OTFBM. Endpoint OTFBM tidak berhasil diperiksa melalui web fetch dalam proses pembuatan paket, sehingga keberhasilan render belum dikonfirmasi. Isi `mf_map_f3` dapat diperiksa dengan `!uvar mf_map_f3`.
+Jika background tidak tampil dengan kedua cara, cek akses URL, format PNG/JPEG, serta respons layanan OTFBM. Endpoint OTFBM tidak berhasil diperiksa melalui web fetch dalam proses pembuatan paket, sehingga keberhasilan render belum dikonfirmasi. Isi `mf_map_f3` dapat diperiksa dengan `!uvar mf_map_f3`. Pengujian sebelumnya menghasilkan HTTP 200 tanpa background dan dengan background GitHub pembanding, tetapi HTTP 502 dengan URL Imgur F3; ukuran grid yang sama berhasil pada kedua kontrol.
 
 ## Batas verifikasi
 
-File alias diperiksa secara lokal untuk logika pemilihan scene, validasi URL kosong, penggantian effect map, pencegahan duplikat roster secara berurutan, dan opsi 2/3 Echo menggunakan mock API yang mengikuti dokumentasi. Pemeriksaan ini **bukan eksekusi Draconic/Avrae langsung**. URL F3 sudah dipasang dan gambar sumber berhasil diambil; URL scene lainnya belum diisi. Kalibrasi renderer OTFBM dan uji bot pada server pengguna belum dilakukan. F3 diperiksa secara visual; F1/F2/F4 memakai metadata ukuran paket yang sudah ada.
+File alias diperiksa secara lokal untuk logika pemilihan scene, validasi URL kosong, penggantian effect map, pencegahan duplikat roster secara berurutan, dan opsi 2/3 Echo menggunakan mock API yang mengikuti dokumentasi. Pemeriksaan ini **bukan eksekusi Draconic/Avrae langsung**. Keempat URL GitHub sudah dikonfigurasi. Verifikasi akses publik dan render F3 dicatat terpisah setelah push; uji bot Discord pada server pengguna belum dilakukan. F3 diperiksa secara visual; F1/F2/F4 memakai metadata ukuran paket yang sudah ada.
 
 Sumber:
 

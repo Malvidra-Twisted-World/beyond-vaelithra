@@ -91,15 +91,18 @@
       ]
     ]
   },
-  "publicMapUrlsConfigured": false,
+  "publicMapUrlsConfigured": true,
   "discordTested": false,
   "publicMapUrls": {
-    "f1": null,
-    "f2": null,
-    "f3": "https://i.imgur.com/xU87p2b.jpeg",
-    "f4": null
+    "f1": "https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20F/Maps/F1-Approach-Route.png",
+    "f2": "https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20F/Maps/F2-Outer-Facility.png",
+    "f3": "https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20F/Maps/F3-Service-Tunnel.png",
+    "f4": "https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20F/Maps/F4-Sublevel-2.png"
   },
   "imageUrlVerified": {
-    "f3": "Fetched successfully; visually matched F3; 1536 x 1024 JPEG. OTFBM rendering not verified."
+    "f1": "GitHub URL configured; verify after push.",
+    "f2": "GitHub URL configured; verify after push.",
+    "f3": "GitHub URL configured; verify after push.",
+    "f4": "GitHub URL configured; verify after push."
   }
 }
