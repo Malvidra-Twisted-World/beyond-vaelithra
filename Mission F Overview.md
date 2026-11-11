@@ -12,10 +12,10 @@ visibility: DM Only
 district: The Fringe
 reward: 150 Escrow
 ---
-
+[]
 # Mission F — No Way Out
 
-> [!info] Quick Reference
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Quick Reference
 > **Kategori:** Survival / Extraction · **Tier I** · **Distrik:** The Fringe  
 > **Klien:** Perusahaan survey via The Switchboard · **Payout:** **150 Escrow**  
 > **Tujuan:** Temukan dan selamatkan **6 surveyor** dari fasilitas industri tua.  
@@ -38,7 +38,7 @@ Para pekerja masih hidup, tetapi tidak bebas pergi. Sekelompok wizard menggunaka
 
 **Garran Vey** percaya peralatan dan kemungkinan bahaya itu tidak boleh dibawa keluar. Para pekerja tidak ingin ditahan. Kedua pihak mengklaim sedang mencegah bencana, tanpa benar-benar mengetahui apa yang tersimpan di bawah.
 
-> [!warning] Canon Guardrails — DM Only
+> [!WARNING] <!--easygit-callout:original=warning,collapse=--> Canon Guardrails — DM Only
 > - **Isi Sealed Chamber tetap tidak diketahui.** Jangan menentukan artefak, monster, pencipta atau fungsi asli sistem.
 > - Fasilitas **belum dipastikan** berasal dari Sundering War atau dimiliki faksi tertentu.
 > - Para wizard **bukan otomatis penjahat ataupun pahlawan**.
@@ -59,7 +59,7 @@ Para pekerja masih hidup, tetapi tidak bebas pergi. Sekelompok wizard menggunaka
 | **Part 7** | Discovery | Ketahui scanner mengaktifkan sistem lama, bukan isi ruang |
 | **Part 8** | Extraction | Gunakan 3–4 hazard, catat outcome |
 
-> [!tip] Aturan Pacing
+> [!TIP] <!--easygit-callout:original=tip,collapse=--> Aturan Pacing
 > **Jangan wajibkan F4.** Party yang memilih menolong pekerja lebih dulu bisa langsung masuk extraction. Kalau mereka memilih investigasi, berikan clue tanpa merampas kebebasan memilih.
 
 ### Quick Clues
@@ -97,7 +97,7 @@ Para pekerja masih hidup, tetapi tidak bebas pergi. Sekelompok wizard menggunaka
 - Survivor mengalami missing time **jika** masuk akal dari kejadian sesi.
 - Old-Era energy menjadi pintu masuk ke arc Resonansi **jika party mendekatinya**.
 
-> [!note] Post-Session
+> [!NOTE] <!--easygit-callout:original=note,collapse=--> Post-Session
 > Catat hasil nyata di [[Mission Note Template]]. Jangan mengisi bagian kosong dengan outcome yang belum dimainkan.
 
 **Pertanyaan tema:** *Siapa yang berhak menentukan kapan sesuatu cukup aman untuk dilepas?*

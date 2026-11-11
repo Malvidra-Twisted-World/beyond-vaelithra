@@ -9,7 +9,7 @@ visibility: DM Only
 
 [[Lore/Sins & Virtues Resonance - Integration Plan]] · [[Mission F Script]] · [[Mission F - Combat Preparation]]
 
-> [!important] Status desain
+> [!IMPORTANT] <!--easygit-callout:original=important,collapse=--> Status desain
 > Core yang sudah disepakati tetap berlaku: **DM memilih trait berdasarkan pilihan bermakna; gain 2d8; pasangan lawan berkurang floor(hasil/2), dua arah; skor tiap trait terpisah; efek pada social rolls; kendali PC tetap pada player.**
 >
 > Catatan DM pada dokumen konsep menerima arah **20/50/80** dan meminta efek positif/negatif situasional (contoh Pride saat percaya diri vs menerima bantuan). Dokumen ini mengisi cara menjalankannya. **Starting score, frekuensi, definisi konteks dan aturan modifier di bawah adalah usulan, bukan hasil actual play atau aturan final yang sudah disahkan.**
@@ -82,7 +82,7 @@ PC punya **Pride 27** → N=1.
 
 **Contoh hitung:** Envy 18 / Kindness 8; award Envy 11 → Envy **29**, Kindness **3**. Envy sekarang ±1 dalam konteksnya. Jika berikutnya Kindness menerima 12 → Kindness **15**, Envy **23**. Kindness masih Dormant; Envy tetap Stirring.
 
-> [!note] Dampak pada pacing
+> [!NOTE] <!--easygit-callout:original=note,collapse=--> Dampak pada pacing
 > Satu award 2d8 maksimal **16**, sehingga PC dari skor 0 **tidak mungkin** mencapai threshold 20 lewat satu award. Dua award berjumlah rata-rata **18**, sehingga efek threshold pada sesi pertama mungkin belum aktif. Itu konsekuensi angka 20/50/80, bukan bug. Jangan menyisipkan poin awal atau mengubah gain 2d8 diam-diam supaya efek pasti muncul. **DM telah memilih Echo perkenalan di bawah** agar efek mekanis dapat terasa sebelum threshold tercapai.
 
 ### Efek perkenalan sekali — pilihan DM disetujui

@@ -10,7 +10,7 @@ visibility: DM Only
 
 [[Mission F Script]] · [[Mission F - VTT Preparation]] · [[Lore/Resonance - Thresholds & Effects Draft]]
 
-> [!important] Status & asumsi
+> [!IMPORTANT] <!--easygit-callout:original=important,collapse=--> Status & asumsi
 > Semua angka di sini **homebrew usulan**, bukan stat block resmi Mage/Apprentice dan belum playtested. Roster DM: **5 PC — empat level 3 dan satu level 4**, tanpa asumsi mereka memiliki Niskara. Edisi 5e belum dikonfirmasi untuk sesi ini. Skill/stat block tidak menetapkan class level, lisensi atau kemampuan canon jangka panjang NPC.
 
 **Discord / Avrae:** [[Assets/Mission F/Avrae/README - Import to Avrae|CritterDB / Avrae Import Pack]] — JSON bestiary dan panduan import untuk sesi tanpa VTT.
@@ -121,7 +121,7 @@ actions:
 
 ## Unstable Echo — opsi monster, belum canon
 
-> [!warning] Tambahan opsional untuk persetujuan DM
+> [!WARNING] <!--easygit-callout:original=warning,collapse=--> Tambahan opsional untuk persetujuan DM
 > Script belum menetapkan monster. **Unstable Echo** adalah usulan bentuk energi tak stabil sementara di corridor, tanpa memastikan sumber atau kesadarannya. Memakainya tidak membuktikan ada makhluk keluar dari Sealed Chamber. Jangan tampilkan jika DM memilih rescue tanpa monster. Token monster belum dibuat dalam paket VTT; sementara gunakan marker abstrak bercahaya bertuliskan Echo 1/2.
 
 Nama monster ini tidak berarti ia adalah **Echo perkenalan Resonansi**. Efek perkenalan adalah marker modifier PC, bukan creature yang dipanggil atau dimiliki PC. Untuk tiga monster, gunakan marker Echo 1/2/3.

@@ -14,7 +14,7 @@ status: Local assets prepared; VTT import pending
 
 Paket: `Assets/Mission F/mission-f-vtt-pack-v1.zip`. Map ada di `Assets/Mission F/Maps/`, token di `Assets/Mission F/Tokens/`. Wulan memakai token milik DM yang sudah ada; tidak dibuat ulang atau disertakan dalam paket ini.
 
-> [!info] Setting grid dalam pixel
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Setting grid dalam pixel
 > Semua map **1536 × 1024 px**. Isi **Grid Size = 64 px**, square grid, **1 kotak = 5 ft**, offset awal **X = 0, Y = 0**. Hasilnya **24 × 16 kotak** atau **120 × 80 ft**. Ini skala permainan yang dipilih untuk aset, bukan ukuran bangunan canon.
 >
 > Impor gambar dengan resolusi asli. Jika gambar di-resize menjadi 3072 × 2048 px, grid menjadi **128 px**. Rumus: `grid baru = 64 × (lebar gambar baru / 1536)`. Zoom tampilan layar tidak mengubah nilai sumber ini. Gambar tidak memiliki overlay grid; sambungan beton adalah tekstur, tidak harus sejajar grid.

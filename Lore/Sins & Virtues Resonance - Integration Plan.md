@@ -7,7 +7,7 @@ visibility: DM Only
 
 # Sins & Virtues Resonance — Beyond Vaelithra Integration
 
-> [!info] Operational prep terbaru
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Operational prep terbaru
 > Lihat [[Lore/Resonance - Thresholds & Effects Draft]] untuk tabel konteks **positif/negatif**, starting score/frekuensi usulan, dan tracker. DM telah memilih **efek perkenalan sekali**: sesudah pilihan bermakna pertama saat terpapar, modifier **±1 pada satu social check relevan sebelum misi berakhir**, tidak menumpuk dengan threshold. Prep terbaru mulai memperlihatkan paparan di fasilitas, sementara konsentrasi terbesar tetap dekat protected area di F4. Detail operasional lain tetap diberi label usulan; belum menjadi actual-play canon. Bagian proposal lama di bawah dipertahankan sebagai riwayat desain; jika berbeda, gunakan aturan operasional yang sudah disahkan DM pada catatan terbaru.
 
 > **Updated from DM's Obsidian answers, 2026-11-10.** Core rules below are **DM-approved**. The **three numeric thresholds and social bonus values are design proposals requested by the DM** and still await separate approval.
