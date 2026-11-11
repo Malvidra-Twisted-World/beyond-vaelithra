@@ -1,0 +1,14 @@
+F3 — Service Tunnel
+
+Jika alias sudah dipasang sebelumnya, kirim satu per satu:
+
+!uvar mf_map_f3 https://i.imgur.com/xU87p2b.jpeg
+
+!mfscene f3
+
+!map
+
+Jika initiative belum dimulai: !init begin sebelum mfscene.
+Saat pekerja perlu ditampilkan: !mfrescue lalu !map.
+Saat wizard muncul: !mfwizards lalu !map.
+Jangan ulang !init begin untuk sekadar mengganti map.

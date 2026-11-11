@@ -1,0 +1,54 @@
+[
+  {
+    "source": "/Users/macbookpro/.codex/generated_images/01a1c446-4aa6-7e51-bfb9-495ded9fcab9/exec-f1e40979-3907-4322-a456-3e3084be0b67.png",
+    "target": "Maps/F1-Approach-Route.png"
+  },
+  {
+    "source": "/Users/macbookpro/.codex/generated_images/01a1c446-4aa6-7e51-bfb9-495ded9fcab9/exec-7ce4047c-6c9a-4446-adb5-5dbd7feb01c5.png",
+    "target": "Maps/F2-Outer-Facility.png"
+  },
+  {
+    "source": "/Users/macbookpro/.codex/generated_images/01a1c446-4aa6-7e51-bfb9-495ded9fcab9/exec-03bbd0e3-53d9-443c-99be-7d1aba81f69c.png",
+    "target": "Maps/F3-Service-Tunnel.png"
+  },
+  {
+    "source": "/Users/macbookpro/.codex/generated_images/01a1c446-4aa6-7e51-bfb9-495ded9fcab9/exec-10762571-32ae-479d-a640-91f683380ed9.png",
+    "target": "Maps/F4-Sublevel-2.png"
+  },
+  {
+    "source": "/Users/macbookpro/.codex/generated_images/01a1c446-4aa6-7e51-bfb9-495ded9fcab9/exec-cdaf4cb0-e485-4311-8b32-10d06efefb87.png",
+    "target": "Tokens/Garran-Vey.png"
+  },
+  {
+    "source": "/Users/macbookpro/.codex/generated_images/01a1c446-4aa6-7e51-bfb9-495ded9fcab9/exec-15e67040-6abc-4fe9-b934-78a2738126f5.png",
+    "target": "Tokens/Mara-Vell.png"
+  },
+  {
+    "source": "/Users/macbookpro/.codex/generated_images/01a1c446-4aa6-7e51-bfb9-495ded9fcab9/exec-c4353865-6c19-48e9-a5e6-3b6342938cdf.png",
+    "target": "Tokens/Bram-Kest.png"
+  },
+  {
+    "source": "/Users/macbookpro/.codex/generated_images/01a1c446-4aa6-7e51-bfb9-495ded9fcab9/exec-154ccf17-0f6c-40d7-a9c3-b3260e72e992.png",
+    "target": "Tokens/Yara-Sen.png"
+  },
+  {
+    "source": "/Users/macbookpro/.codex/generated_images/01a1c446-4aa6-7e51-bfb9-495ded9fcab9/exec-b4e316e9-9bdd-474b-bdd2-758435c60294.png",
+    "target": "Tokens/Surveyor-03.png"
+  },
+  {
+    "source": "/Users/macbookpro/.codex/generated_images/01a1c446-4aa6-7e51-bfb9-495ded9fcab9/exec-21bf61a0-bf4d-4e77-8890-fe72108cad87.png",
+    "target": "Tokens/Surveyor-04.png"
+  },
+  {
+    "source": "/Users/macbookpro/.codex/generated_images/01a1c446-4aa6-7e51-bfb9-495ded9fcab9/exec-b084e186-edb8-4c6e-88de-41e7df1890b5.png",
+    "target": "Tokens/Surveyor-05.png"
+  },
+  {
+    "source": "/Users/macbookpro/.codex/generated_images/01a1c446-4aa6-7e51-bfb9-495ded9fcab9/exec-57d96854-b15a-4c08-905e-8bedb6039c8c.png",
+    "target": "Tokens/Surveyor-06.png"
+  },
+  {
+    "source": "/Users/macbookpro/.codex/generated_images/01a1c446-4aa6-7e51-bfb9-495ded9fcab9/exec-a41f661f-9081-482d-b613-81c3462d0be1.png",
+    "target": "Tokens/Wizard-Generic.png"
+  }
+]

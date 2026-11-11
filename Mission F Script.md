@@ -16,7 +16,7 @@ reward: 150 Escrow
 
 # Mission F — No Way Out
 
-> [!info] Mission at a Glance
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Mission at a Glance
 > **Kategori:** Survival / Extraction · **Party Tier:** I · **Distrik:** The Fringe  
 > **Klien:** Perusahaan survey (melalui The Switchboard) · **Payout:** **150 Escrow**  
 > **Risk:** Sedang · **Information:** Parsial · **Seed:** The Mountains Escape  
@@ -39,7 +39,7 @@ reward: 150 Escrow
 - [[#Part 8 — Extraction|8. Extraction]]
 - [[#Resolution and Rewards|Resolution]] · [[#Session Record|Session Record]]
 
-> [!tip] Jalur cepat DM
+> [!TIP] <!--easygit-callout:original=tip,collapse=--> Jalur cepat DM
 > **Briefing → pilih rute → temukan pekerja → dialog Garran → pilih ekstraksi / investigasi / konfrontasi → extraction → aftermath.**  
 > **F4 dan Sealed Chamber opsional.** Jangan memaksa party masuk Sublevel 2 hanya demi foreshadowing.
 
@@ -63,7 +63,7 @@ Alat survey mendeteksi sesuatu di bawah kompleks dan secara tidak sengaja **meng
 
 Garran dan rekan-rekannya takut para pekerja membawa sesuatu yang belum dipahami keluar. Mereka tidak berniat menyiksa pekerja, tetapi menahan mereka adalah pilihan yang tetap bisa dipertanyakan.
 
-> [!warning] CANON GUARDRAILS — DM ONLY
+> [!WARNING] <!--easygit-callout:original=warning,collapse=--> CANON GUARDRAILS — DM ONLY
 > - **Fasilitas belum memiliki nama/pemilik/asal-usul resmi.** Jangan pastikan Adikarsa, pemerintah, Script Order, Sundering War, Vaeil, atau faksi lain sebagai pembuatnya.
 > - **Isi dan tujuan Sealed Chamber tidak diketahui.** Jangan tentukan artefak, makhluk, atau ancaman di balik pintu sebelum actual play membenarkannya.
 > - Wizard **bukan otomatis villain atau hero**; para pekerja juga tidak mengetahui semuanya.
@@ -80,13 +80,17 @@ Garran dan rekan-rekannya takut para pekerja membawa sesuatu yang belum dipahami
 | **Bram Kest** | Human Survey Technician | Panik, tetapi berusaha profesional |
 | **Yara Sen** | Dwarf Surveyor | Keras kepala; tidak percaya wizard |
 
-> [!note] Dialog singkat
+> [!NOTE] <!--easygit-callout:original=note,collapse=--> Dialog singkat
 > **Garran:** "Saya melarang mereka membawa sesuatu yang tidak mereka pahami."  
 > **Mara:** "Kalau tempat ini berbahaya, bukankah lebih baik semua orang pergi?"  
 > **Bram:** "Kami cuma melakukan survey. Setidaknya... kami tidak bermaksud menggali apa pun."  
 > **Yara:** "Kalau mereka ingin menolong, kenapa mereka mengunci pintunya?"
 
 ### Pre-Session Checklist
+
+**Aset lokal:** [[Mission F - VTT Preparation|VTT Preparation — 4 map, 9 token, grid 64 px]]. Impor dan cek skala di VTT sebelum mencentang checklist di bawah. Wulan memakai token DM yang sudah ada.
+
+**Prep mekanik:** [[Mission F - Combat Preparation|Stat block & encounter homebrew]] untuk **5 PC (4 level 3, 1 level 4)** · [[Lore/Resonance - Thresholds & Effects Draft|Threshold ±1/2/3 & Echo perkenalan]]. Stat block/detail threshold masih usulan; pilihan DM tentang efek perkenalan sekali sudah dicatat.
 
 - [ ] Map F1 — Approach Route (atau theater of the mind)
 - [ ] Map F2 — Outer Facility
@@ -154,7 +158,7 @@ Garran dan rekan-rekannya takut para pekerja membawa sesuatu yang belum dipahami
 - Hill path
 - Abandoned industrial area
 
-> [!tip] DM
+> [!TIP] <!--easygit-callout:original=tip,collapse=--> DM
 > Rute berbeda boleh menghasilkan deskripsi pendekatan yang berbeda, tetapi **jangan jadikan pilihan jalur sebagai jebakan gagal otomatis**. Arahkan ke scene Entrance atau Service Tunnel sesuai aksi mereka.
 
 ---
@@ -171,7 +175,7 @@ Jalan utama ditutup dari dalam; terdapat jejak aktivitas yang relatif baru.
 | **Investigation DC 10** | Bekas alat berat, jejak kaki baru, garis ward, tanda pergerakan orang |
 | **Arcana DC 12** | Ward **bukan untuk mencegah orang masuk**, melainkan **mencegah sesuatu keluar** |
 
-> [!note] Clue utama
+> [!NOTE] <!--easygit-callout:original=note,collapse=--> Clue utama
 > "Ward tersebut tidak dibuat untuk mencegah orang masuk."  
 >  
 > "Ward dibuat untuk mencegah sesuatu keluar."
@@ -193,14 +197,14 @@ Jalan utama ditutup dari dalam; terdapat jejak aktivitas yang relatif baru.
 - Damaged arcane detector
 - Notebook pekerja
 
-> [!example] HANDOUT — Notebook
+> [!TIP] <!--easygit-callout:original=example,collapse=--> HANDOUT — Notebook
 > **SUBLEVEL 2**  
 >  
 > "Signal started after scan."  
 >  
 > "Don't scan again."
 
-> [!tip] DM
+> [!TIP] <!--easygit-callout:original=tip,collapse=--> DM
 > Benda-benda di atas adalah petunjuk investigasi. **Belum otomatis menjadi magic item** atau kunci yang wajib dibawa untuk menyelesaikan penyelamatan.
 
 ---
@@ -285,11 +289,11 @@ Mereka **pernah** mencoba meninggalkan fasilitas. Saat cukup jauh, fenomena berh
 
 **Tiga jalur utama:** Party bebas memilih, menggabungkan, atau mengubah rencana.
 
-| Pilihan | Langkah berikutnya |
-|---|---|
-| **A. Evakuasi pekerja sekarang** | Lanjut ke [[#Part 8 — Extraction|Part 8 — Extraction]] |
-| **B. Investigasi Sublevel 2** | Masuk **Map F4** di bawah ini |
-| **C. Paksa wizard membuka jalan** | Negosiasi lanjutan atau [[#Optional Combat|Optional Combat]] |
+| Pilihan                           | Langkah berikutnya                           |                       |
+| --------------------------------- | -------------------------------------------- | --------------------- |
+| **A. Evakuasi pekerja sekarang**  | Lanjut ke [[#Part 8 — Extraction]]           | Part 8 — Extraction]] |
+| **B. Investigasi Sublevel 2**     | Masuk **Map F4** di bawah ini                |                       |
+| **C. Paksa wizard membuka jalan** | Negosiasi lanjutan atau [[#Optional Combat]] | Optional Combat]]     |
 
 ### Map F4 — Old Arcane Facility
 
@@ -316,7 +320,7 @@ Sebuah pintu besar dengan indikator aktif:
 | **Arcana DC 12** | Sistem di sekitar pintu masih aktif |
 | **Arcana DC 15** | Sistem tampaknya menjaga stabilitas **sesuatu**; identitasnya tetap tidak diketahui |
 
-> [!warning] DM ONLY — Old-Era Energy
+> [!WARNING] <!--easygit-callout:original=warning,collapse=--> DM ONLY — Old-Era Energy
 > **Canon DM (2026-11-10):** Di sekitar area yang **melindungi sesuatu** pada Sublevel 2, terdapat **konsentrasi besar energi Old-Era**. Ini dimaksudkan sebagai foreshadowing menuju [[Lore/Sins & Virtues Resonance - Integration Plan|Sins & Virtues Resonance]].  
 >  
 > Jika party **mendekat**, boleh ungkap sensasi energi kuno melalui deskripsi atau pemeriksaan yang sesuai. **Jangan otomatis membuka Sealed Chamber, mengungkap isi, memastikan fasilitas berasal dari Sundering War, atau menyamakan energi ini dengan Niskara.**  
@@ -344,7 +348,7 @@ Akibatnya:
 
 Para wizard menahan pekerja karena takut terhadap apa yang mungkin terjadi berikutnya.
 
-> [!warning] DM ONLY — Batas Pengungkapan Tier I
+> [!WARNING] <!--easygit-callout:original=warning,collapse=--> DM ONLY — Batas Pengungkapan Tier I
 > Jawaban misi ini **boleh berhenti pada "kami tidak tahu."**  
 >  
 > **Jangan reveal:** pembuat fasilitas, fungsi asli sistem, isi Sealed Chamber, apakah yang disegel berbahaya, atau apakah ada instalasi serupa di tempat lain. Old-Era energy hanya petunjuk, **bukan jawaban penuh**.
@@ -380,7 +384,7 @@ Para wizard menahan pekerja karena takut terhadap apa yang mungkin terjadi berik
 | Temporal Distortion | **DC 12 WIS Save** | Kehilangan **Reaction** sampai giliran berikutnya |
 | Closing Machinery | **DC 12** Dexterity | Tambahkan complication lingkungan |
 
-> [!tip] Fail Forward
+> [!TIP] <!--easygit-callout:original=tip,collapse=--> Fail Forward
 > **Gagal check tidak otomatis menggagalkan mission.** Pilih konsekuensi yang sesuai: pekerja terluka, equipment tertinggal, party terpisah, wizard tertinggal, atau jalur keluar berubah. Jangan tentukan nasib korban tanpa mempertimbangkan tindakan player.
 
 ### Optional Combat
@@ -432,7 +436,7 @@ Hanya aktifkan yang didukung tindakan pemain:
 
 ## Session Record
 
-> [!note] Isi **setelah** terjadi dalam actual play. Jangan pra-isi sebagai canon.
+> [!NOTE] <!--easygit-callout:original=note,collapse=--> Isi **setelah** terjadi dalam actual play. Jangan pra-isi sebagai canon.
 > - **Tanggal sesi:**  
 > - **Anggota party:**  
 > - **Rute masuk:**  

@@ -1,0 +1,20 @@
+!alias mfscene <drac2>
+c = combat()
+if not c:
+    err("Start initiative with !init begin first.")
+a = &ARGS&
+s = a[0].lower() if a else "f3"
+if s not in ["f1", "f2", "f3", "f4"]:
+    err("Use !mfscene f1, f2, f3, or f4.")
+u = get("mf_map_" + s, "https://i.imgur.com/xU87p2b.jpeg" if s == "f3" else "")
+if not u.startswith("https://") or any(x in u for x in ['"', "~", "\n", " "]):
+    err("Set a direct HTTPS image URL first: !uvar mf_map_" + s + " URL")
+dm = c.get_combatant("DM", strict=True)
+cmds = []
+if not dm:
+    cmds.append("!init add 0 DM -p 20")
+elif dm.get_effect("map", strict=True):
+    cmds.append("!init re DM map")
+cmds.append('!init effect DM map -attack "||Size: 24x16 ~ Background: ' + u + ' ~ Options: c64"')
+return "multiline\n" + "\n".join(cmds)
+</drac2>
