@@ -289,11 +289,11 @@ Mereka **pernah** mencoba meninggalkan fasilitas. Saat cukup jauh, fenomena berh
 
 **Tiga jalur utama:** Party bebas memilih, menggabungkan, atau mengubah rencana.
 
-| Pilihan                           | Langkah berikutnya                           |                       |
-| --------------------------------- | -------------------------------------------- | --------------------- |
-| **A. Evakuasi pekerja sekarang**  | Lanjut ke [[#Part 8 — Extraction]]           | Part 8 — Extraction]] |
-| **B. Investigasi Sublevel 2**     | Masuk **Map F4** di bawah ini                |                       |
-| **C. Paksa wizard membuka jalan** | Negosiasi lanjutan atau [[#Optional Combat]] | Optional Combat]]     |
+| Pilihan | Langkah berikutnya |
+|---|---|
+| **A. Evakuasi pekerja sekarang** | Lanjut ke [[#Part 8 — Extraction\|Part 8 — Extraction]] |
+| **B. Investigasi Sublevel 2** | Masuk **Map F4** di bawah ini |
+| **C. Paksa wizard membuka jalan** | Negosiasi lanjutan atau [[#Optional Combat\|Optional Combat]] |
 
 ### Map F4 — Old Arcane Facility
 

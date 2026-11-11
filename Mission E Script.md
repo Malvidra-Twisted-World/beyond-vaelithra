@@ -183,7 +183,7 @@ Wulan tidak tahu:
 **Default NPC Name:** Raka Wisesa  
 **Status:** DM Implementation, belum canon.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Perwakilan komunitas itu duduk dekat jendela.
 >
 > Dari caranya memegang map di depan dada, kalian bisa melihat bahwa ia sudah mengulang cerita ini beberapa kali hari ini.
@@ -238,7 +238,7 @@ Lokasi terakhir:
 
 Balai warga merupakan tempat acara berlangsung.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Balai warga masih menyisakan bekas acara semalam.
 >
 > Kursi plastik belum semuanya dirapikan.
@@ -387,7 +387,7 @@ Do not retroactively attribute this information to Naira unless she explicitly r
 
 Setelah party memiliki beberapa clue:
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Semakin lama kalian menyusun cerita, semakin sulit semua bagian ini dipaksa masuk ke satu kesimpulan.
 >
 > Tidak ada yang melihat Laras diseret.
@@ -418,7 +418,7 @@ menjadi semakin tidak nyaman.
 
 ## BD2 — Old Row / Back Lane
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 
 > Setelah meninggalkan jalan utama, gang-gang Beacon District menjadi jauh lebih sempit.
 >
@@ -487,7 +487,7 @@ Ada:
 - peralatan sederhana;
 - satu ruangan yang lebih tertutup.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Bangunan itu dari luar terlihat seperti rumah kosong yang terlalu lama dibiarkan.
 >
 > Tapi ada tanda-tanda kehidupan.
@@ -554,7 +554,7 @@ Lalu:
 
 Laras berada di ruangan belakang.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Di ruangan paling belakang, kalian akhirnya melihat gadis yang kalian cari.
 >
 > Laras duduk dekat jendela.
@@ -619,7 +619,7 @@ Tujuan Laras adalah:
 
 Gunakan hanya jika pacing mengarah ke confrontation.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Suara langkah kaki terdengar dari luar.
 >
 > Beberapa suara berbicara dalam nada rendah.

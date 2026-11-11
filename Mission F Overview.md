@@ -12,7 +12,7 @@ visibility: DM Only
 district: The Fringe
 reward: 150 Escrow
 ---
-[]
+
 # Mission F — No Way Out
 
 > [!info] Quick Reference
