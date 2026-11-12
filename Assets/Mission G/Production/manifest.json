@@ -1,0 +1,166 @@
+{
+  "mission": "G — The Empty Lair",
+  "mission_number": "037",
+  "generator": "Built-in image_gen",
+  "status": "Proposed prep; not played",
+  "rules": "D&D 2024",
+  "party": "2–5 level 3–4 PCs",
+  "wulan": "Use existing DM asset; not generated",
+  "local_png_checks": "passed",
+  "discord_tested": false,
+  "playtested": false,
+  "assets": [
+    {
+      "file": "Maps/G1-Utility-Cut.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3905168,
+      "sha256": "fe7b3a8d1308f9216dedd6992d5f35f7c30ada844c993e00f782fd65797d5550",
+      "grid_px": 64,
+      "grid_offset_px": [
+        0,
+        0
+      ],
+      "grid_cells": [
+        24,
+        16
+      ],
+      "feet_per_cell": 5
+    },
+    {
+      "file": "Maps/G2-Receiving-Hall.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 2747300,
+      "sha256": "8e0127863bb88aabb9c8ea0fc66152e3e38428804cf1b6af8a2a3515ce13b6cc",
+      "grid_px": 64,
+      "grid_offset_px": [
+        0,
+        0
+      ],
+      "grid_cells": [
+        24,
+        16
+      ],
+      "feet_per_cell": 5
+    },
+    {
+      "file": "Maps/G3-Archive-Packing.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3511654,
+      "sha256": "d38a67db6749ba8d0f60901b7a971379f9730e95959e5585e6c1e714cf082031",
+      "grid_px": 64,
+      "grid_offset_px": [
+        0,
+        0
+      ],
+      "grid_cells": [
+        24,
+        16
+      ],
+      "feet_per_cell": 5
+    },
+    {
+      "file": "Maps/G4-Dispatch-Bay.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3264708,
+      "sha256": "065ab4b7d7980eb5b895cfc5ccb167724543962479a3e58b73141137ee4db9c0",
+      "grid_px": 64,
+      "grid_offset_px": [
+        0,
+        0
+      ],
+      "grid_cells": [
+        24,
+        16
+      ],
+      "feet_per_cell": 5
+    },
+    {
+      "file": "Tokens/Damar-Seta.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "bytes": 2424334,
+      "sha256": "d4fddc46e15ea67a1064a2dbf4aa4650aedb81721f2d09c217b6e8694a8522e7",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "display_cells": [
+        1,
+        1
+      ]
+    },
+    {
+      "file": "Tokens/Packing-Sentinel.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "bytes": 2395135,
+      "sha256": "ad36142034a50e97cf976f3c899c3c2da0ef10be948ce5ce77343eeccb584d68",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "display_cells": [
+        1,
+        1
+      ]
+    },
+    {
+      "file": "Tokens/Ratri-Sembada.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "bytes": 2427097,
+      "sha256": "a6dc0ec56f2599752179a36770d4ea8ae4dac66d497733085d41746341d04d16",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "display_cells": [
+        1,
+        1
+      ]
+    },
+    {
+      "file": "Tokens/Recovery-Hand.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "bytes": 2468108,
+      "sha256": "1697fbb672ea8b165adeb3e3f5626c6fe80a1010c79f587556a9e29a22ab3dbd",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "display_cells": [
+        1,
+        1
+      ]
+    }
+  ]
+}

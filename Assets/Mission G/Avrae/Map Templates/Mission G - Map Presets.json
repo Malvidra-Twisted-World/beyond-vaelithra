@@ -1,0 +1,22 @@
+{
+  "grid": {
+    "columns": 24,
+    "rows": 16,
+    "cellPixels": 64,
+    "feetPerCell": 5
+  },
+  "mapFiles": {
+    "g1": "G1-Utility-Cut.png",
+    "g2": "G2-Receiving-Hall.png",
+    "g3": "G3-Archive-Packing.png",
+    "g4": "G4-Dispatch-Bay.png"
+  },
+  "publicMapUrls": {
+    "g1": "https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20G/Maps/G1-Utility-Cut.png",
+    "g2": "https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20G/Maps/G2-Receiving-Hall.png",
+    "g3": "https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20G/Maps/G3-Archive-Packing.png",
+    "g4": "https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20G/Maps/G4-Dispatch-Bay.png"
+  },
+  "discordTested": false,
+  "notes": "Only load crew/sentinel after narration. Mutually exclusive combat pressure. Scene switches preserve HP and token notes."
+}

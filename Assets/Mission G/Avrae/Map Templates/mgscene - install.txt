@@ -1,0 +1,21 @@
+!alias mgscene <drac2>
+c = combat()
+if not c:
+    err("Start initiative with !init begin first.")
+a = &ARGS&
+s = a[0].lower() if a else "g1"
+urls = {'g1': 'https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20G/Maps/G1-Utility-Cut.png', 'g2': 'https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20G/Maps/G2-Receiving-Hall.png', 'g3': 'https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20G/Maps/G3-Archive-Packing.png', 'g4': 'https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20G/Maps/G4-Dispatch-Bay.png'}
+if s not in urls:
+    err("Use !mgscene g1, g2, g3, or g4.")
+u = get("mg_map_" + s, urls[s])
+if not u.startswith("https://") or any(x in u for x in ['"', "~", "\n", " "]):
+    err("Set a direct HTTPS image URL: !uvar mg_map_" + s + " URL")
+dm = c.get_combatant("DM", strict=True)
+cmds = []
+if not dm:
+    cmds.append("!init add 0 DM -p 20")
+elif dm.get_effect("map", strict=True):
+    cmds.append("!init re DM map")
+cmds.append('!init effect DM map -attack "||Size: 24x16 ~ Background: ' + u + ' ~ Options: c64"')
+return "multiline\n" + "\n".join(cmds)
+</drac2>

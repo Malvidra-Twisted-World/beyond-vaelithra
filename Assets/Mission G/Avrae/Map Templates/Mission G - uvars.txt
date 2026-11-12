@@ -1,0 +1,7 @@
+!uvar mg_map_g1 https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20G/Maps/G1-Utility-Cut.png
+
+!uvar mg_map_g2 https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20G/Maps/G2-Receiving-Hall.png
+
+!uvar mg_map_g3 https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20G/Maps/G3-Archive-Packing.png
+
+!uvar mg_map_g4 https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20G/Maps/G4-Dispatch-Bay.png

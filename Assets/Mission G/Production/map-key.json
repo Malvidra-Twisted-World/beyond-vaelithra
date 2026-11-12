@@ -1,0 +1,149 @@
+[
+  {
+    "id": "g1",
+    "title": "G1 — Utility Cut",
+    "file": "G1-Utility-Cut.png",
+    "note": "Dua jalur ke G2. Pintu tidak terkunci; tidak ada musuh default.",
+    "keys": [
+      [
+        "Entry",
+        "M15",
+        "Datang/pulang dari jalan utilitas"
+      ],
+      [
+        "Ramp",
+        "G5",
+        "Pendekatan kering"
+      ],
+      [
+        "Maintenance",
+        "S5",
+        "Jalur basah kanan"
+      ],
+      [
+        "G2",
+        "L2",
+        "Threshold menuju receiving hall"
+      ],
+      [
+        "Shack",
+        "U8",
+        "Dressing; bukan clue wajib"
+      ]
+    ]
+  },
+  {
+    "id": "g2",
+    "title": "G2 — Receiving Hall",
+    "file": "G2-Receiving-Hall.png",
+    "note": "Slip mengantar ke K-17 tanpa check. OFF aman; ON memberi warning alat G4.",
+    "keys": [
+      [
+        "Entry",
+        "L15",
+        "Dari G1"
+      ],
+      [
+        "Slip",
+        "C8",
+        "Laci meja: G-B; ambil dari sisi yang terjangkau"
+      ],
+      [
+        "Panel",
+        "W7",
+        "HANDLING / OFF; circuit G4"
+      ],
+      [
+        "Footprints",
+        "U13",
+        "Jejak baru dan tali pengikat"
+      ],
+      [
+        "G3",
+        "L2",
+        "Ke archive"
+      ]
+    ]
+  },
+  {
+    "id": "g3",
+    "title": "G3 — Archive / Packing",
+    "file": "G3-Archive-Packing.png",
+    "note": "Kotak tidak terkunci/terjebak. Dokumen bukan bagian kontrak; pemilik tetap unknown.",
+    "keys": [
+      [
+        "Entry",
+        "L15",
+        "Dari G2"
+      ],
+      [
+        "Notes",
+        "G7",
+        "Meja penelitian"
+      ],
+      [
+        "Sketch",
+        "G11",
+        "G-C; boleh pindah ke meja atas"
+      ],
+      [
+        "Ritual",
+        "S9",
+        "Bersih, tidak aktif, bukan portal"
+      ],
+      [
+        "K-17",
+        "V4",
+        "Rak alcove; kotak adalah objek, bukan NPC"
+      ],
+      [
+        "G4",
+        "L2",
+        "Pilihan keluar via dispatch bay"
+      ]
+    ]
+  },
+  {
+    "id": "g4",
+    "title": "G4 — Dispatch Bay",
+    "file": "G4-Dispatch-Bay.png",
+    "note": "Opsional. Crew ATAU alat sebagai sumber fight; kedua sisi trolley tetap bisa dilewati.",
+    "keys": [
+      [
+        "Entry",
+        "L14",
+        "Dari G3"
+      ],
+      [
+        "Exit",
+        "L2",
+        "Ramp ke luar"
+      ],
+      [
+        "RS",
+        "H7",
+        "Ratri, baru tampil setelah dinarasikan"
+      ],
+      [
+        "RH1",
+        "R7",
+        "Helper 1"
+      ],
+      [
+        "RH2",
+        "H11",
+        "Helper 2 hanya bila roster memuatnya"
+      ],
+      [
+        "PS1",
+        "H10",
+        "Sentinel jika handling diaktifkan"
+      ],
+      [
+        "PS2",
+        "R10",
+        "Unit kedua bila scaling memuatnya"
+      ]
+    ]
+  }
+]

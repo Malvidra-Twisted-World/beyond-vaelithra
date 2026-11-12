@@ -1,0 +1,295 @@
+{
+  "name": "Beyond Vaelithra — Mission G",
+  "description": "Mission #037, The Empty Lair. Four proposed homebrew profiles; no naga profile or plot answers. CR/XP are unassessed import placeholders.",
+  "creatures": [
+    {
+      "name": "Ratri Sembada",
+      "flavor": {
+        "nameIsProper": true,
+        "faction": "",
+        "environment": "The Fringe",
+        "description": "Beyond Vaelithra — Mission G. Proposed homebrew encounter profile; not played or CR-balanced. CR 0 / XP 0 are import placeholders. Special effects and encounter uses require manual tracking.",
+        "imageUrl": "https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20G/Tokens/Ratri-Sembada.png"
+      },
+      "stats": {
+        "size": "Medium",
+        "race": "Humanoid (Human)",
+        "alignment": "",
+        "armorType": "",
+        "armorClass": 13,
+        "numHitDie": 5,
+        "hitDieSize": 8,
+        "speed": "30 ft.",
+        "abilityScores": {
+          "strength": 10,
+          "dexterity": 14,
+          "constitution": 12,
+          "intelligence": 12,
+          "wisdom": 13,
+          "charisma": 14
+        },
+        "proficiencyBonus": 2,
+        "savingThrows": [
+          {
+            "ability": "dexterity",
+            "value": 4,
+            "proficient": false
+          },
+          {
+            "ability": "wisdom",
+            "value": 3,
+            "proficient": false
+          }
+        ],
+        "skills": [
+          {
+            "name": "Investigation",
+            "value": 3,
+            "proficient": false
+          },
+          {
+            "name": "Insight",
+            "value": 3,
+            "proficient": false
+          },
+          {
+            "name": "Survival",
+            "value": 3,
+            "proficient": false
+          },
+          {
+            "name": "Persuasion",
+            "value": 4,
+            "proficient": false
+          }
+        ],
+        "damageVulnerabilities": [],
+        "damageResistances": [],
+        "damageImmunities": [],
+        "conditionImmunities": [],
+        "senses": [],
+        "languages": [
+          "Common"
+        ],
+        "challengeRating": 0,
+        "experiencePoints": 0,
+        "additionalAbilities": [],
+        "actions": [
+          {
+            "name": "Survey Bolt",
+            "description": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+          },
+          {
+            "name": "Light Baton",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Fall Back (1/Encounter)",
+            "description": "When an ally Ratri can see within 30 feet of her is reduced to 0 hit points, Ratri moves up to 10 feet without provoking Opportunity Attacks."
+          }
+        ],
+        "legendaryActionsPerRound": 0,
+        "legendaryActionsDescription": "",
+        "legendaryActions": []
+      }
+    },
+    {
+      "name": "Recovery Hand",
+      "flavor": {
+        "nameIsProper": false,
+        "faction": "",
+        "environment": "The Fringe",
+        "description": "Beyond Vaelithra — Mission G. Proposed homebrew encounter profile; not played or CR-balanced. CR 0 / XP 0 are import placeholders. Special effects and encounter uses require manual tracking.",
+        "imageUrl": "https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20G/Tokens/Recovery-Hand.png"
+      },
+      "stats": {
+        "size": "Medium",
+        "race": "Humanoid",
+        "alignment": "",
+        "armorType": "",
+        "armorClass": 12,
+        "numHitDie": 2,
+        "hitDieSize": 8,
+        "speed": "30 ft.",
+        "abilityScores": {
+          "strength": 12,
+          "dexterity": 12,
+          "constitution": 12,
+          "intelligence": 10,
+          "wisdom": 10,
+          "charisma": 10
+        },
+        "proficiencyBonus": 2,
+        "savingThrows": [],
+        "skills": [
+          {
+            "name": "Athletics",
+            "value": 3,
+            "proficient": false
+          }
+        ],
+        "damageVulnerabilities": [],
+        "damageResistances": [],
+        "damageImmunities": [],
+        "conditionImmunities": [],
+        "senses": [],
+        "languages": [
+          "Common"
+        ],
+        "challengeRating": 0,
+        "experiencePoints": 0,
+        "additionalAbilities": [],
+        "actions": [
+          {
+            "name": "Baton",
+            "description": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage."
+          },
+          {
+            "name": "Hand Crossbow",
+            "description": "Ranged Weapon Attack: +3 to hit, range 30/120 ft., one target. Hit: 4 (1d6 + 1) piercing damage."
+          }
+        ],
+        "reactions": [],
+        "legendaryActionsPerRound": 0,
+        "legendaryActionsDescription": "",
+        "legendaryActions": []
+      }
+    },
+    {
+      "name": "Packing Sentinel",
+      "flavor": {
+        "nameIsProper": false,
+        "faction": "",
+        "environment": "The Fringe",
+        "description": "Beyond Vaelithra — Mission G. Proposed homebrew encounter profile; not played or CR-balanced. CR 0 / XP 0 are import placeholders. Special effects and encounter uses require manual tracking.",
+        "imageUrl": "https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20G/Tokens/Packing-Sentinel.png"
+      },
+      "stats": {
+        "size": "Medium",
+        "race": "Construct",
+        "alignment": "",
+        "armorType": "",
+        "armorClass": 13,
+        "numHitDie": 4,
+        "hitDieSize": 8,
+        "speed": "20 ft.",
+        "abilityScores": {
+          "strength": 14,
+          "dexterity": 10,
+          "constitution": 12,
+          "intelligence": 3,
+          "wisdom": 10,
+          "charisma": 3
+        },
+        "proficiencyBonus": 2,
+        "savingThrows": [],
+        "skills": [],
+        "damageVulnerabilities": [],
+        "damageResistances": [],
+        "damageImmunities": [
+          "poison"
+        ],
+        "conditionImmunities": [
+          "Charmed",
+          "Frightened",
+          "Poisoned"
+        ],
+        "senses": [],
+        "languages": [
+          "Understands simple handling commands in Common but can't speak"
+        ],
+        "challengeRating": 0,
+        "experiencePoints": 0,
+        "additionalAbilities": [
+          {
+            "name": "Handling Circuit",
+            "description": "The sentinel is inactive while its handling circuit is switched off. Switching the circuit off immediately ends any effect of the sentinel's Hold Position action."
+          },
+          {
+            "name": "Shutdown Latch",
+            "description": "A creature within 5 feet of the sentinel can take an action to make a DC 12 Dexterity check using Thieves' Tools or a DC 12 Intelligence (Arcana) check. On a success, the sentinel becomes inactive until its handling circuit is deliberately switched on again. A failed check has no additional effect."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Padded Clamp",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage."
+          },
+          {
+            "name": "Hold Position (2/Encounter)",
+            "description": "The sentinel directs its handling field at one creature it can see within 15 feet of itself. The target must succeed on a DC 12 Strength saving throw or have its Speed reduced to 0 until the end of the sentinel's next turn. The target can still act normally. The effect ends early if the sentinel becomes inactive or is destroyed."
+          }
+        ],
+        "reactions": [],
+        "legendaryActionsPerRound": 0,
+        "legendaryActionsDescription": "",
+        "legendaryActions": []
+      }
+    },
+    {
+      "name": "Damar Seta",
+      "flavor": {
+        "nameIsProper": true,
+        "faction": "",
+        "environment": "The Fringe",
+        "description": "Beyond Vaelithra — Mission G. Proposed homebrew encounter profile; not played or CR-balanced. CR 0 / XP 0 are import placeholders. Special effects and encounter uses require manual tracking.",
+        "imageUrl": "https://raw.githubusercontent.com/Malvidra-Twisted-World/beyond-vaelithra/master/Assets/Mission%20G/Tokens/Damar-Seta.png"
+      },
+      "stats": {
+        "size": "Medium",
+        "race": "Humanoid (Human)",
+        "alignment": "",
+        "armorType": "",
+        "armorClass": 10,
+        "numHitDie": 2,
+        "hitDieSize": 8,
+        "speed": "30 ft.",
+        "abilityScores": {
+          "strength": 10,
+          "dexterity": 10,
+          "constitution": 10,
+          "intelligence": 12,
+          "wisdom": 11,
+          "charisma": 12
+        },
+        "proficiencyBonus": 2,
+        "savingThrows": [],
+        "skills": [
+          {
+            "name": "Investigation",
+            "value": 3,
+            "proficient": false
+          },
+          {
+            "name": "Persuasion",
+            "value": 3,
+            "proficient": false
+          }
+        ],
+        "damageVulnerabilities": [],
+        "damageResistances": [],
+        "damageImmunities": [],
+        "conditionImmunities": [],
+        "senses": [],
+        "languages": [
+          "Common"
+        ],
+        "challengeRating": 0,
+        "experiencePoints": 0,
+        "additionalAbilities": [],
+        "actions": [
+          {
+            "name": "Improvised Strike",
+            "description": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage."
+          }
+        ],
+        "reactions": [],
+        "legendaryActionsPerRound": 0,
+        "legendaryActionsDescription": "",
+        "legendaryActions": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+!alias mgcrew <drac2>
+c = combat()
+if not c:
+    err("Start initiative with !init begin first.")
+a = &ARGS&
+p = a[0] if a else "4"
+if p not in ["2", "3", "4", "5"]:
+    err("Pass party size 2, 3, 4, or 5.")
+p = int(p)
+roster = [["Ratri Sembada", "RS", "H7", "p", 18 if p == 2 else 27]]
+if p >= 3:
+    roster.append(["Recovery Hand", "RH1", "R7", "o", 11])
+if p == 5:
+    roster.append(["Recovery Hand", "RH2", "H11", "o", 11])
+cmds = []
+for monster, name, loc, color, hp in roster:
+    if not c.get_combatant(name, strict=True):
+        cmds.append('!init madd "' + monster + '" -name "' + name + '" -hp ' + str(hp) + ' -note "Location: ' + loc + ' | Size: M | Color: ' + color + '"')
+return "multiline\n" + "\n".join(cmds) if cmds else 'echo Preset already present; HP and positions were preserved.'
+</drac2>

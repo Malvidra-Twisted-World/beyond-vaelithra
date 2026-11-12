@@ -1,0 +1,52 @@
+[
+  {
+    "key": "g1",
+    "dest": "Maps/G1-Utility-Cut.png",
+    "prompt": "Use case: illustration-story. Asset type: player-safe VTT battlemap G1, Abandoned Utility Cut, Mission G The Empty Lair. Generate a single landscape raster map, exactly 1536 by 1024 pixels (3:2). Strict orthographic 90 degree overhead, no perspective, roofs removed, all floor surfaces clearly visible. Grounded Indonesian-inspired modern urban fantasy industrial city outskirts; old concrete utility culvert built into rocky embankment, humid weeds, rusted pipes, daylight and amber practical lights, muted gray green brown painterly game-cartography, clear walkable routes. Layout for a 24-column by 16-row invisible square grid at 64 pixels: south-center entry trail enters between low retaining walls, central open yard, two continuous routes leading north: a wide dry cracked-concrete ramp on left and a narrow damp maintenance path on right, join at a recessed sealed double entrance in the north-center embankment. Broken small guard shack east, pallet stack west, no vehicles blocking paths. Paths at least 128 pixels wide, usable north gate door gaps, cover around edges. The place is quiet, deliberately vacated, not destroyed. No creatures, dragons, people, bodies, blood, magic portals, living guards, tokens, box objective, lettering, labels, coordinates, compass, grid lines, decorative border, watermark, UI, text. Full-bleed art. Every route visibly connected. This image is geography staging only, no lore emblems or faction insignia.",
+    "generated_file": "exec-e93704e2-ed6f-4d24-83db-a4bf1a8393ef.png",
+    "original_generated_file": "exec-09ed6155-0ffa-43f4-a7e4-a1f03bd5f802.png",
+    "selection_note": "Selected orthographic correction; initial oblique variant retained locally only."
+  },
+  {
+    "key": "g2",
+    "dest": "Maps/G2-Receiving-Hall.png",
+    "prompt": "Use case: illustration-story. Create one VTT BATTLEMAP image EXACTLY 1536x1024, landscape. CAMERA: mathematically orthographic floor plan, camera vertically straight down from the ceiling, ZERO perspective, NO building facades, NO view of vertical door faces, NO isometric view. Roofs cut away; show wall thickness as flat outlines. Grounded modern Indonesian urban industrial fantasy, aged concrete, brass magical utility hardware, teal glass, amber overhead lamps. G2 RECEIVING HALL in a deliberately vacated hidden arcane workshop. Layout: main entrance gap in south-center; wide central aisle leading to a small open doorway on north-center edge; empty receiving counter against west wall; neatly swept rectangular dust-free shapes where crates USED TO STAND; a disconnected wall switch panel near east wall; a short side inspection bay at southeast with chalk-colored geometric floor marking that is not text. Clear accessible floors, connected walkable paths at least two 64px squares wide. The room is orderly, not ransacked. Sparse equipment kept to edges. No people, dragons, animals, bodies, tokens, objective chest, ruins from battle, portal, readable writing, labels, grid, coordinates, decorative border or UI. Hand-painted high quality top-down game map, full bleed, muted sandstone and charcoal. Spatial staging only no faction symbols.",
+    "generated_file": "exec-b66bb778-318c-43a6-baf7-8f8a546f3e11.png"
+  },
+  {
+    "key": "g3",
+    "dest": "Maps/G3-Archive-Packing.png",
+    "prompt": "Use case: illustration-story. Single VTT BATTLEMAP, EXACTLY 1536x1024 landscape. Strict ORTHOGRAPHIC 90-DEGREE OVERHEAD, architectural cutaway plan, NO isometric/perspective and NO wall front elevation. Modern urban arcane workshop in an abandoned utility structure at Indonesian industrial city outskirts, not medieval castle or cyberpunk. G3 ARCHIVE AND PACKING FLOOR: south-center doorway opens to wide central junction, west half room has low rectangular shelves along outer walls and two accessible research desks near west-center; east half has a clean circular ritual inlay flush with floor with NO glowing portal, chalk/alchemical markings scrubbed away and orderly cable ends; northeast is a small storage alcove with open doorway facing south, one inconspicuous SMALL plain slate-colored rectangular case on low shelf. North-center exit leads into a 128px wide corridor between rooms. Clear floor corridors connect all rooms and both south/north exit gaps. This is deliberate orderly departure: empty hooks, dust outlines, folded packing cloths at margins, NO hoard, NO giant serpent or dragon anatomy clues, NO monster, NO living beings. Gray aged concrete with cream tiles, brass and warm amber worklamps, subtle teal technical accents, richly painted floor textures. Rooms and walls read clearly, overhead props no obstruction. No tokens, labels, gridlines, coordinates, text, watermark, decorative border or split panels. Full-bleed game cartography.",
+    "generated_file": "exec-f74f9d7c-e428-4cff-b7eb-c20e50bb35ea.png"
+  },
+  {
+    "key": "g4",
+    "dest": "Maps/G4-Dispatch-Bay.png",
+    "prompt": "Use case: illustration-story. Single player-safe VTT battle map EXACTLY 1536 by 1024 landscape. TOP-DOWN ORTHOGRAPHIC architectural cutaway plan: camera points straight DOWN, no perspective whatsoever, no front or side elevations, flat overhead walls and floors. G4 DISPATCH BAY of a deliberately vacated hidden arcane workroom inside a modern old concrete utility complex in humid Indonesian urban-industrial outskirts. Wide south-center doorway feeds main loading floor, overhead view of central pallet trolley with orderly empty packing slats, sparse empty metal storage racks on west edge. Small disconnected brass handling apparatus in southwest corner, switch console near southeast edge. NORTH-CENTER outward rolling shutter gap is visibly OPEN to a short concrete ramp exiting the image. Two wide continuous floor routes around trolley reach the north ramp, no dead ends. East service shelf with ordinary wrapping paper, west drainage channel clearly narrow enough to step over. Worn cream/gray concrete, amber industrial lamps, restrained teal utility magic, vines outside north boundary. This is an exit/negotiation encounter map, no damaged battle zone, no enemies or bodies, no giant creature, no treasure hoard, no words, labels, symbols denoting factions, grid, border, UI or coordinates. Professional painted VTT cartography, clear walkable spaces at least128px wide.",
+    "generated_file": "exec-64d919e0-bf8d-42de-b316-4b1ffe72e204.png"
+  },
+  {
+    "key": "damar",
+    "dest": "Tokens/Damar-Seta.png",
+    "prompt": "Use case: stylized-concept. VTT circular portrait token of Damar Seta, proposed adult human male magical-object collector in a grounded Indonesian-inspired modern urban fantasy industrial port. Medium-brown skin, middle-aged, neatly combed salt-and-pepper hair, thin practical round glasses, understated brown linen jacket over cream shirt, measured neutral expression, holding a SMALL plain inventory card with NO writing. Head and shoulders fill a single circular warm neutral vignette within clean bronze token ring. Semi-realistic painted RPG portrait, soft lighting, no villain coding, no weapons or faction insignia, no lettering, no other figures. Square image. Everything outside the circular token is truly transparent alpha, not white or checkerboard. Complete ring comfortably inside square canvas.",
+    "generated_file": "exec-3fb1eca9-6663-4f19-8ba4-78eed0dfd404.png"
+  },
+  {
+    "key": "ratri",
+    "dest": "Tokens/Ratri-Sembada.png",
+    "prompt": "Use case: stylized-concept. VTT circular portrait token of Ratri Sembada, proposed adult human female independent salvage crew leader in grounded Indonesian-inspired modern urban fantasy. Brown skin, dark tied-back hair, alert composed face, practical olive field jacket and scarf, a pencil tucked behind ear, shoulder strap for survey satchel. Confident working professional, not sinister, not a named faction member. Semi-realistic painted head and shoulders portrait inside a single copper-edged dark teal circular vignette. Square image, no text, logos, weapons pointing at camera, or additional people. EVERYTHING outside the complete circular frame must be genuine transparent alpha. Crisp readable silhouette at small scale.",
+    "generated_file": "exec-5ed1b897-eed7-494c-82ef-1dfaa40f9d37.png"
+  },
+  {
+    "key": "hand",
+    "dest": "Tokens/Recovery-Hand.png",
+    "prompt": "Use case: stylized-concept. Single VTT circular portrait token, generic adult human salvage worker in Indonesian-inspired grounded modern urban industrial fantasy. Dark brown skin, short dark hair under plain soft work cap, utility vest over blue-grey shirt, small rolled work gloves attached to shoulder strap, calm tired expression. Gender-neutral practical appearance, no identity beyond generic worker. Painted semi-realistic RPG bust portrait filling a round rust-orange vignette with simple bronze border, readable at small scale. No lettering, tools shaped like guns, logos, skulls, factions, additional people. Square canvas, complete circle ring with generous margin. Truly transparent alpha everywhere outside circle.",
+    "generated_file": "exec-f79dbda0-281c-4135-a86a-c3e89965d382.png"
+  },
+  {
+    "key": "sentinel",
+    "dest": "Tokens/Packing-Sentinel.png",
+    "prompt": "Use case: stylized-concept. Single circular VTT portrait token for a dormant PACKING SENTINEL, a medium-sized utilitarian brass-and-slate handling construct shaped like a compact industrial trolley with TWO articulated padded lifting clamps and a small dim amber utility lens. A mundane workroom lifting machine with a trace of arcane utility, NO humanoid face, NO skull, NO dragon/serpent motifs, NO blades or giant weapons, no faction symbols. Three-quarter close view for token recognizability, semi-realistic painted RPG art, grey teal round vignette surrounded by dark bronze ring. Square canvas, everything OUTSIDE the complete round frame genuinely transparent alpha. No text or watermark.",
+    "generated_file": "exec-e1818867-bf00-487c-ab09-87e1dffcd12d.png"
+  }
+]
